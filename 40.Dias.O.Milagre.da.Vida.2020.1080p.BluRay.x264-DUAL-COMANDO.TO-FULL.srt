@@ -1,0 +1,7932 @@
+1
+00:00:06,464 --> 00:00:08,633
+<b><i>Minha história
+não é fácil de se ouvir.</b></i>
+
+2
+00:00:09,217 --> 00:00:12,554
+<b><i>Acho que é bom avisar desde já.</b></i>
+
+3
+00:00:12,637 --> 00:00:16,432
+<b>BASEADO EM UMA HISTÓRIA REAL</b>
+
+4
+00:00:36,703 --> 00:00:38,079
+<b>O que está fazendo?</b>
+
+5
+00:00:38,162 --> 00:00:39,205
+<b>É melhor você correr!</b>
+
+6
+00:00:39,664 --> 00:00:42,375
+<b>Não é justo
+ser acordado antes do despertador.</b>
+
+7
+00:00:44,419 --> 00:00:45,420
+<b>É a vez do papai.</b>
+
+8
+00:00:46,254 --> 00:00:48,548
+<b>Ah, o monstro Grace!</b>
+
+9
+00:00:51,551 --> 00:00:53,887
+<b>Nós não desperdiçamos comida.
+Certo?</b>
+
+10
+00:00:53,970 --> 00:00:56,723
+<b>- Não.
+- E então?</b>
+
+11
+00:00:56,806 --> 00:00:59,142
+<b>Quando é assim, não é comida.</b>
+
+12
+00:00:59,225 --> 00:01:01,603
+<b>- Oi, amor, o café está na bancada.
+- Obrigada.</b>
+
+13
+00:01:02,604 --> 00:01:04,647
+<b>Pode nos ajudar com um problema?</b>
+
+14
+00:01:04,731 --> 00:01:05,857
+<b>Qual é o problema?</b>
+
+15
+00:01:05,940 --> 00:01:09,152
+<b>Papai não fez a torrada direito.
+Ele cortou em quadrados.</b>
+
+16
+00:01:09,235 --> 00:01:11,112
+<b>Devia ser em triângulos.</b>
+
+17
+00:01:12,989 --> 00:01:14,908
+<b>Deixe-me ver
+o que eu posso fazer.</b>
+
+18
+00:01:14,991 --> 00:01:16,534
+<b>Achei que tinha feito
+um bom trabalho.</b>
+
+19
+00:01:16,910 --> 00:01:18,328
+<b>O que está fazendo?</b>
+
+20
+00:01:18,411 --> 00:01:20,830
+<b>Isso é o que chamamos de mágica.</b>
+
+21
+00:01:25,335 --> 00:01:26,419
+<b>Viu? O que acha?</b>
+
+22
+00:01:26,920 --> 00:01:29,297
+<b>É por isso que você é a mamãe.</b>
+
+23
+00:01:29,380 --> 00:01:30,380
+<b>Café da manhã?</b>
+
+24
+00:01:30,423 --> 00:01:31,508
+<b>Não tenho tempo.</b>
+
+25
+00:01:31,591 --> 00:01:34,135
+<b>Mamãe, você tem que se alimentar.</b>
+
+26
+00:01:34,802 --> 00:01:35,887
+<b>Você está certíssima.</b>
+
+27
+00:01:37,931 --> 00:01:39,224
+<b>- Tchau.
+- Tchau, amor.</b>
+
+28
+00:01:40,725 --> 00:01:41,726
+<b>Ei, aonde você vai?</b>
+
+29
+00:01:43,520 --> 00:01:45,021
+<b>Mamãe! Mamãe!</b>
+
+30
+00:01:48,858 --> 00:01:49,859
+<b>Mamãe!</b>
+
+31
+00:01:49,943 --> 00:01:53,112
+<b>Não vá embora. Por que não fica
+em casa e brinca comigo?</b>
+
+32
+00:01:53,196 --> 00:01:54,656
+<b>Gracie, amor,
+já falamos sobre isso.</b>
+
+33
+00:01:55,114 --> 00:01:57,158
+<b>Sábado é o dia mais movimentado
+da mamãe.</b>
+
+34
+00:01:57,242 --> 00:02:00,787
+<b>Mas quando chegar em casa,
+vamos comer pizza e assistir a um filme.</b>
+
+35
+00:02:00,870 --> 00:02:02,372
+<b>- Legal!
+- Tá bom.</b>
+
+36
+00:02:03,915 --> 00:02:05,124
+<b>- Tchau, amor.
+- Tchau.</b>
+
+37
+00:02:16,094 --> 00:02:17,428
+<b>Tchau, mamãe!</b>
+
+38
+00:02:17,512 --> 00:02:21,599
+<b><i>Há um fogo aí dentro
+Você pode senti-lo ardendo</b>.</i>
+
+39
+00:02:22,475 --> 00:02:26,646
+<b><i>É uma luz de néon
+Brilhando como uma fornalha</b>.</i>
+
+40
+00:02:27,438 --> 00:02:31,150
+<b><i>E a noite é longa
+Mas o mundo continua girando</b>.</i>
+
+41
+00:02:31,609 --> 00:02:36,322
+<b><i>Você precisa saber
+Isso não é o fim</b>.</i>
+
+42
+00:02:37,532 --> 00:02:41,160
+<b><i>A cada novo nascer do sol
+Está um passo mais perto</b>.</i>
+
+43
+00:02:42,787 --> 00:02:46,166
+<b><i>É um sinal no céu
+De que a luta não acabou</b>.</i>
+
+44
+00:02:47,667 --> 00:02:51,421
+<b><i>Então enfrente o mundo
+É agora ou nunca</b>.</i>
+
+45
+00:02:51,921 --> 00:02:56,759
+<b><i>Este é o seu momento
+Deixe-o começar</b>.</i>
+
+46
+00:02:56,843 --> 00:03:01,431
+<b><i>Isso poderia mudar tudo</b>.</i>
+
+47
+00:03:01,890 --> 00:03:04,017
+<b>Consegue sentir agora?</b>
+
+48
+00:03:04,100 --> 00:03:06,394
+<b>Algo está no ar.</b>
+
+49
+00:03:06,978 --> 00:03:11,608
+<b><i>Isso poderia mudar tudo</b>.</i>
+
+50
+00:03:11,691 --> 00:03:16,404
+<b><i>Eu sei que vamos saber
+Quando chegarmos lá</b>.</i>
+
+51
+00:03:17,697 --> 00:03:21,826
+<b><i>Chega de esperar
+Eu vou me arriscar</b>.</i>
+
+52
+00:03:21,910 --> 00:03:24,913
+<b>BASEADO NO LIVRO "UNPLANNED",
+DE ABBY JOHNSON</b>
+
+53
+00:03:27,123 --> 00:03:28,541
+<b><i>Deixe começar...</b></i>
+
+54
+00:03:30,585 --> 00:03:32,795
+<b><i>Já me perguntaram mil vezes:</b></i>
+
+55
+00:03:33,213 --> 00:03:34,756
+<b><i>"Você era mesmo tão inocente?</b></i>
+
+56
+00:03:34,839 --> 00:03:36,549
+<b><i>Era mesmo tão ambivalente?</b></i>
+
+57
+00:03:36,633 --> 00:03:38,968
+<b><i>Tão ingênua? Tão tola? Tão..."</b></i>
+
+58
+00:03:39,552 --> 00:03:40,845
+<b><i>Vocês entendem.</b></i>
+
+59
+00:03:41,971 --> 00:03:42,972
+<b><i>Minha resposta?</b></i>
+
+60
+00:03:43,515 --> 00:03:44,516
+<b><i>"Sim."</b></i>
+
+61
+00:03:45,642 --> 00:03:46,952
+<b><i>Com frequência,
+não gostam das minhas respostas.</b></i>
+
+62
+00:03:46,976 --> 00:03:48,394
+<b>DIRETORA DA CLÍNICA</b>
+
+63
+00:03:48,478 --> 00:03:49,729
+<b><i>É compreensível,</b></i>
+
+64
+00:03:49,812 --> 00:03:52,524
+<b><i>porque minha história
+não é certinha</b></i>
+
+65
+00:03:52,607 --> 00:03:54,984
+<b><i>nem vem embrulhada
+num belo laço vermelho.</b></i>
+
+66
+00:03:55,568 --> 00:03:58,154
+<b><i>Na verdade, é provável
+que ela cause um mal-estar.</b></i>
+
+67
+00:04:02,909 --> 00:04:04,869
+<b>PATERNIDADE PLANEJADA</b>
+
+68
+00:04:06,704 --> 00:04:07,580
+<b>Ei, Abby.</b>
+
+69
+00:04:07,664 --> 00:04:08,706
+<b>Desculpe incomodar,</b>
+
+70
+00:04:08,790 --> 00:04:11,510
+<b>mas eles precisam de mais uma pessoa
+na última sala. Você está livre?</b>
+
+71
+00:04:11,668 --> 00:04:12,669
+<b>Claro.</b>
+
+72
+00:04:17,465 --> 00:04:20,176
+<b><i>Embora eu estivesse na Paternidade
+Planejada há quase oito anos,</b></i>
+
+73
+00:04:20,552 --> 00:04:24,806
+<b><i>nunca tinha sido chamada para ajudar
+a equipe cirúrgica num aborto,</b></i>
+
+74
+00:04:25,139 --> 00:04:27,559
+<b><i>e não tinha ideia
+de por que me chamaram agora.</b></i>
+
+75
+00:04:30,854 --> 00:04:31,855
+<b>SALA DE PROCEDIMENTOS 2</b>
+
+76
+00:04:39,195 --> 00:04:41,322
+<b>Megan disse que precisa de ajuda.</b>
+
+77
+00:04:41,406 --> 00:04:43,491
+<b>Só faço procedimentos
+guiados por ultrassom.</b>
+
+78
+00:04:43,575 --> 00:04:44,784
+<b>Segure a sonda.</b>
+
+79
+00:04:51,499 --> 00:04:53,084
+<b>O gel é um pouco frio.</b>
+
+80
+00:04:56,129 --> 00:04:57,130
+<b>Não se mexa.</b>
+
+81
+00:05:08,725 --> 00:05:09,809
+<b>Pegue meu tubo.</b>
+
+82
+00:05:33,583 --> 00:05:34,709
+<b>Isso.</b>
+
+83
+00:05:34,792 --> 00:05:35,793
+<b>Como está?</b>
+
+84
+00:05:37,587 --> 00:05:40,840
+<b>Um pouco à esquerda.
+Incline levemente para baixo.</b>
+
+85
+00:05:42,675 --> 00:05:43,760
+<b>Assim está melhor.</b>
+
+86
+00:05:52,560 --> 00:05:53,561
+<b>13 semanas.</b>
+
+87
+00:05:54,062 --> 00:05:55,980
+<b>- Não se mexa.
+- Fique parada.</b>
+
+88
+00:05:56,397 --> 00:05:58,650
+<b>- Segure minha mão.
+- Está doendo.</b>
+
+89
+00:05:58,733 --> 00:06:01,236
+<b>Quer terminar logo, não é?
+Respire fundo.</b>
+
+90
+00:06:02,529 --> 00:06:05,823
+<b>Segure a sonda no lugar
+para eu ver o que estou fazendo.</b>
+
+91
+00:06:07,742 --> 00:06:09,827
+<b>Pronto. Aí em cima.</b>
+
+92
+00:06:12,372 --> 00:06:14,040
+<b>Ele se afastou do cateter.</b>
+
+93
+00:06:14,541 --> 00:06:17,210
+<b>Eles sempre se movem.
+É por isso que faço desta forma.</b>
+
+94
+00:06:27,846 --> 00:06:29,138
+<b>"Tire-me daqui."</b>
+
+95
+00:07:19,063 --> 00:07:20,607
+<b>Aonde ela está indo?</b>
+
+96
+00:07:37,248 --> 00:07:38,291
+<b>Abby, você está bem?</b>
+
+97
+00:07:44,255 --> 00:07:45,548
+<b>Precisa de um médico?</b>
+
+98
+00:07:46,299 --> 00:07:49,385
+<b>Ele é a última pessoa
+que eu quero ver agora.</b>
+
+99
+00:07:54,807 --> 00:07:56,643
+<b><i>Para a minha infelicidade,</b></i>
+
+100
+00:07:58,186 --> 00:07:59,604
+<b><i>esta é a minha história.</b></i>
+
+101
+00:08:03,733 --> 00:08:06,319
+<b>OITO ANOS ANTES</b>
+
+102
+00:08:11,074 --> 00:08:13,493
+<b><i>Comecei meu 1º ano
+na Universidade do Texas</b></i>
+
+103
+00:08:13,576 --> 00:08:15,370
+<b><i>como a maioria dos universitários,</b></i>
+
+104
+00:08:15,745 --> 00:08:17,997
+<b><i>perguntando-me como eu deixaria
+minha marca no mundo.</b></i>
+
+105
+00:08:18,081 --> 00:08:19,081
+<b>Olá.</b>
+
+106
+00:08:19,249 --> 00:08:20,959
+<b>- Está quente lá fora, não?
+- É.</b>
+
+107
+00:08:21,042 --> 00:08:22,710
+<b>- Por que não leva uma garrafa?
+- Obrigada.</b>
+
+108
+00:08:22,794 --> 00:08:24,337
+<b>Conhece a Paternidade Planejada?</b>
+
+109
+00:08:25,296 --> 00:08:27,966
+<b>Ouvi falar.
+É uma clínica de saúde feminina, não?</b>
+
+110
+00:08:28,049 --> 00:08:31,511
+<b>Exato. Nossas clínicas
+são importantes para quem depende de nós</b>
+
+111
+00:08:31,594 --> 00:08:33,805
+<b>para controle de natalidade ou aborto,
+se necessário.</b>
+
+112
+00:08:35,765 --> 00:08:37,183
+<b>Não sei o que acho do aborto.</b>
+
+113
+00:08:37,267 --> 00:08:39,352
+<b>Minha família é pró-vida,
+então acho que também sou.</b>
+
+114
+00:08:39,435 --> 00:08:41,938
+<b>Entendo perfeitamente,
+mas na Paternidade Planejada</b>
+
+115
+00:08:42,021 --> 00:08:43,898
+<b>nosso objetivo é diminuir
+o número de abortos.</b>
+
+116
+00:08:44,691 --> 00:08:46,734
+<b>Diminuir? Como assim?</b>
+
+117
+00:08:46,818 --> 00:08:49,362
+<b>Bem, com o controle de natalidade
+livremente acessível,</b>
+
+118
+00:08:49,445 --> 00:08:52,282
+<b>milhares e milhares de abortos
+não serão necessários.</b>
+
+119
+00:08:52,365 --> 00:08:55,577
+<b>Contudo, quando uma mulher
+realmente precisar de um,</b>
+
+120
+00:08:55,660 --> 00:08:57,954
+<b>nossas clínicas são importante
+para a segurança dela.</b>
+
+121
+00:08:58,037 --> 00:09:01,374
+<b>É difícil de acreditar
+que ainda há quem queira nos dizer</b>
+
+122
+00:09:01,457 --> 00:09:03,501
+<b>o que podemos ou não
+fazer com nosso corpo.</b>
+
+123
+00:09:03,585 --> 00:09:07,463
+<b>Sim. Sabe, eu concordo totalmente
+com direitos iguais para as mulheres.</b>
+
+124
+00:09:07,547 --> 00:09:08,798
+<b>É esse o intuito de todos nós.</b>
+
+125
+00:09:08,882 --> 00:09:10,592
+<b>- Qual o seu nome?
+- Abby Brannam.</b>
+
+126
+00:09:10,675 --> 00:09:13,303
+<b>Estou no 1º ano
+do curso de Psicologia.</b>
+
+127
+00:09:13,386 --> 00:09:14,637
+<b>Prazer. Sou Jill.</b>
+
+128
+00:09:14,721 --> 00:09:17,098
+<b>Trabalho com serviços comunitários
+na Paternidade Planejada.</b>
+
+129
+00:09:17,182 --> 00:09:18,766
+<b>Precisamos de voluntárias.</b>
+
+130
+00:09:18,850 --> 00:09:22,103
+<b>Muitos dos nossos serviços são gratuitos
+ou de baixo custo para nossas clientes.</b>
+
+131
+00:09:23,146 --> 00:09:24,856
+<b>Certo. Pode me inscrever.</b>
+
+132
+00:09:25,190 --> 00:09:27,233
+<b><i>Saí do campus naquele dia
+como uma orgulhosa</b></i>
+
+133
+00:09:27,317 --> 00:09:29,068
+<b><i>defensora de mulheres em crise.</b></i>
+
+134
+00:09:30,195 --> 00:09:33,239
+<b><i>Então por que não liguei para minha mãe
+e contei a boa notícia?</b></i>
+
+135
+00:09:34,157 --> 00:09:37,202
+<b>- Assassina!
+- Assassina! Vá para casa!</b>
+
+136
+00:09:37,660 --> 00:09:41,164
+<b><i>Porque não achei que ela entenderia
+como o trabalho que eu ia fazer</b></i>
+
+137
+00:09:41,247 --> 00:09:45,585
+<b><i>não iria aumentar o número de abortos,
+mas sim diminuí-los.</b></i>
+
+138
+00:09:46,794 --> 00:09:48,671
+<b><i>Isso leva a um ótimo ensinamento:</b></i>
+
+139
+00:09:49,172 --> 00:09:52,509
+<b><i>Jamais confie numa decisão
+que você não queira que sua mãe saiba.</b></i>
+
+140
+00:09:58,056 --> 00:09:59,682
+<b>Continuam olhando para mim.</b>
+
+141
+00:10:01,184 --> 00:10:05,021
+<b>Você está aqui para dar uma olhada.
+Se não gostar, não precisa ficar.</b>
+
+142
+00:10:05,104 --> 00:10:06,564
+<b>ACOMPANHANTE VOLUNTÁRIA</b>
+
+143
+00:10:08,608 --> 00:10:10,944
+<b>- Oi. Você é a Abby?
+- Sou.</b>
+
+144
+00:10:11,027 --> 00:10:12,570
+<b>- Sou a Summer.
+- Prazer.</b>
+
+145
+00:10:12,654 --> 00:10:13,571
+<b>Igualmente.</b>
+
+146
+00:10:13,655 --> 00:10:15,782
+<b>Tome, bote isso para saberem
+que está conosco.</b>
+
+147
+00:10:15,865 --> 00:10:17,075
+<b>Eu seguro isto para você.</b>
+
+148
+00:10:19,994 --> 00:10:22,664
+<b>Isso é realmente normal?</b>
+
+149
+00:10:22,747 --> 00:10:24,165
+<b>Ignore-os.</b>
+
+150
+00:10:24,249 --> 00:10:27,418
+<b>Quando uma cliente aparece,
+vamos logo até o carro,</b>
+
+151
+00:10:27,502 --> 00:10:29,422
+<b>para que haja alguém lá
+quando ela abrir a porta.</b>
+
+152
+00:10:30,380 --> 00:10:32,632
+<b>Quando ela abrir,
+comece logo a falar.</b>
+
+153
+00:10:32,715 --> 00:10:34,175
+<b>- Sobre o quê?
+- Qualquer coisa.</b>
+
+154
+00:10:34,259 --> 00:10:37,720
+<b>O tempo, o carro, as roupas dela.
+Qualquer coisa para distraí-la das vozes.</b>
+
+155
+00:10:37,804 --> 00:10:39,264
+<b>Eles vão atormentá-la.</b>
+
+156
+00:10:39,347 --> 00:10:41,182
+<b>Faça com que ela ouça
+somente a sua voz.</b>
+
+157
+00:10:41,558 --> 00:10:43,786
+<b>Vou com você nas primeiras vezes
+para que pegue o jeito, tá?</b>
+
+158
+00:10:43,810 --> 00:10:45,061
+<b>- Tá.
+- Tá.</b>
+
+159
+00:10:45,645 --> 00:10:47,647
+<b>Temos uns minutos
+antes da primeira cliente.</b>
+
+160
+00:10:47,730 --> 00:10:49,065
+<b>Vou te apresentar a Cheryl.</b>
+
+161
+00:10:49,440 --> 00:10:52,443
+<b>O código de acesso é 2-2-2-9.</b>
+
+162
+00:10:52,819 --> 00:10:54,404
+<b>Sou péssima em lembrar.</b>
+
+163
+00:10:54,487 --> 00:10:56,114
+<b>É fácil. Corresponde a "bebê".</b>
+
+164
+00:10:58,116 --> 00:11:01,035
+<b>Não deixe de tirar xerox
+das duas primeiras e arquivar.</b>
+
+165
+00:11:01,119 --> 00:11:02,287
+<b>Com licença. Cheryl?</b>
+
+166
+00:11:02,370 --> 00:11:04,289
+<b>Esta é Abby,
+nossa mais nova voluntária.</b>
+
+167
+00:11:04,372 --> 00:11:06,457
+<b>Esta é Cheryl Alessandro,
+a diretora.</b>
+
+168
+00:11:06,541 --> 00:11:08,334
+<b>- Bem-vinda. Prazer.
+- Igualmente.</b>
+
+169
+00:11:08,668 --> 00:11:10,545
+<b>- Eu cuido disso para você.
+- Obrigada.</b>
+
+170
+00:11:10,628 --> 00:11:12,338
+<b>Samantha? Venha aqui.</b>
+
+171
+00:11:13,006 --> 00:11:14,966
+<b>Ponha isto num armário para mim.</b>
+
+172
+00:11:15,341 --> 00:11:17,802
+<b>- Summer, vigie o estacionamento.
+- Tudo bem.</b>
+
+173
+00:11:20,138 --> 00:11:23,224
+<b>Por que eles pensam
+que todas as mulheres vêm fazer aborto?</b>
+
+174
+00:11:23,683 --> 00:11:25,935
+<b>Vocês oferecem outros serviços,
+não é?</b>
+
+175
+00:11:26,019 --> 00:11:27,270
+<b>Não aos sábados.</b>
+
+176
+00:11:27,353 --> 00:11:30,607
+<b>Aos sábados,
+só fazemos abortos, e eles sabem disso.</b>
+
+177
+00:11:30,690 --> 00:11:32,609
+<b>Especialmente
+a Coalizão Pró-Vida.</b>
+
+178
+00:11:32,942 --> 00:11:34,277
+<b>Eles são como abutres.</b>
+
+179
+00:11:34,736 --> 00:11:36,070
+<b>A sede deles é aqui perto,</b>
+
+180
+00:11:36,154 --> 00:11:39,866
+<b>e o objetivo deles é colocar a comunidade
+contra nós e nos fazer fechar.</b>
+
+181
+00:11:39,949 --> 00:11:41,201
+<b>Primeira cliente.</b>
+
+182
+00:11:41,784 --> 00:11:42,785
+<b>Vai.</b>
+
+183
+00:11:43,203 --> 00:11:44,283
+<b>Não a deixe parar de andar.</b>
+
+184
+00:11:44,787 --> 00:11:47,123
+<b>Ei, princesa.
+Seu pai sabe que está aqui?</b>
+
+185
+00:11:48,208 --> 00:11:50,418
+<b>Ele sabe que está matando
+os netinhos dele?</b>
+
+186
+00:11:51,044 --> 00:11:53,296
+<b>Lá vêm elas. Oi, como vão vocês?</b>
+
+187
+00:11:53,379 --> 00:11:54,923
+<b>- Ei. Tá, ignorem-me.
+- Olá!</b>
+
+188
+00:11:55,006 --> 00:11:57,759
+<b>Como o tempo esquentou, né?
+Adorei a cor da sua camiseta.</b>
+
+189
+00:11:57,842 --> 00:11:59,820
+<b>Não importa o que você fizer
+pelo resto da sua vida,</b>
+
+190
+00:11:59,844 --> 00:12:01,596
+<b>você sempre será
+uma assassina de bebês!</b>
+
+191
+00:12:01,679 --> 00:12:03,723
+<b>Tudo bem. Olhe pra mim
+e continue andando.</b>
+
+192
+00:12:03,806 --> 00:12:06,601
+<b>Tudo isso porque não manteve
+as pernas fechadas!</b>
+
+193
+00:12:06,976 --> 00:12:08,269
+<b>Continue andando!</b>
+
+194
+00:12:08,353 --> 00:12:09,747
+<b>Estou falando com a assassina de bebês,
+não com você!</b>
+
+195
+00:12:09,771 --> 00:12:11,689
+<b>Abby, abra a porta para ela.</b>
+
+196
+00:12:12,273 --> 00:12:13,816
+<b>Não precisa fazer isso!</b>
+
+197
+00:12:13,900 --> 00:12:15,693
+<b>Volte aqui!
+Estou falando com você!</b>
+
+198
+00:12:16,653 --> 00:12:18,780
+<b>Ela cuidará de você agora,
+está bem?</b>
+
+199
+00:12:18,863 --> 00:12:20,114
+<b>- Obrigada.
+- De nada.</b>
+
+200
+00:12:20,198 --> 00:12:21,824
+<b>Preciso que você assine
+aqui pra mim.</b>
+
+201
+00:12:24,160 --> 00:12:26,829
+<b>Agora são 8h42.</b>
+
+202
+00:12:31,960 --> 00:12:33,753
+<b>Pronto. Sua vez.</b>
+
+203
+00:12:35,004 --> 00:12:37,924
+<b>Oi. Eu sou da Coalizão Pró-Vida.</b>
+
+204
+00:12:38,007 --> 00:12:40,426
+<b>Sabemos que este é um dia
+muito difícil para você.</b>
+
+205
+00:12:40,510 --> 00:12:42,595
+<b>Estamos aqui
+porque nos importamos com você.</b>
+
+206
+00:12:42,679 --> 00:12:44,138
+<b>Oi. Bom dia.</b>
+
+207
+00:12:44,514 --> 00:12:46,015
+<b>- Como você está?
+- Bem.</b>
+
+208
+00:12:46,099 --> 00:12:47,141
+<b>Tempo bom, não é?</b>
+
+209
+00:12:47,475 --> 00:12:48,476
+<b>Não ligue para eles.</b>
+
+210
+00:12:48,560 --> 00:12:50,895
+<b>Seu bebezinho
+já tem um coração batendo</b>
+
+211
+00:12:50,979 --> 00:12:53,273
+<b>e te ama profundamente.</b>
+
+212
+00:12:53,648 --> 00:12:56,901
+<b>Não me parece que o que você
+está fazendo agora é se importar.</b>
+
+213
+00:12:59,487 --> 00:13:00,738
+<b>Desculpe. Venha.</b>
+
+214
+00:13:02,907 --> 00:13:04,617
+<b>Vamos entrar, está bem?</b>
+
+215
+00:13:04,701 --> 00:13:06,202
+<b>Entre por aquela porta.</b>
+
+216
+00:13:07,996 --> 00:13:08,996
+<b>Eles não entendem.</b>
+
+217
+00:13:09,330 --> 00:13:11,499
+<b>Oi. Meu nome é Marilisa.</b>
+
+218
+00:13:11,583 --> 00:13:15,003
+<b>Sou da Coalizão Pró-Vida.
+Nós só queríamos que você soubesse</b>
+
+219
+00:13:15,086 --> 00:13:17,547
+<b>que temos outras opções para você,
+se estiver interessada,</b>
+
+220
+00:13:17,630 --> 00:13:19,215
+<b>ou quiser conversar...</b>
+
+221
+00:13:19,299 --> 00:13:20,508
+<b>Droga!</b>
+
+222
+00:13:20,592 --> 00:13:21,593
+<b>Pegaram uma.</b>
+
+223
+00:13:21,676 --> 00:13:23,469
+<b>Podiam deixar as coitadas em paz.</b>
+
+224
+00:13:23,553 --> 00:13:24,553
+<b>...sentir-se confortável.</b>
+
+225
+00:13:26,306 --> 00:13:28,266
+<b>Elena, ligue os irrigadores.</b>
+
+226
+00:13:28,349 --> 00:13:30,602
+<b>Renee, chame a polícia
+e diga que há um tumulto.</b>
+
+227
+00:13:30,685 --> 00:13:33,563
+<b>Certo, mas na última vez
+que fizemos isso,</b>
+
+228
+00:13:33,646 --> 00:13:35,207
+<b>os policiais não gostaram nada
+quando viram</b>
+
+229
+00:13:35,231 --> 00:13:36,751
+<b>que ninguém estava fazendo
+nada ilegal.</b>
+
+230
+00:13:37,567 --> 00:13:40,570
+<b>O número que você
+está tentando lembrar é 911.</b>
+
+231
+00:13:42,572 --> 00:13:45,241
+<b>Certo. Tá. Tudo bem.</b>
+
+232
+00:13:49,871 --> 00:13:50,955
+<b>Leve o bebê!</b>
+
+233
+00:13:53,291 --> 00:13:57,086
+<b><i>Quando meu turno acabou,
+eu não via a hora de sair de lá.</b></i>
+
+234
+00:13:58,213 --> 00:13:59,297
+<b>Oi.</b>
+
+235
+00:13:59,380 --> 00:14:01,382
+<b>Acho que eu nunca
+vi você aqui antes.</b>
+
+236
+00:14:01,466 --> 00:14:02,884
+<b>Não. É o meu primeiro dia.</b>
+
+237
+00:14:03,718 --> 00:14:05,512
+<b>Pode dizer
+por que se tornou voluntária?</b>
+
+238
+00:14:08,306 --> 00:14:11,518
+<b>Não sei se eu vou voltar,
+estou só dando uma olhada.</b>
+
+239
+00:14:12,101 --> 00:14:13,269
+<b>Posso perguntar seu nome?</b>
+
+240
+00:14:14,437 --> 00:14:15,647
+<b>Abby.</b>
+
+241
+00:14:15,730 --> 00:14:16,731
+<b>Abby...</b>
+
+242
+00:14:17,273 --> 00:14:20,068
+<b>Abby, você sabe que eles
+realizam abortos aqui, não é?</b>
+
+243
+00:14:25,031 --> 00:14:27,659
+<b>Sabe, na verdade,
+eu mesma fiz um aborto.</b>
+
+244
+00:14:28,451 --> 00:14:30,411
+<b>Então, não vejo problema
+em outra mulher</b>
+
+245
+00:14:30,495 --> 00:14:31,496
+<b>tomar a mesma decisão.</b>
+
+246
+00:14:31,579 --> 00:14:34,082
+<b>- Sinto muito por você.
+- Não, tudo bem.</b>
+
+247
+00:14:34,165 --> 00:14:37,085
+<b>Sério. Foi uma decisão minha.
+Ninguém me forçou.</b>
+
+248
+00:14:37,877 --> 00:14:40,213
+<b>Bem, se um dia quiser conversar
+sobre qualquer coisa...</b>
+
+249
+00:14:40,296 --> 00:14:42,048
+<b>Meu Deus, vocês não param nunca?</b>
+
+250
+00:14:42,674 --> 00:14:44,884
+<b>Estas mulheres estão sofrendo.
+Por que fazem isso?</b>
+
+251
+00:14:44,968 --> 00:14:49,305
+<b>Estamos aqui para ajudá-las,
+não machucá-las ou condená-las.</b>
+
+252
+00:14:49,389 --> 00:14:53,101
+<b>Usando fantasias e mostrando
+fotos horríveis para assustá-las?</b>
+
+253
+00:14:53,184 --> 00:14:56,563
+<b>Em que mundo uma mulher pediria
+para alguém vestido de Anjo da Morte</b>
+
+254
+00:14:56,646 --> 00:14:58,439
+<b>ajudá-la
+com sua gravidez indesejada?</b>
+
+255
+00:14:58,523 --> 00:15:00,400
+<b>Eu sou da Coalizão Pró-Vida,</b>
+
+256
+00:15:00,984 --> 00:15:02,026
+<b>e elas não.</b>
+
+257
+00:15:02,110 --> 00:15:04,404
+<b>Podemos pedir a elas que parem,
+e fazemos isso.</b>
+
+258
+00:15:04,487 --> 00:15:06,614
+<b>Mas não podemos forçá-las
+a fazer nada.</b>
+
+259
+00:15:07,365 --> 00:15:08,741
+<b>Na minha humilde opinião,</b>
+
+260
+00:15:09,659 --> 00:15:11,035
+<b>acho que você está certa, Abby.</b>
+
+261
+00:15:12,036 --> 00:15:14,747
+<b>- Não ajuda.
+- Marilisa, deixe-a em paz!</b>
+
+262
+00:15:14,831 --> 00:15:16,499
+<b>Abby, entre no seu carro.</b>
+
+263
+00:15:27,927 --> 00:15:32,390
+<b><i>Olhando agora, fico surpresa de ter dito
+para a Marilisa que fiz um aborto.</b></i>
+
+264
+00:15:33,224 --> 00:15:34,851
+<b><i>Eu nunca contei isso a ninguém.</b></i>
+
+265
+00:15:35,894 --> 00:15:39,105
+<b><i>Portanto, acho melhor eu explicar.</b></i>
+
+266
+00:15:40,565 --> 00:15:41,733
+<b>DOIS ANOS ANTES</b>
+
+267
+00:15:41,816 --> 00:15:45,195
+<b><i>Na faculdade, passei
+de aluna bem-sucedida de cidade pequena</b></i>
+
+268
+00:15:45,528 --> 00:15:47,488
+<b><i>para baladeira
+num piscar de olhos.</b></i>
+
+269
+00:15:48,031 --> 00:15:51,075
+<b><i>Literalmente, no instante
+em que meus pais me deixaram lá.</b></i>
+
+270
+00:15:52,535 --> 00:15:54,120
+<b><i>Mark morava no meu prédio</b></i>
+
+271
+00:15:54,204 --> 00:15:55,997
+<b><i>e era 10 anos mais velho que eu.</b></i>
+
+272
+00:15:56,831 --> 00:15:58,082
+<b><i>Nós começamos a namorar.</b></i>
+
+273
+00:15:58,416 --> 00:15:59,626
+<b><i>Nada sério...</b></i>
+
+274
+00:16:00,627 --> 00:16:04,506
+<b><i>até o dia em que vi dois risquinhos
+no meu teste de gravidez.</b></i>
+
+275
+00:16:10,220 --> 00:16:11,429
+<b>Ei.</b>
+
+276
+00:16:11,513 --> 00:16:13,223
+<b>Está tudo bem. Tudo bem.</b>
+
+277
+00:16:13,306 --> 00:16:15,600
+<b>Vou levar você a uma clínica
+para resolver isso.</b>
+
+278
+00:16:17,519 --> 00:16:18,520
+<b>Como assim?</b>
+
+279
+00:16:18,603 --> 00:16:20,438
+<b>Eu conheço um lugar, em Houston.</b>
+
+280
+00:16:21,147 --> 00:16:23,316
+<b>Como você conhece
+um lugar em Houston?</b>
+
+281
+00:16:26,611 --> 00:16:30,114
+<b><i>Era claro que Mark não tinha
+os 500 dólares necessários</b></i>
+
+282
+00:16:30,198 --> 00:16:31,616
+<b><i>para fazer o aborto.</b></i>
+
+283
+00:16:32,367 --> 00:16:33,535
+<b><i>Nem eu tinha.</b></i>
+
+284
+00:16:34,035 --> 00:16:36,079
+<b><i>Então, solicitei
+meu primeiro cartão de crédito.</b></i>
+
+285
+00:16:37,121 --> 00:16:38,248
+<b><i>Eu ficava pensando:</b></i>
+
+286
+00:16:39,332 --> 00:16:41,417
+<b><i>"Não posso contar isso
+aos meus pais.</b></i>
+
+287
+00:16:42,210 --> 00:16:45,880
+<b><i>Eles não sabem que tenho relações.
+Não podem saber que estou grávida."</b></i>
+
+288
+00:16:47,340 --> 00:16:49,467
+<b><i>Lembro que não havia
+ninguém lá fora,</b></i>
+
+289
+00:16:49,926 --> 00:16:51,970
+<b><i>mas a sala de espera
+estava lotada.</b></i>
+
+290
+00:16:54,180 --> 00:16:57,892
+<b><i>A próxima lembrança que tenho
+é de estar deitada numa mesa,</b></i>
+
+291
+00:16:57,976 --> 00:17:01,938
+<b><i>pés nos estribos, com uma crescente
+e dolorosa pressão no meu ventre.</b></i>
+
+292
+00:17:02,438 --> 00:17:05,984
+<b><i>Eu me ouvia gemendo,
+mas parecia um som distante.</b></i>
+
+293
+00:17:06,067 --> 00:17:08,403
+<b>Está tudo bem, querida. Relaxe.</b>
+
+294
+00:17:10,613 --> 00:17:12,824
+<b><i>Lembro de acordar
+caída para frente,</b></i>
+
+295
+00:17:13,157 --> 00:17:15,493
+<b><i>sentada em uma cadeira dura,
+de plástico.</b></i>
+
+296
+00:17:16,244 --> 00:17:18,288
+<b><i>Em uma fileira
+de cadeiras ocupadas</b></i>
+
+297
+00:17:18,371 --> 00:17:21,124
+<b><i>por garotas que estavam comigo
+na sala de espera.</b></i>
+
+298
+00:17:21,791 --> 00:17:23,585
+<b><i>Algumas olhavam para o chão...</b></i>
+
+299
+00:17:24,002 --> 00:17:27,172
+<b><i>outras passavam os braços
+em torno da barriga...</b></i>
+
+300
+00:17:27,922 --> 00:17:29,716
+<b><i>outras choravam baixinho.</b></i>
+
+301
+00:17:30,383 --> 00:17:32,302
+<b><i>Deram-me algumas bolachas.</b></i>
+
+302
+00:17:35,680 --> 00:17:38,600
+<b><i>Guardei essa experiência
+numa caixa, fechei bem,</b></i>
+
+303
+00:17:38,683 --> 00:17:41,978
+<b><i>escondi num canto escuro da minha alma
+e fingi que nunca aconteceu.</b></i>
+
+304
+00:17:44,022 --> 00:17:47,066
+<b><i>Mas eu ainda não havia acabado
+de tomar decisões erradas.</b></i>
+
+305
+00:17:48,484 --> 00:17:50,612
+<b>Abby, não é tarde demais
+para desistir.</b>
+
+306
+00:17:50,695 --> 00:17:53,656
+<b>Eu pego o carro, você sai pela porta,
+e nós vamos embora.</b>
+
+307
+00:17:54,240 --> 00:17:56,242
+<b>Não posso fazer isso
+com meus pais.</b>
+
+308
+00:17:56,326 --> 00:17:58,244
+<b>Abby, seus pais ficariam felizes.</b>
+
+309
+00:18:13,927 --> 00:18:15,303
+<b>Sorria, papai.</b>
+
+310
+00:18:16,679 --> 00:18:17,722
+<b>Estou tentando.</b>
+
+311
+00:18:18,640 --> 00:18:22,393
+<b><i>Chamar nosso casamento de fiasco
+seria um insulto aos fiascos.</b></i>
+
+312
+00:18:22,477 --> 00:18:25,313
+<b><i>A última gota foi um ano depois,
+no Dia dos Namorados.</b></i>
+
+313
+00:18:25,730 --> 00:18:28,608
+<b><i>Mark decidiu que comemoraríamos
+fazendo sanduíches.</b></i>
+
+314
+00:18:28,942 --> 00:18:31,486
+<b><i>Mas mais tarde naquela noite,
+depois que nos deitamos,</b></i>
+
+315
+00:18:31,861 --> 00:18:32,737
+<b><i>ele saiu do apartamento...</b></i>
+
+316
+00:18:32,820 --> 00:18:33,655
+<b>CONCEDIDO</b>
+
+317
+00:18:33,738 --> 00:18:34,656
+<b><i>...para ficar com outra mulher.</b></i>
+
+318
+00:18:34,739 --> 00:18:37,075
+<b><i>Eu pedi o divórcio
+no dia seguinte,</b></i>
+
+319
+00:18:37,158 --> 00:18:39,327
+<b><i>ansiosa para ficar livre
+daquele homem,</b></i>
+
+320
+00:18:39,410 --> 00:18:40,912
+<b><i>sentindo que eu já estava,</b></i>
+
+321
+00:18:40,995 --> 00:18:43,206
+<b><i>até algumas semanas depois.</b></i>
+
+322
+00:18:44,749 --> 00:18:47,335
+<b><i>Pânico e tristeza
+tomaram conta de mim.</b></i>
+
+323
+00:18:47,418 --> 00:18:50,547
+<b><i>Eu não queria estar ligada
+àquele homem de modo algum.</b></i>
+
+324
+00:18:50,630 --> 00:18:52,465
+<b><i>E, se tivesse um filho dele,</b></i>
+
+325
+00:18:52,799 --> 00:18:55,385
+<b><i>ficaria ligada a ele
+pelo resto da vida.</b></i>
+
+326
+00:18:56,219 --> 00:18:59,973
+<b><i>Assim, minha visita seguinte à clínica
+não foi como acompanhante voluntária,</b></i>
+
+327
+00:19:00,932 --> 00:19:02,350
+<b><i>mas como cliente.</b></i>
+
+328
+00:19:03,142 --> 00:19:04,853
+<b><i>Eu nunca vi
+a imagem do ultrassom.</b></i>
+
+329
+00:19:05,728 --> 00:19:09,065
+<b><i>Mas a enfermeira disse que eu estava
+de oito semanas,</b></i>
+
+330
+00:19:09,148 --> 00:19:12,360
+<b><i>o que me permitia
+ter um aborto induzido quimicamente,</b></i>
+
+331
+00:19:12,443 --> 00:19:16,072
+<b><i>mais conhecido
+como pílula abortiva RU-486.</b></i>
+
+332
+00:19:16,406 --> 00:19:18,074
+<b><i>O limite era nove semanas.</b></i>
+
+333
+00:19:18,575 --> 00:19:20,159
+<b><i>Parecia mais privado,</b></i>
+
+334
+00:19:20,493 --> 00:19:24,163
+<b><i>menos invasivo, mais... natural.</b></i>
+
+335
+00:19:24,831 --> 00:19:28,293
+<b><i>Então, paguei 400 dólares
+e tomei a primeira pílula.</b></i>
+
+336
+00:19:29,252 --> 00:19:30,670
+<b>Amanhã, quando estiver pronta,</b>
+
+337
+00:19:30,753 --> 00:19:33,298
+<b>tome as quatro pílulas
+deste envelope marrom.</b>
+
+338
+00:19:33,381 --> 00:19:36,926
+<b>É misoprostol. Ele vai esvaziar
+suavemente seu útero.</b>
+
+339
+00:19:37,010 --> 00:19:40,138
+<b>Haverá um pequeno sangramento,
+não maior que uma menstruação intensa.</b>
+
+340
+00:19:40,638 --> 00:19:43,391
+<b>E, se tiver cólicas,
+você pode tomar ibuprofeno.</b>
+
+341
+00:19:47,604 --> 00:19:48,855
+<b>Está liberada.</b>
+
+342
+00:19:53,026 --> 00:19:54,360
+<b>Tenha um bom dia.</b>
+
+343
+00:19:57,113 --> 00:19:59,365
+<b><i>No dia seguinte,
+fiz o que disseram.</b></i>
+
+344
+00:19:59,449 --> 00:20:02,702
+<b><i>Comi algo leve e tomei as pílulas
+do meu envelope marrom.</b></i>
+
+345
+00:20:06,164 --> 00:20:09,250
+<b><i>Disseram que eu começaria
+a sangrar em uma hora.</b></i>
+
+346
+00:20:09,584 --> 00:20:12,003
+<b><i>Nesse meio-tempo,
+fiquei confortável na minha cama.</b></i>
+
+347
+00:20:17,842 --> 00:20:19,177
+<b><i>Um pouco mais tarde...</b></i>
+
+348
+00:22:13,041 --> 00:22:15,627
+<b><i>Depois de 12 horas de agonia,</b></i>
+
+349
+00:22:15,710 --> 00:22:17,795
+<b><i>adormeci no chão do banheiro.</b></i>
+
+350
+00:22:18,213 --> 00:22:21,925
+<b><i>Pensei que era assim
+que eu iria morrer.</b></i>
+
+351
+00:22:22,926 --> 00:22:24,802
+<b><i>Eu me perguntei
+quem me encontraria.</b></i>
+
+352
+00:22:27,138 --> 00:22:29,015
+<b><i>Orei para que não fosse
+minha mãe.</b></i>
+
+353
+00:22:30,892 --> 00:22:32,393
+<b><i>Isso não é anormal.</b></i>
+
+354
+00:22:33,228 --> 00:22:34,896
+<b><i>Não é anormal?</b></i>
+
+355
+00:22:35,396 --> 00:22:37,774
+<b>O sangramento, a coagulação,
+a dor?</b>
+
+356
+00:22:38,399 --> 00:22:39,442
+<b>Isso é normal?</b>
+
+357
+00:22:39,526 --> 00:22:41,819
+<b><i>Use bolsas térmicas,
+fique em uma banheira quente,</b></i>
+
+358
+00:22:41,903 --> 00:22:42,946
+<b><i>tome ibuprofeno.</b></i>
+
+359
+00:22:43,404 --> 00:22:46,199
+<b>Como pôde não me falar
+sobre isso?</b>
+
+360
+00:22:46,616 --> 00:22:49,869
+<b>E quanto ao "esvaziamento suave"
+do meu útero?</b>
+
+361
+00:22:49,953 --> 00:22:51,829
+<b>Foi o que me disseram
+que aconteceria.</b>
+
+362
+00:22:52,247 --> 00:22:54,791
+<b><i>Desculpe,
+mas tenho outra paciente.</b></i>
+
+363
+00:22:58,837 --> 00:23:00,964
+<b><i>Oito semanas se passaram.</b></i>
+
+364
+00:23:01,047 --> 00:23:03,842
+<b><i>Oito semanas
+de coágulos sanguíneos.</b></i>
+
+365
+00:23:03,925 --> 00:23:07,011
+<b><i>Oito semanas
+de cólicas excruciantes.</b></i>
+
+366
+00:23:07,512 --> 00:23:09,556
+<b><i>Quando finalmente acabou,</b></i>
+
+367
+00:23:09,639 --> 00:23:13,268
+<b><i>minha raiva tinha desaparecido,
+substituída por autoaversão.</b></i>
+
+368
+00:23:13,935 --> 00:23:16,437
+<b><i>Eu não culpava mais
+a Paternidade Planejada</b></i>
+
+369
+00:23:16,521 --> 00:23:17,981
+<b><i>pelo que havia acontecido.</b></i>
+
+370
+00:23:19,023 --> 00:23:20,859
+<b><i>Culpava a mim mesma.</b></i>
+
+371
+00:23:22,944 --> 00:23:25,822
+<b>Não vamos conseguir fazer
+o Dr. Plummer vir no sábado,</b>
+
+372
+00:23:25,905 --> 00:23:27,866
+<b>mas posso chamar o Dr. Wagner.</b>
+
+373
+00:23:27,949 --> 00:23:29,701
+<b>- Ótimo, ligue para ele.
+- Certo.</b>
+
+374
+00:23:30,159 --> 00:23:32,912
+<b>Abby! Oi. Faz tempo
+que não a vemos por aqui.</b>
+
+375
+00:23:33,496 --> 00:23:35,039
+<b>É, eu andei ocupada.</b>
+
+376
+00:23:35,582 --> 00:23:37,125
+<b>É bom ter você de volta.</b>
+
+377
+00:23:37,542 --> 00:23:40,795
+<b>A propósito, temos uma oportunidade
+que pode ser perfeita para você.</b>
+
+378
+00:23:41,671 --> 00:23:42,922
+<b>- Sério?
+- É.</b>
+
+379
+00:23:43,631 --> 00:23:44,631
+<b>Olá.</b>
+
+380
+00:23:44,841 --> 00:23:46,926
+<b>- Conhece a Paternidade Planejada?
+- Eu não.</b>
+
+381
+00:23:47,510 --> 00:23:49,304
+<b><i>Lá estava eu</b></i>
+
+382
+00:23:49,387 --> 00:23:52,182
+<b><i>divulgando orgulhosamente
+a Paternidade Planejada.</b></i>
+
+383
+00:23:52,640 --> 00:23:56,269
+<b><i>E, seis meses depois,
+após eu me formar em Psicologia,</b></i>
+
+384
+00:23:56,686 --> 00:23:59,230
+<b><i>meu foco se tornou
+a minha carreira.</b></i>
+
+385
+00:23:59,564 --> 00:24:03,568
+<b><i>Apesar da desaprovação
+de quase todos na minha vida.</b></i>
+
+386
+00:24:03,651 --> 00:24:06,571
+<b>A meu ver, o real problema
+é a viabilidade.</b>
+
+387
+00:24:06,654 --> 00:24:09,073
+<b>Nesse ponto,
+o feto pode viver fora do útero.</b>
+
+388
+00:24:09,157 --> 00:24:12,452
+<b>Mas antes, é só tecido não desenvolvido
+que não pode sobreviver por si só.</b>
+
+389
+00:24:12,535 --> 00:24:15,914
+<b>Abby, como pode achar certo abortar
+com oito semanas, mas não com 24?</b>
+
+390
+00:24:16,289 --> 00:24:18,917
+<b>A viabilidade vai mudando
+conforme a medicina evolui.</b>
+
+391
+00:24:19,000 --> 00:24:21,711
+<b>Está dizendo
+que o que é moral ou imoral muda</b>
+
+392
+00:24:21,794 --> 00:24:23,171
+<b>à medida que a medicina avança?</b>
+
+393
+00:24:23,254 --> 00:24:26,466
+<b>O que estou dizendo é que não
+me desculparei por fazer um trabalho</b>
+
+394
+00:24:26,549 --> 00:24:28,176
+<b>que ajuda mulheres em crise.</b>
+
+395
+00:24:28,510 --> 00:24:31,638
+<b>Amo meu trabalho.
+Estou comprometida em realizá-lo.</b>
+
+396
+00:24:31,721 --> 00:24:33,681
+<b>Ele é quem eu sou.</b>
+
+397
+00:24:34,015 --> 00:24:35,808
+<b>É parte do que me faz ser eu.</b>
+
+398
+00:24:36,976 --> 00:24:38,144
+<b>Vocês aceitando ou não.</b>
+
+399
+00:24:39,521 --> 00:24:40,647
+<b>Aviso justo, Doug.</b>
+
+400
+00:24:40,730 --> 00:24:42,899
+<b>O livro do Dr. Dobson,
+"Crianças Fortes e Selvagens",</b>
+
+401
+00:24:42,982 --> 00:24:45,068
+<b>foi um dos primeiros livros
+que eu comprei.</b>
+
+402
+00:24:45,693 --> 00:24:47,362
+<b>Eu ainda o tenho.</b>
+
+403
+00:24:47,737 --> 00:24:48,780
+<b>Bom, quem quer sobremesa?</b>
+
+404
+00:24:49,155 --> 00:24:50,865
+<b>Abby, querida,
+por que não me ajuda?</b>
+
+405
+00:25:01,668 --> 00:25:03,586
+<b>Não vai acreditar no que aconteceu
+esta semana.</b>
+
+406
+00:25:03,670 --> 00:25:05,964
+<b>Apareceu uma mulher
+com dor abdominal,</b>
+
+407
+00:25:06,047 --> 00:25:09,133
+<b>e quando nós a examinamos,
+descobrimos que era câncer de útero.</b>
+
+408
+00:25:10,552 --> 00:25:11,553
+<b>Que bom.</b>
+
+409
+00:25:13,680 --> 00:25:15,098
+<b>Você nem se importa.</b>
+
+410
+00:25:15,181 --> 00:25:18,434
+<b>Mais do que imagina, querida.
+Pode levar isto até a mesa, por favor?</b>
+
+411
+00:25:25,024 --> 00:25:26,025
+<b>Pois bem,</b>
+
+412
+00:25:26,651 --> 00:25:30,196
+<b>agora, preciso que me ouça
+e não diga nada.</b>
+
+413
+00:25:32,115 --> 00:25:35,034
+<b>Sei que não concorda,
+mas para seu pai e para mim,</b>
+
+414
+00:25:35,118 --> 00:25:37,620
+<b>você era o nosso bebê
+desde o momento da concepção.</b>
+
+415
+00:25:38,913 --> 00:25:41,207
+<b>Sei que não é como você sente,
+mas é como nós sentimos.</b>
+
+416
+00:25:44,127 --> 00:25:45,847
+<b>Você não gosta
+de onde ela está trabalhando.</b>
+
+417
+00:25:46,713 --> 00:25:48,089
+<b>Eu não suporto.</b>
+
+418
+00:25:50,008 --> 00:25:51,467
+<b>Mas ainda quer se casar com ela?</b>
+
+419
+00:25:51,551 --> 00:25:52,719
+<b>Com certeza.</b>
+
+420
+00:25:54,387 --> 00:25:55,513
+<b>O amor não é magnífico?</b>
+
+421
+00:26:08,818 --> 00:26:11,321
+<b>Você não deveria parecer
+mais feliz do que eu.</b>
+
+422
+00:26:12,280 --> 00:26:13,281
+<b>Por que não?</b>
+
+423
+00:26:14,282 --> 00:26:15,575
+<b>Você acertou desta vez.</b>
+
+424
+00:26:15,658 --> 00:26:18,620
+<b><i>E assim, lá estava eu,
+fazendo meus votos novamente.</b></i>
+
+425
+00:26:18,703 --> 00:26:21,497
+<b>Quem entrega esta mulher hoje
+em casamento a este homem?</b>
+
+426
+00:26:21,915 --> 00:26:23,583
+<b>A mãe dela e eu.</b>
+
+427
+00:26:23,666 --> 00:26:26,836
+<b><i>Desta vez, com um cara
+que realmente me amava.</b></i>
+
+428
+00:26:32,509 --> 00:26:36,679
+<b>Temos outros dias com outros turnos,
+se este não servir para vocês, mas...</b>
+
+429
+00:26:37,555 --> 00:26:38,890
+<b>Só um segundo. Esperem.</b>
+
+430
+00:26:40,433 --> 00:26:41,643
+<b>Abby!</b>
+
+431
+00:26:41,726 --> 00:26:43,311
+<b>Olá, Marilisa!</b>
+
+432
+00:26:43,394 --> 00:26:45,063
+<b>Algum sinal do Anjo da Morte?</b>
+
+433
+00:26:45,146 --> 00:26:46,314
+<b>Não, felizmente.</b>
+
+434
+00:26:47,774 --> 00:26:49,317
+<b>Você está óptima hoje.</b>
+
+435
+00:26:49,400 --> 00:26:52,487
+<b>Obrigada.
+Eu sou a nova conselheira.</b>
+
+436
+00:26:52,570 --> 00:26:56,324
+<b>Bem, tenho certeza de que você será
+a melhor conselheira que eles já tiveram.</b>
+
+437
+00:26:57,116 --> 00:26:59,077
+<b>- Amigo?
+- Noivo.</b>
+
+438
+00:27:00,286 --> 00:27:02,705
+<b>É. Ela me faz vir aqui.</b>
+
+439
+00:27:02,789 --> 00:27:03,873
+<b>Mentiroso!</b>
+
+440
+00:27:03,957 --> 00:27:05,557
+<b>Ele estava aqui orando
+quase todo sábado.</b>
+
+441
+00:27:05,625 --> 00:27:08,211
+<b>Só o que ele fez foi mudar
+para todo sábado.</b>
+
+442
+00:27:08,294 --> 00:27:10,213
+<b>Meus parabéns a vocês dois.</b>
+
+443
+00:27:10,672 --> 00:27:12,257
+<b>Desejo toda a felicidade.</b>
+
+444
+00:27:12,340 --> 00:27:13,341
+<b>Obrigada, Abby.</b>
+
+445
+00:27:17,303 --> 00:27:19,639
+<b>Neste estágio,
+entre seis e oito semanas,</b>
+
+446
+00:27:19,722 --> 00:27:22,100
+<b>é só matéria fetal,
+um pedaço de tecido,</b>
+
+447
+00:27:22,183 --> 00:27:24,394
+<b>pouco mais que um pólipo
+ou um coágulo de sangue.</b>
+
+448
+00:27:24,811 --> 00:27:26,312
+<b>Então ainda não é um bebê?</b>
+
+449
+00:27:26,396 --> 00:27:27,564
+<b>De jeito nenhum.</b>
+
+450
+00:27:27,647 --> 00:27:28,940
+<b>E não sente dor?</b>
+
+451
+00:27:29,023 --> 00:27:30,942
+<b>Não, nenhuma.</b>
+
+452
+00:27:31,025 --> 00:27:32,861
+<b>É uma preocupação
+de muitas mulheres.</b>
+
+453
+00:27:32,944 --> 00:27:35,405
+<b>E, para ser sincera,
+era a minha também.</b>
+
+454
+00:27:35,488 --> 00:27:38,324
+<b>Mas se tem algo com que todos
+os especialistas concordam</b>
+
+455
+00:27:38,408 --> 00:27:41,327
+<b>é que, neste estágio,
+o feto não sente nada.</b>
+
+456
+00:27:44,455 --> 00:27:46,291
+<b>Uma parte de mim
+ainda está em dúvida.</b>
+
+457
+00:27:46,374 --> 00:27:47,876
+<b>Eu sei. Confie em mim.</b>
+
+458
+00:27:48,710 --> 00:27:50,962
+<b>Ninguém quer fazer um aborto.</b>
+
+459
+00:27:51,629 --> 00:27:55,425
+<b>Não é como querer
+um carro novo ou um sorvete.</b>
+
+460
+00:27:56,843 --> 00:27:59,304
+<b>Mas quase todas as mulheres
+que se sentam nesta cadeira</b>
+
+461
+00:27:59,721 --> 00:28:03,183
+<b>já sabem que é uma gravidez
+que não estão preparadas para enfrentar.</b>
+
+462
+00:28:03,641 --> 00:28:05,685
+<b>Só leva algum tempo
+para aceitarem.</b>
+
+463
+00:28:07,896 --> 00:28:10,315
+<b>Supondo que queira
+seguir em frente,</b>
+
+464
+00:28:10,398 --> 00:28:12,567
+<b>o procedimento que realizaremos
+se chama vácuo...</b>
+
+465
+00:28:12,650 --> 00:28:14,986
+<b><i>Naquela época, Doug e eu
+decidimos que queríamos</b></i>
+
+466
+00:28:15,069 --> 00:28:17,113
+<b><i>fazer da religião
+parte de nossas vidas.</b></i>
+
+467
+00:28:17,197 --> 00:28:19,407
+<b><i>Encontramos uma igreja
+que parecia boa o suficiente.</b></i>
+
+468
+00:28:19,782 --> 00:28:23,536
+<b><i>Mas, na maioria das manhãs de domingo,
+eu me sentia excluída.</b></i>
+
+469
+00:28:23,620 --> 00:28:25,705
+<b>"Tu criaste o íntimo do meu ser.</b>
+
+470
+00:28:25,788 --> 00:28:28,124
+<b>Tu me teceste
+no ventre da minha mãe.</b>
+
+471
+00:28:28,625 --> 00:28:32,212
+<b>Eu Te louvo porque me fizeste
+de modo especial e admirável.</b>
+
+472
+00:28:32,295 --> 00:28:35,965
+<b>Tuas obras são maravilhosas!
+Disso tenho plena certeza."</b>
+
+473
+00:28:36,049 --> 00:28:37,884
+<b>O incrível nesta passagem</b>
+
+474
+00:28:37,967 --> 00:28:41,638
+<b>é que vemos
+que, no silêncio do útero,</b>
+
+475
+00:28:41,721 --> 00:28:45,225
+<b>Deus ainda está formando
+e moldando pessoas</b>
+
+476
+00:28:45,308 --> 00:28:47,769
+<b>à Sua imagem e semelhança.</b>
+
+477
+00:28:47,852 --> 00:28:50,188
+<b>- É.
+- Sei exatamente como se sente.</b>
+
+478
+00:28:50,271 --> 00:28:52,732
+<b>Eu sou católica e, no domingo,</b>
+
+479
+00:28:52,815 --> 00:28:54,442
+<b>ouvi um sermão sobre aborto.</b>
+
+480
+00:28:55,235 --> 00:28:56,903
+<b>Não me importa o que dizem.</b>
+
+481
+00:28:56,986 --> 00:28:58,706
+<b>Sei que estou fazendo
+uma obra de Deus aqui.</b>
+
+482
+00:29:00,865 --> 00:29:03,826
+<b>Vocês não vão adivinhar quem bateu
+na minha porta ontem à noite.</b>
+
+483
+00:29:04,369 --> 00:29:06,579
+<b>- Quem?
+- Shawn Carney.</b>
+
+484
+00:29:06,996 --> 00:29:08,748
+<b>- Não acredito.
+- Espere aí.</b>
+
+485
+00:29:08,832 --> 00:29:10,333
+<b>O que fica de plantão
+junto à cerca?</b>
+
+486
+00:29:10,416 --> 00:29:11,668
+<b>- Esse Shawn Carney?
+- É.</b>
+
+487
+00:29:11,751 --> 00:29:13,545
+<b>- O que ele queria?
+- Foi estranho.</b>
+
+488
+00:29:13,628 --> 00:29:17,799
+<b>Eu abro a porta e o reconheço.
+Eu digo: "Sei quem você é."</b>
+
+489
+00:29:17,882 --> 00:29:20,760
+<b>Ele também me reconhece,
+fica todo tímido e diz:</b>
+
+490
+00:29:20,844 --> 00:29:23,805
+<b>"Só estamos fazendo
+uma campanha simples.</b>
+
+491
+00:29:23,888 --> 00:29:26,933
+<b>Estamos tentando fazer as pessoas
+orarem pelo fim do aborto</b>
+
+492
+00:29:27,016 --> 00:29:28,560
+<b>nos próximos 40 dias."</b>
+
+493
+00:29:28,643 --> 00:29:31,521
+<b>E eu disse: "40 dias?
+Como Noé e o dilúvio, 40 dias?"</b>
+
+494
+00:29:31,604 --> 00:29:32,522
+<b>Pare!</b>
+
+495
+00:29:32,605 --> 00:29:35,900
+<b>- Eu sei. E ele disse...
+- Você teria dito o mesmo!</b>
+
+496
+00:29:35,984 --> 00:29:37,360
+<b>Teria dito o mesmo.</b>
+
+497
+00:29:37,443 --> 00:29:39,195
+<b>Espere aí, espere.</b>
+
+498
+00:29:39,279 --> 00:29:41,155
+<b>Em quantas portas
+ele está batendo?</b>
+
+499
+00:29:41,239 --> 00:29:43,992
+<b>Adivinhe.
+Você não consegue. 25.000!</b>
+
+500
+00:29:44,701 --> 00:29:47,579
+<b>- Onde?
+- Em toda parte.</b>
+
+501
+00:29:48,079 --> 00:29:50,039
+<b>- Como é possível?
+- O que isso quer dizer?</b>
+
+502
+00:29:50,123 --> 00:29:51,749
+<b>- Acha que é mentira dele?
+- Não.</b>
+
+503
+00:29:51,833 --> 00:29:53,960
+<b>- Um cara desses não sabe mentir.
+- É verdade.</b>
+
+504
+00:29:54,043 --> 00:29:56,045
+<b>Os pró-vida são muito sérios.</b>
+
+505
+00:30:04,179 --> 00:30:06,848
+<b>Cheryl,
+esses sapatos são incríveis.</b>
+
+506
+00:30:06,931 --> 00:30:08,224
+<b>Eu sei. Obrigada.</b>
+
+507
+00:30:12,395 --> 00:30:14,564
+<b>- Você se encaixa bem aqui.
+- Obrigada.</b>
+
+508
+00:30:14,647 --> 00:30:15,690
+<b>Está gostando?</b>
+
+509
+00:30:15,773 --> 00:30:17,192
+<b>Sim, com certeza.</b>
+
+510
+00:30:18,526 --> 00:30:20,820
+<b>Acho que é hora de você
+dar o próximo passo.</b>
+
+511
+00:30:21,529 --> 00:30:24,240
+<b>Eu gostaria que me encontrasse
+na sala PDC em cinco minutos.</b>
+
+512
+00:30:24,324 --> 00:30:25,325
+<b>Está bem.</b>
+
+513
+00:30:29,537 --> 00:30:30,830
+<b>Você ouviu isso?</b>
+
+514
+00:30:30,914 --> 00:30:33,666
+<b>Eu realmente me encaixo aqui.</b>
+
+515
+00:30:34,751 --> 00:30:36,961
+<b>Você sabe o que significa PDC?</b>
+
+516
+00:30:37,045 --> 00:30:38,087
+<b>Produtos de concepção.</b>
+
+517
+00:30:39,172 --> 00:30:40,423
+<b>Pedaços de crianças.</b>
+
+518
+00:30:42,050 --> 00:30:43,810
+<b>Espero que seu café da manhã
+tenha sido leve.</b>
+
+519
+00:30:45,428 --> 00:30:49,766
+<b><i>Na nossa unidade,
+a sala PDC era o Santíssimo Lugar.</b></i>
+
+520
+00:30:49,849 --> 00:30:52,018
+<b>A maioria dos funcionários
+nunca pôs os pés lá.</b>
+
+521
+00:30:52,560 --> 00:30:54,229
+<b>Depois de um aborto cirúrgico,</b>
+
+522
+00:30:54,312 --> 00:30:57,357
+<b>cada feto era cuidadosamente
+remontado numa placa de vidro</b>
+
+523
+00:30:57,440 --> 00:30:59,520
+<b>para se ter certeza
+de que não faltava nenhuma parte.</b>
+
+524
+00:30:59,776 --> 00:31:00,985
+<b>Se faltasse,</b>
+
+525
+00:31:01,361 --> 00:31:04,030
+<b>significava que ainda
+estava dentro da paciente.</b>
+
+526
+00:31:04,405 --> 00:31:07,242
+<b>No final do dia,
+havia 30 ou 40 placas,</b>
+
+527
+00:31:07,325 --> 00:31:10,537
+<b>e os médicos tinham
+que aprovar cada uma delas.</b>
+
+528
+00:31:12,872 --> 00:31:14,290
+<b>Quero que veja uma coisa.</b>
+
+529
+00:31:16,960 --> 00:31:17,960
+<b>Vá em frente.</b>
+
+530
+00:31:26,636 --> 00:31:28,596
+<b>É incrível. Dá para ver tudo.</b>
+
+531
+00:31:31,224 --> 00:31:33,351
+<b>Sabe o que aconteceu
+com todas as outras pessoas</b>
+
+532
+00:31:33,434 --> 00:31:35,186
+<b>que vieram aqui
+e viram um desses?</b>
+
+533
+00:31:35,270 --> 00:31:36,896
+<b>A primeira coisa que fazem?</b>
+
+534
+00:31:38,022 --> 00:31:39,065
+<b>Elas choram.</b>
+
+535
+00:31:41,234 --> 00:31:42,318
+<b>Mas você não.</b>
+
+536
+00:31:44,696 --> 00:31:46,114
+<b>Por isso sei
+que é a pessoa certa.</b>
+
+537
+00:31:47,198 --> 00:31:49,367
+<b>Em breve,
+eu serei chamada a Houston,</b>
+
+538
+00:31:49,450 --> 00:31:51,619
+<b>e alguém precisará
+me substituir aqui.</b>
+
+539
+00:31:52,954 --> 00:31:54,163
+<b>Pessoalmente,</b>
+
+540
+00:31:54,581 --> 00:31:55,623
+<b>gostaria que fosse você.</b>
+
+541
+00:31:57,417 --> 00:31:58,668
+<b>Eu ficaria honrada.</b>
+
+542
+00:31:59,377 --> 00:32:00,378
+<b>Ótimo.</b>
+
+543
+00:32:07,594 --> 00:32:09,220
+<b>Amor, não está mesmo grávida?</b>
+
+544
+00:32:10,513 --> 00:32:12,849
+<b>Não. Eu não estou grávida.</b>
+
+545
+00:32:14,976 --> 00:32:15,977
+<b>Tudo bem.</b>
+
+546
+00:32:17,687 --> 00:32:19,230
+<b>Por que acha isso?</b>
+
+547
+00:32:20,773 --> 00:32:22,150
+<b>Nada em particular.</b>
+
+548
+00:32:24,360 --> 00:32:26,863
+<b>Doug, aconselho grávidas
+todos os dias.</b>
+
+549
+00:32:26,946 --> 00:32:28,990
+<b>Não acha
+que, se estivesse grávida,</b>
+
+550
+00:32:29,073 --> 00:32:31,117
+<b>apesar de tomar pílula,
+eu saberia disso?</b>
+
+551
+00:32:32,535 --> 00:32:33,578
+<b>Sim, você está certa.</b>
+
+552
+00:32:34,120 --> 00:32:35,580
+<b>Esqueça o que eu disse.</b>
+
+553
+00:32:41,044 --> 00:32:43,338
+<b>- Você tem um kit de teste de gravidez?
+- Sim.</b>
+
+554
+00:32:44,672 --> 00:32:45,757
+<b>Para quem?</b>
+
+555
+00:33:02,524 --> 00:33:05,026
+<b>Poderíamos cuidar disso para você,
+se quiser.</b>
+
+556
+00:33:11,407 --> 00:33:14,953
+<b>O quê? Querida, isso é maravilhoso!
+Nem sabia que estavam tentando!</b>
+
+557
+00:33:16,412 --> 00:33:17,539
+<b>Não estávamos.</b>
+
+558
+00:33:18,081 --> 00:33:20,500
+<b>Bom, às vezes o Senhor
+tem um plano.</b>
+
+559
+00:33:21,251 --> 00:33:23,753
+<b>- Não tem chance...
+- Não se preocupe, mãe.</b>
+
+560
+00:33:24,295 --> 00:33:26,673
+<b><i>Eu nunca teria contado
+se não tivesse certeza.</b></i>
+
+561
+00:33:26,756 --> 00:33:27,882
+<b>Você vai ser vovô.</b>
+
+562
+00:33:29,342 --> 00:33:30,343
+<b>Abby?</b>
+
+563
+00:33:31,177 --> 00:33:32,220
+<b>Ei, garota.</b>
+
+564
+00:33:32,303 --> 00:33:34,138
+<b>Não poderíamos estar
+mais orgulhosos de você.</b>
+
+565
+00:33:34,556 --> 00:33:37,475
+<b>E você está empenhada
+em levar a gravidez até o fim?</b>
+
+566
+00:33:37,559 --> 00:33:38,685
+<b>Eu estou...</b>
+
+567
+00:33:39,269 --> 00:33:40,270
+<b>Nós estamos.</b>
+
+568
+00:33:41,104 --> 00:33:43,398
+<b>Nós temos tanto tempo,</b>
+
+569
+00:33:43,773 --> 00:33:45,400
+<b>tanta energia.</b>
+
+570
+00:33:45,859 --> 00:33:49,529
+<b>Se optar por gastá-la em outro lugar,
+teremos menos de você aqui.</b>
+
+571
+00:33:50,238 --> 00:33:52,407
+<b>Só estou dizendo isso
+para o seu próprio bem.</b>
+
+572
+00:33:52,490 --> 00:33:53,575
+<b>Entendo,</b>
+
+573
+00:33:53,658 --> 00:33:55,869
+<b>mas, assim que este bebê nascer,
+prometo</b>
+
+574
+00:33:55,952 --> 00:33:59,289
+<b>que voltarei à pílula,
+e talvez desta vez ela funcione.</b>
+
+575
+00:34:00,623 --> 00:34:03,751
+<b>Olha, eu já avisei o Doug,
+teremos um e chega.</b>
+
+576
+00:34:04,210 --> 00:34:05,587
+<b>Então, nesse meio-tempo,</b>
+
+577
+00:34:05,670 --> 00:34:08,089
+<b>quer me transferir para o laboratório
+ou para a recuperação?</b>
+
+578
+00:34:08,882 --> 00:34:09,883
+<b>Não.</b>
+
+579
+00:34:10,842 --> 00:34:13,720
+<b>As mulheres não se constrangerão
+quando começar a aparecer?</b>
+
+580
+00:34:13,803 --> 00:34:14,804
+<b>Não.</b>
+
+581
+00:34:14,888 --> 00:34:17,223
+<b>Pelo contrário,
+isso vai encorajá-las a abortar.</b>
+
+582
+00:34:19,642 --> 00:34:21,853
+<b>Um destes foi administrado
+na Sala de Exames 3.</b>
+
+583
+00:34:21,936 --> 00:34:24,772
+<b>- E isto é do Dr. Stevens na Sala 1.
+- Obrigada.</b>
+
+584
+00:34:24,856 --> 00:34:27,692
+<b>- Ouça o que a Abby diz.
+- Rob, Christina. Oi.</b>
+
+585
+00:34:27,775 --> 00:34:29,444
+<b>Abby, fico feliz que esteja aqui.</b>
+
+586
+00:34:29,861 --> 00:34:31,696
+<b>Nós precisamos muito
+da sua ajuda com isto.</b>
+
+587
+00:34:31,779 --> 00:34:33,573
+<b>Não se preocupe.
+Cuidaremos bem dela.</b>
+
+588
+00:34:34,365 --> 00:34:37,493
+<b>Tudo bem ficar um pouco nervosa,
+mas não tem com o que se preocupar.</b>
+
+589
+00:34:37,577 --> 00:34:39,204
+<b>- Aqui está a pasta.
+- Obrigada.</b>
+
+590
+00:34:39,287 --> 00:34:40,830
+<b>Vamos. Vou fazer seu check-in.</b>
+
+591
+00:34:42,999 --> 00:34:44,042
+<b>Vai.</b>
+
+592
+00:34:46,586 --> 00:34:48,838
+<b>Meus pais estão me pressionando
+a fazer isso.</b>
+
+593
+00:34:49,631 --> 00:34:51,549
+<b>E se eu estiver
+cometendo um erro?</b>
+
+594
+00:34:51,633 --> 00:34:52,759
+<b>Você não está.</b>
+
+595
+00:34:53,760 --> 00:34:57,305
+<b>O ensino médio não é hora
+de começar a criar um bebê.</b>
+
+596
+00:34:57,972 --> 00:35:01,559
+<b>Relaxe.
+O médico chegará em alguns minutos.</b>
+
+597
+00:35:01,643 --> 00:35:03,353
+<b>Você pode ficar aqui comigo?</b>
+
+598
+00:35:04,020 --> 00:35:07,148
+<b>Querida, eu ficaria,
+mas sou só uma conselheira.</b>
+
+599
+00:35:07,232 --> 00:35:09,192
+<b>Não me querem aqui
+durante o procedimento.</b>
+
+600
+00:35:10,235 --> 00:35:14,364
+<b>Isso levará só alguns minutos,
+e vou ver você na sala de recuperação.</b>
+
+601
+00:35:14,447 --> 00:35:17,492
+<b>Prometo que vai ficar tudo bem.</b>
+
+602
+00:35:48,314 --> 00:35:49,315
+<b>Meu Deus.</b>
+
+603
+00:35:50,525 --> 00:35:51,651
+<b>Elena!</b>
+
+604
+00:35:51,734 --> 00:35:53,528
+<b>- Algum problema?
+- Não, está tudo bem.</b>
+
+605
+00:35:53,903 --> 00:35:55,405
+<b>Temos que levá-la de volta.</b>
+
+606
+00:35:55,864 --> 00:35:56,865
+<b>Pegue a cadeira!</b>
+
+607
+00:35:56,948 --> 00:35:58,700
+<b>Querida, nós vamos levantar você.</b>
+
+608
+00:36:00,118 --> 00:36:01,369
+<b>Ai, meu Deus.</b>
+
+609
+00:36:01,452 --> 00:36:02,453
+<b>Devagar!</b>
+
+610
+00:36:03,830 --> 00:36:04,956
+<b>Vai ficar tudo bem.</b>
+
+611
+00:36:05,290 --> 00:36:06,791
+<b>- O que eu faço?
+- Ponha-a na mesa.</b>
+
+612
+00:36:06,875 --> 00:36:09,669
+<b>- Só... Ai, meu Deus...
+- Peguei você.</b>
+
+613
+00:36:10,336 --> 00:36:12,755
+<b>- Tem muito sangue!
+- Cadê o algodão?</b>
+
+614
+00:36:12,839 --> 00:36:14,132
+<b>- Gaveta de baixo!
+- Onde?</b>
+
+615
+00:36:14,215 --> 00:36:16,426
+<b>Gaveta de baixo! É onde guardam!
+Muito sangue!</b>
+
+616
+00:36:16,509 --> 00:36:17,945
+<b>Temos que estancar.
+Vai ficar tudo bem.</b>
+
+617
+00:36:17,969 --> 00:36:20,138
+<b>- Elena, chame um médico!
+- Meu Deus! Tá!</b>
+
+618
+00:36:20,889 --> 00:36:22,724
+<b>- Médico!
+- Vai ficar tudo bem.</b>
+
+619
+00:36:22,807 --> 00:36:25,018
+<b>Por que isso está acontecendo?
+Não entendo.</b>
+
+620
+00:36:27,187 --> 00:36:29,480
+<b>Droga! Saia da frente! Gaze!</b>
+
+621
+00:36:29,564 --> 00:36:31,107
+<b>- Mais gaze!
+- Não sei onde tem.</b>
+
+622
+00:36:31,191 --> 00:36:32,734
+<b>- Traga a bandeja!
+- Está bem.</b>
+
+623
+00:36:33,318 --> 00:36:35,653
+<b>- O que eu faço?
+- Comece uma intravenosa.</b>
+
+624
+00:36:35,737 --> 00:36:37,113
+<b>Não entendo
+o que está acontecendo.</b>
+
+625
+00:36:38,448 --> 00:36:39,616
+<b>Aqui está a gaze.</b>
+
+626
+00:36:39,991 --> 00:36:42,493
+<b>- Faça parar!
+- Ela está tão pálida!</b>
+
+627
+00:36:42,577 --> 00:36:44,697
+<b>- O útero está totalmente preto!
+- O que isso significa?</b>
+
+628
+00:36:44,746 --> 00:36:46,140
+<b>- Está cheio de sangue!
+- Ela está morrendo!</b>
+
+629
+00:36:46,164 --> 00:36:48,041
+<b>Meu Deus!
+Esse não é meu trabalho!</b>
+
+630
+00:36:48,833 --> 00:36:50,793
+<b>- Aqui...
+- Certo, certo.</b>
+
+631
+00:36:51,836 --> 00:36:55,840
+<b>A pressão dela está 6 por 4, pulso fraco.
+Precisará de transfusão.</b>
+
+632
+00:36:55,924 --> 00:36:58,176
+<b>Só temos plasma,
+então inicie um gotejamento.</b>
+
+633
+00:36:58,259 --> 00:36:59,594
+<b>- Meu Deus.
+- Sucção.</b>
+
+634
+00:36:59,677 --> 00:37:01,804
+<b>- O que deu errado?
+- Acalme-se.</b>
+
+635
+00:37:02,138 --> 00:37:05,558
+<b>Ele perfurou o útero,
+aparentemente sem perceber.</b>
+
+636
+00:37:05,642 --> 00:37:07,268
+<b>Que bom que você a encontrou.</b>
+
+637
+00:37:07,352 --> 00:37:10,146
+<b>- Vou chamar a ambulância!
+- Não, nada de ambulância!</b>
+
+638
+00:37:10,230 --> 00:37:11,439
+<b>- Não!
+- Explique para ela.</b>
+
+639
+00:37:11,523 --> 00:37:13,858
+<b>Não fazemos isso.
+Nunca fazemos isso.</b>
+
+640
+00:37:13,942 --> 00:37:16,069
+<b>Pense nos manifestantes lá fora.</b>
+
+641
+00:37:16,152 --> 00:37:18,738
+<b>Você chama uma ambulância,
+e há uma foto disso nos jornais.</b>
+
+642
+00:37:18,821 --> 00:37:21,032
+<b>As chamadas do 911 são gravadas.</b>
+
+643
+00:37:21,366 --> 00:37:24,178
+<b>Elas podem ser divulgadas. Não vou deixar
+que isso aconteça, de jeito nenhum.</b>
+
+644
+00:37:24,202 --> 00:37:26,538
+<b>Mas ela pode morrer,
+e se morrer...</b>
+
+645
+00:37:26,955 --> 00:37:28,915
+<b>Ela não vai morrer.</b>
+
+646
+00:37:28,998 --> 00:37:30,875
+<b>E ela não vai se lembrar
+de nada disso.</b>
+
+647
+00:37:30,959 --> 00:37:34,462
+<b>- Como sabe que não vai?
+- Usamos uma medicação bem forte.</b>
+
+648
+00:37:34,546 --> 00:37:37,048
+<b>Mesmo quando a acordarmos,
+não se lembrará disto.</b>
+
+649
+00:37:37,131 --> 00:37:40,134
+<b>- Administre mais fentanil.
+- Não estou confortável com isso.</b>
+
+650
+00:37:40,218 --> 00:37:42,178
+<b>Não me importa se está confortável!
+Faça!</b>
+
+651
+00:37:42,720 --> 00:37:44,931
+<b>Injetando coagulante
+direto no colo do útero.</b>
+
+652
+00:37:52,272 --> 00:37:53,272
+<b>Viu?</b>
+
+653
+00:37:53,565 --> 00:37:55,191
+<b>Está tudo sob controle.</b>
+
+654
+00:37:55,275 --> 00:37:58,486
+<b>- A pressão está caindo.
+- Não vou embora até que ela esteja bem.</b>
+
+655
+00:38:05,952 --> 00:38:07,579
+<b>Já faz duas horas.</b>
+
+656
+00:38:07,662 --> 00:38:09,706
+<b>- Você disse cinco minutos.
+- A Abby...</b>
+
+657
+00:38:09,789 --> 00:38:12,458
+<b>Diga-me...
+Preciso saber o que está acontecendo.</b>
+
+658
+00:38:12,542 --> 00:38:14,961
+<b>Ajude-me a saber
+o que aconteceu com minha filha.</b>
+
+659
+00:38:15,044 --> 00:38:16,921
+<b>Vou checar. Deve estar tudo bem.</b>
+
+660
+00:38:17,005 --> 00:38:18,673
+<b>- Vá ver.
+- Eu já volto.</b>
+
+661
+00:38:18,756 --> 00:38:19,757
+<b>Obrigado.</b>
+
+662
+00:38:22,302 --> 00:38:23,803
+<b>Eu sinto muito.</b>
+
+663
+00:38:35,481 --> 00:38:37,192
+<b>Estamos segurando as pontas
+lá fora.</b>
+
+664
+00:38:37,275 --> 00:38:40,320
+<b>O pai dela quer saber
+por que está demorando tanto.</b>
+
+665
+00:38:40,778 --> 00:38:41,905
+<b>Obrigada.</b>
+
+666
+00:38:47,702 --> 00:38:48,828
+<b>Abby?</b>
+
+667
+00:38:50,121 --> 00:38:51,664
+<b>Se um dia administrar
+esta clínica,</b>
+
+668
+00:38:51,748 --> 00:38:54,918
+<b>preciso saber que não entrará em pânico
+ao ver um pouco de sangue.</b>
+
+669
+00:38:55,418 --> 00:38:58,421
+<b>Agora vá até lá
+e diga a ele que está tudo bem.</b>
+
+670
+00:39:15,688 --> 00:39:17,565
+<b>"Um pouco de sangue."</b>
+
+671
+00:39:33,581 --> 00:39:34,581
+<b>Rob.</b>
+
+672
+00:39:35,834 --> 00:39:37,168
+<b>Christina está bem.</b>
+
+673
+00:39:37,252 --> 00:39:40,338
+<b>Mas tivemos outra paciente
+que esqueceu de mencionar uma alergia</b>
+
+674
+00:39:40,421 --> 00:39:42,173
+<b>a um medicamento que usamos.</b>
+
+675
+00:39:42,257 --> 00:39:44,050
+<b>Por isso está demorando um pouco.</b>
+
+676
+00:39:44,133 --> 00:39:45,426
+<b>- Então ela está bem?
+- Está.</b>
+
+677
+00:39:45,510 --> 00:39:46,928
+<b>- Está tudo bem?
+- Ela está bem.</b>
+
+678
+00:39:47,011 --> 00:39:48,012
+<b>Graças a Deus.</b>
+
+679
+00:39:49,305 --> 00:39:50,682
+<b>Quanto tempo mais ela vai ficar?</b>
+
+680
+00:39:51,683 --> 00:39:54,185
+<b>O médico deve vir
+a qualquer momento.</b>
+
+681
+00:39:54,269 --> 00:39:55,895
+<b>O procedimento dura uns minutos,</b>
+
+682
+00:39:55,979 --> 00:39:58,106
+<b>e a recuperação
+será um pouco mais longa.</b>
+
+683
+00:39:59,649 --> 00:40:00,733
+<b>Obrigado, Abby.</b>
+
+684
+00:40:01,109 --> 00:40:03,570
+<b>- Eu o avisarei assim que ela sair.
+- Obrigado.</b>
+
+685
+00:40:09,158 --> 00:40:11,744
+<b><i>O médico levou mais uma hora,</b></i>
+
+686
+00:40:12,287 --> 00:40:14,747
+<b><i>mas finalmente ele conseguiu
+estabilizar a Christina.</b></i>
+
+687
+00:40:14,831 --> 00:40:18,334
+<b><i>Chame o Meu nome</b>.</i>
+
+688
+00:40:19,335 --> 00:40:25,341
+<b><i>E Eu responderei
+Tudo o que você precisa</b>.</i>
+
+689
+00:40:25,842 --> 00:40:29,262
+<b><i>Está aqui nos Meus braços</b>.</i>
+
+690
+00:40:29,345 --> 00:40:31,848
+<b><i>Apenas respire</b>.</i>
+
+691
+00:40:32,390 --> 00:40:35,727
+<b><i>E você estará sã e salva</b>.</i>
+
+692
+00:40:35,810 --> 00:40:38,188
+<b><i>Comigo</b>.</i>
+
+693
+00:40:38,271 --> 00:40:39,272
+<b>Rob?</b>
+
+694
+00:40:44,569 --> 00:40:45,570
+<b>Christina...</b>
+
+695
+00:40:47,322 --> 00:40:49,032
+<b>- Como você está, amor?
+- Cansada.</b>
+
+696
+00:40:49,574 --> 00:40:50,950
+<b>Eu só quero ir para casa.</b>
+
+697
+00:40:53,453 --> 00:40:54,621
+<b>Abby, obrigado.</b>
+
+698
+00:40:55,121 --> 00:40:56,998
+<b>Agradeço muito
+o que você fez por nós.</b>
+
+699
+00:40:57,457 --> 00:40:58,791
+<b>Não vou me esquecer disso.</b>
+
+700
+00:40:59,709 --> 00:41:00,752
+<b>Obrigado.</b>
+
+701
+00:41:03,087 --> 00:41:04,087
+<b>Vamos para casa.</b>
+
+702
+00:41:14,224 --> 00:41:18,520
+<b><i>Porque ninguém conhece você
+Melhor do que Eu</b>.</i>
+
+703
+00:41:20,813 --> 00:41:24,651
+<b><i>E ninguém tem sido
+Um amigo melhor</b>.</i>
+
+704
+00:41:25,693 --> 00:41:32,033
+<b><i>Então, pegue no sono, amor
+Venha descansar</b>.</i>
+
+705
+00:41:32,575 --> 00:41:39,040
+<b><i>Você tem andado cansada ultimamente
+Deite sua cabeça</b>.</i>
+
+706
+00:41:39,123 --> 00:41:45,171
+<b><i>Você não acha, amor
+Que Eu sei das coisas?</b></i>
+
+707
+00:41:45,672 --> 00:41:52,637
+<b><i>Eu sou Pai há muito tempo</b>.</i>
+
+708
+00:41:57,267 --> 00:41:58,434
+<b>Está tudo trancado.</b>
+
+709
+00:42:00,728 --> 00:42:02,689
+<b>- Foram todos embora?
+- Sim.</b>
+
+710
+00:42:02,772 --> 00:42:04,774
+<b>- Sala de recuperação?
+- Vazia.</b>
+
+711
+00:42:04,858 --> 00:42:07,110
+<b>- E a Cheryl?
+- Acaba de sair do estacionamento.</b>
+
+712
+00:42:07,485 --> 00:42:09,237
+<b>Surpresa!</b>
+
+713
+00:42:12,448 --> 00:42:14,242
+<b>Vamos ter um bebê!</b>
+
+714
+00:42:18,538 --> 00:42:22,250
+<b><i>Mais tarde naquele dia,
+depois de interromper 38 gravidezes</b></i>
+
+715
+00:42:22,333 --> 00:42:23,585
+<b><i>em apenas quatro horas,</b></i>
+
+716
+00:42:23,668 --> 00:42:26,296
+<b><i>passamos duas horas
+comemorando minha gravidez</b></i>
+
+717
+00:42:26,379 --> 00:42:29,132
+<b><i>com bolo, flores
+e presentes para o bebê.</b></i>
+
+718
+00:42:35,597 --> 00:42:36,598
+<b>Abby!</b>
+
+719
+00:42:37,307 --> 00:42:39,184
+<b>Você está grávida!</b>
+
+720
+00:42:39,684 --> 00:42:40,977
+<b>Como você descobriu?</b>
+
+721
+00:42:42,145 --> 00:42:43,438
+<b>Para quando é?</b>
+
+722
+00:42:44,272 --> 00:42:45,273
+<b>Dia de Ação de Graças.</b>
+
+723
+00:42:45,648 --> 00:42:46,816
+<b>O meu também.</b>
+
+724
+00:42:48,276 --> 00:42:51,321
+<b>Sério? Você está tão pequena.</b>
+
+725
+00:42:51,404 --> 00:42:52,739
+<b>Não por muito tempo.</b>
+
+726
+00:42:53,364 --> 00:42:55,116
+<b>Pense em como o Natal
+será divertido.</b>
+
+727
+00:42:55,491 --> 00:42:57,952
+<b>Existe bênção maior
+do que um novo bebê?</b>
+
+728
+00:42:59,120 --> 00:43:00,288
+<b>Tudo bem.</b>
+
+729
+00:43:01,122 --> 00:43:02,457
+<b>Eu concordo.</b>
+
+730
+00:43:03,416 --> 00:43:04,834
+<b>Nas circunstâncias certas.</b>
+
+731
+00:43:09,881 --> 00:43:12,050
+<b>- Bom ver você, Abby.
+- Você também.</b>
+
+732
+00:43:25,563 --> 00:43:26,940
+<b><i>Por volta dessa época,</b></i>
+
+733
+00:43:27,023 --> 00:43:28,983
+<b><i>Shawn Carney e seus amigos
+começaram</b></i>
+
+734
+00:43:29,067 --> 00:43:32,403
+<b><i>a primeira maratona deles
+de oração 40 Dias pela Vida.</b></i>
+
+735
+00:43:32,487 --> 00:43:35,198
+<b><i>24 horas por dia,
+sete dias por semana,</b></i>
+
+736
+00:43:35,281 --> 00:43:37,742
+<b><i>havia gente orando
+em frente à nossa clínica.</b></i>
+
+737
+00:43:37,825 --> 00:43:41,079
+<b>São extremistas fanáticos
+que farão qualquer coisa</b>
+
+738
+00:43:41,162 --> 00:43:43,206
+<b>para barrar o direito de escolha
+das mulheres.</b>
+
+739
+00:43:43,289 --> 00:43:45,458
+<b>Está preocupada
+com sua segurança e da equipe?</b>
+
+740
+00:43:45,542 --> 00:43:47,669
+<b>Com certeza.
+Violência é uma possibilidade real.</b>
+
+741
+00:43:47,752 --> 00:43:51,714
+<b><i>Cheryl estava fora de si,
+mas não prestei muita atenção.</b></i>
+
+742
+00:43:51,798 --> 00:43:54,133
+<b><i>Eu estava empenhada
+em outra coisa.</b></i>
+
+743
+00:44:02,350 --> 00:44:03,768
+<b>Amor? Amor?</b>
+
+744
+00:44:04,894 --> 00:44:06,187
+<b>Detesto dizer isso,</b>
+
+745
+00:44:06,896 --> 00:44:09,440
+<b>mas ele disse que tem
+só dois centímetros de dilatação.</b>
+
+746
+00:44:09,524 --> 00:44:10,524
+<b>O quê?</b>
+
+747
+00:44:13,695 --> 00:44:15,530
+<b>Foi uma hora ruim
+para dizer isso.</b>
+
+748
+00:44:16,573 --> 00:44:17,574
+<b>Cala a boca!</b>
+
+749
+00:44:17,657 --> 00:44:19,409
+<b>Apenas não me toque.</b>
+
+750
+00:44:19,492 --> 00:44:22,412
+<b><i>E foi só 22 horas depois...</b></i>
+
+751
+00:44:23,872 --> 00:44:25,331
+<b>Dois centímetros!</b>
+
+752
+00:44:25,915 --> 00:44:28,293
+<b><i>...que dei à luz uma menina linda.</b></i>
+
+753
+00:44:28,960 --> 00:44:30,295
+<b><i>Nós a chamamos de Grace.</b></i>
+
+754
+00:44:30,378 --> 00:44:31,379
+<b>Ele está lá embaixo.</b>
+
+755
+00:44:31,462 --> 00:44:33,298
+<b>Não vê uma fralda suja
+há muito tempo,</b>
+
+756
+00:44:33,381 --> 00:44:35,466
+<b>e acho que é a hora perfeita
+para mostrar a ele.</b>
+
+757
+00:44:36,217 --> 00:44:38,011
+<b>Ele vai adorar!</b>
+
+758
+00:44:40,972 --> 00:44:42,849
+<b>Você está ansiosa
+para ficar em casa?</b>
+
+759
+00:44:43,892 --> 00:44:45,935
+<b>Estou.
+Pelas próximas oito semanas, sim.</b>
+
+760
+00:44:46,978 --> 00:44:48,618
+<b>Não acha que essa criança
+precisa de você?</b>
+
+761
+00:44:49,397 --> 00:44:50,732
+<b>E ela me terá.</b>
+
+762
+00:44:51,649 --> 00:44:54,569
+<b>Cheryl está sendo promovida
+e transferida para Houston.</b>
+
+763
+00:44:54,652 --> 00:44:56,821
+<b>Ela quer que eu seja
+diretora da clínica.</b>
+
+764
+00:44:57,697 --> 00:45:00,909
+<b>Eu seria a diretora mais jovem da história
+da Paternidade Planejada.</b>
+
+765
+00:45:01,993 --> 00:45:04,120
+<b>Não é o tipo de chance
+que se deixa passar.</b>
+
+766
+00:45:04,871 --> 00:45:06,748
+<b>Abby, não sei o que você
+quer que eu diga.</b>
+
+767
+00:45:08,166 --> 00:45:11,085
+<b>Estou orgulhosa das suas realizações.
+Estou.</b>
+
+768
+00:45:11,669 --> 00:45:14,047
+<b>Mas não posso fingir gostar
+da sua escolha de carreira.</b>
+
+769
+00:45:15,173 --> 00:45:17,675
+<b>Já pensou sobre o fato
+de que, como diretora,</b>
+
+770
+00:45:17,759 --> 00:45:20,094
+<b>você será responsável
+pelos abortos na sua clínica?</b>
+
+771
+00:45:20,178 --> 00:45:23,389
+<b>Não vê que é diferente de aconselhá-las
+sobre suas escolhas?</b>
+
+772
+00:45:23,473 --> 00:45:27,018
+<b>Claro, mas agora posso fazer da nossa
+a melhor clínica afiliada.</b>
+
+773
+00:45:27,936 --> 00:45:30,980
+<b>E diminuir o número
+de gravidez indesejada.</b>
+
+774
+00:45:31,898 --> 00:45:33,983
+<b>É minha chance
+de fazer a diferença.</b>
+
+775
+00:45:35,401 --> 00:45:37,445
+<b>Mãe... qual o problema?</b>
+
+776
+00:45:39,989 --> 00:45:43,117
+<b>Eu esperava que o nascimento da Grace
+seria o fim de tudo isso.</b>
+
+777
+00:45:44,536 --> 00:45:46,704
+<b>Mas, obviamente, não é.</b>
+
+778
+00:46:08,852 --> 00:46:10,270
+<b>Ela não vai se demitir.</b>
+
+779
+00:46:11,729 --> 00:46:13,857
+<b>Preciso acreditar que ela vai,</b>
+
+780
+00:46:13,940 --> 00:46:15,483
+<b>mais cedo ou mais tarde.</b>
+
+781
+00:46:15,567 --> 00:46:16,943
+<b>Não.</b>
+
+782
+00:46:17,819 --> 00:46:19,237
+<b>Ela não vai.</b>
+
+783
+00:46:20,572 --> 00:46:22,240
+<b>Ela tem aspirações.</b>
+
+784
+00:46:36,045 --> 00:46:39,716
+<b>Amor, será que um dia
+vamos voltar a dormir?</b>
+
+785
+00:46:39,799 --> 00:46:40,800
+<b>Não...</b>
+
+786
+00:46:41,134 --> 00:46:43,219
+<b>Mas é você
+que tem que levantar esta noite.</b>
+
+787
+00:46:44,053 --> 00:46:45,430
+<b>Eu me levanto toda noite.</b>
+
+788
+00:46:51,561 --> 00:46:55,565
+<b>Vou orar para que, caso eu não deva
+assumir essa função,</b>
+
+789
+00:46:55,648 --> 00:46:57,525
+<b>que eu não seja promovida.</b>
+
+790
+00:46:58,443 --> 00:47:00,820
+<b>Mas você já se candidatou
+para a vaga, certo?</b>
+
+791
+00:47:01,905 --> 00:47:03,156
+<b>Sim, e daí?</b>
+
+792
+00:47:03,573 --> 00:47:07,827
+<b>Você está pedindo para que Deus pare algo
+que você já pôs em movimento.</b>
+
+793
+00:47:08,203 --> 00:47:10,830
+<b>Por que não? Ele é Deus.
+Pode intervir.</b>
+
+794
+00:47:12,290 --> 00:47:13,458
+<b>Se eu conseguir a vaga,</b>
+
+795
+00:47:13,541 --> 00:47:15,822
+<b>saberei que é a vontade d'Ele
+que eu administre a clínica.</b>
+
+796
+00:47:16,961 --> 00:47:18,379
+<b>Você que sabe, querida.</b>
+
+797
+00:47:19,714 --> 00:47:20,714
+<b>Boa noite.</b>
+
+798
+00:47:27,472 --> 00:47:30,266
+<b><i>No dia seguinte,
+eu obtive a promoção.</b></i>
+
+799
+00:47:30,600 --> 00:47:34,103
+<b>Daqui em diante, nada de perseguir
+manifestantes ou chamar a polícia,</b>
+
+800
+00:47:34,187 --> 00:47:36,064
+<b>a menos que alguém
+se revele perigoso.</b>
+
+801
+00:47:36,147 --> 00:47:38,691
+<b>Espere, daremos passe livre
+aos antiabortistas?</b>
+
+802
+00:47:38,775 --> 00:47:41,611
+<b>Vamos tratá-los com respeito,
+e esperar o mesmo em troca.</b>
+
+803
+00:47:41,694 --> 00:47:44,113
+<b>- E não usaremos irrigadores.
+- Paternidade Planejada. Renee.</b>
+
+804
+00:47:44,197 --> 00:47:47,200
+<b>Não deixaremos que nos irritem
+ou tirem do sério.</b>
+
+805
+00:47:48,076 --> 00:47:49,786
+<b>Fazemos algo bom aqui,</b>
+
+806
+00:47:49,869 --> 00:47:53,331
+<b>e o melhor modo de reforçar isso
+é com ações, não com palavras.</b>
+
+807
+00:47:53,414 --> 00:47:56,251
+<b>Está bem. Sim, senhora. Claro.</b>
+
+808
+00:47:56,751 --> 00:47:58,753
+<b>Abby, tem uma mulher
+dando a volta no quarteirão.</b>
+
+809
+00:47:58,837 --> 00:48:01,548
+<b>Ela não pode entrar
+porque tem alguém filmando lá fora.</b>
+
+810
+00:48:01,631 --> 00:48:03,341
+<b>É a terceira queixa esta manhã.</b>
+
+811
+00:48:03,424 --> 00:48:04,425
+<b>Vou cuidar disso.</b>
+
+812
+00:48:05,301 --> 00:48:09,180
+<b>Senhora, sinto muito por isso.
+Minha chefe vai cuidar disso agora.</b>
+
+813
+00:48:09,722 --> 00:48:10,723
+<b>Está filmando tudo?</b>
+
+814
+00:48:17,897 --> 00:48:19,357
+<b>- Oi.
+- Oi, Abby.</b>
+
+815
+00:48:19,440 --> 00:48:21,776
+<b>- Eu soube que foi promovida.
+- Fui.</b>
+
+816
+00:48:21,860 --> 00:48:23,987
+<b>Vou entender
+se não me der os parabéns.</b>
+
+817
+00:48:24,070 --> 00:48:26,656
+<b>Não, acho que essas mulheres
+finalmente terão no comando</b>
+
+818
+00:48:26,739 --> 00:48:28,408
+<b>alguém que se importa com elas.</b>
+
+819
+00:48:28,908 --> 00:48:29,909
+<b>Esta é sua câmera?</b>
+
+820
+00:48:30,535 --> 00:48:32,537
+<b>- É.
+- Tem que ser retirada.</b>
+
+821
+00:48:33,413 --> 00:48:34,956
+<b>Lamento, não podemos fazer isso.</b>
+
+822
+00:48:35,039 --> 00:48:36,040
+<b>Podem, sim.</b>
+
+823
+00:48:36,124 --> 00:48:38,793
+<b>É só tirar do tripé
+e levar de volta ao seu escritório.</b>
+
+824
+00:48:38,877 --> 00:48:42,547
+<b>Abby, fomos acusados de muitas coisas,
+algumas delas criminosas.</b>
+
+825
+00:48:42,630 --> 00:48:46,551
+<b>Esta câmera prova que agimos
+pacificamente, sem confrontos.</b>
+
+826
+00:48:46,634 --> 00:48:50,805
+<b>Shawn, não é assim que você quer
+começar nosso novo relacionamento.</b>
+
+827
+00:48:51,723 --> 00:48:54,309
+<b>Não a vire para a cerca.
+Só peço isso.</b>
+
+828
+00:48:54,392 --> 00:48:57,228
+<b>Não posso. Precisamos ver
+o que realmente acontece.</b>
+
+829
+00:48:57,312 --> 00:48:59,689
+<b>Se houver alguma dúvida,
+é preciso que seja esclarecida.</b>
+
+830
+00:49:01,816 --> 00:49:04,068
+<b>Às vezes,
+não me importo com vocês,</b>
+
+831
+00:49:04,986 --> 00:49:07,405
+<b>mas esta manhã,
+estão realmente me irritando.</b>
+
+832
+00:49:12,744 --> 00:49:16,623
+<b>Para sua informação, sempre houve pessoas
+dispostas a defender os direitos humanos.</b>
+
+833
+00:49:16,706 --> 00:49:18,267
+<b>Primeiro, foi a luta
+contra a escravidão.</b>
+
+834
+00:49:18,291 --> 00:49:20,960
+<b>Depois, a oposição ao Holocausto.</b>
+
+835
+00:49:21,044 --> 00:49:22,605
+<b>Mais tarde, foi a batalha
+pelos direitos civis.</b>
+
+836
+00:49:22,629 --> 00:49:26,633
+<b>Agora, a Paternidade Planejada luta
+pelos direitos reprodutivos das mulheres.</b>
+
+837
+00:49:26,716 --> 00:49:27,926
+<b>Não precisa justificar.</b>
+
+838
+00:49:28,009 --> 00:49:30,345
+<b>Não estou justificando,
+só tentando explicar.</b>
+
+839
+00:49:30,428 --> 00:49:31,804
+<b>Não precisa explicar.</b>
+
+840
+00:49:31,888 --> 00:49:35,266
+<b>A verdade é que acabou de citar
+três exemplos de injustiça.</b>
+
+841
+00:49:35,350 --> 00:49:38,311
+<b>Escravidão, segregação
+e o Holocausto.</b>
+
+842
+00:49:38,394 --> 00:49:42,482
+<b>Isso só ocorre quando um segmento inteiro
+da população é desumanizado.</b>
+
+843
+00:49:42,565 --> 00:49:45,401
+<b>É o que a Paternidade Planejada faz
+com quem ainda não nasceu.</b>
+
+844
+00:49:56,704 --> 00:49:57,789
+<b>Mandou bem nessa.</b>
+
+845
+00:49:58,373 --> 00:50:00,542
+<b>É. Ela vai ficar bem.</b>
+
+846
+00:50:12,220 --> 00:50:13,638
+<b>Por que está sorrindo?</b>
+
+847
+00:50:14,347 --> 00:50:17,141
+<b>Ela tem seu mérito.
+Fez a gente tirar a câmera.</b>
+
+848
+00:50:19,185 --> 00:50:21,771
+<b><i>Parte do meu trabalho como diretora
+era vender abortos.</b></i>
+
+849
+00:50:22,397 --> 00:50:24,774
+<b><i>E eu era muito boa nisso.</b></i>
+
+850
+00:50:25,316 --> 00:50:27,277
+<b><i>Sabe aqueles caras
+que conseguem vender viagens</b></i>
+
+851
+00:50:27,360 --> 00:50:29,112
+<b><i>para destinos que você
+nunca ouviu falar?</b></i>
+
+852
+00:50:29,737 --> 00:50:32,073
+<b><i>Eles não eram nada
+comparados a mim.</b></i>
+
+853
+00:50:32,615 --> 00:50:34,325
+<b>Mas Jane, você está de oito semanas.</b>
+
+854
+00:50:34,409 --> 00:50:37,495
+<b>Você já gastou 150 dólares
+num ultrassom.</b>
+
+855
+00:50:38,079 --> 00:50:41,624
+<b>Se fizer hoje, estou autorizada
+a incluir no custo do procedimento.</b>
+
+856
+00:50:41,708 --> 00:50:43,209
+<b>Mas se você sair daqui,</b>
+
+857
+00:50:43,293 --> 00:50:45,378
+<b>só terei vaga
+daqui a duas semanas.</b>
+
+858
+00:50:45,461 --> 00:50:48,548
+<b>Com 10 semanas, o preço sobe 100 dólares
+e você perde o desconto.</b>
+
+859
+00:50:50,133 --> 00:50:52,969
+<b>Optar por esperar custará a você
+mais 250 dólares.</b>
+
+860
+00:50:53,344 --> 00:50:57,307
+<b>E então, existe alguma razão
+para não agendarmos para hoje?</b>
+
+861
+00:50:57,640 --> 00:50:59,809
+<b>- Aceita cartão de crédito, certo?
+- Com certeza.</b>
+
+862
+00:51:01,186 --> 00:51:03,354
+<b>Posso colocá-la na espera,
+por favor?</b>
+
+863
+00:51:04,022 --> 00:51:05,148
+<b>Está bem, obrigada.</b>
+
+864
+00:51:06,608 --> 00:51:08,568
+<b>Eu não vou fazer isso.
+É com você.</b>
+
+865
+00:51:12,572 --> 00:51:14,574
+<b>Oi. Aqui é Abby Johnson,
+diretora da clínica.</b>
+
+866
+00:51:14,657 --> 00:51:18,620
+<b><i>Vocês têm estacionamento nos fundos?
+Um onde eu não possa ser vista da rua?</b></i>
+
+867
+00:51:19,037 --> 00:51:21,998
+<b>Não, sinto muito.
+Só temos vagas na frente.</b>
+
+868
+00:51:22,081 --> 00:51:23,208
+<b>Tem algum problema?</b>
+
+869
+00:51:23,291 --> 00:51:24,792
+<b><i>Não. Não é nada de mais.</b></i>
+
+870
+00:51:25,502 --> 00:51:28,379
+<b><i>É que minha família está
+em frente à clínica orando.</b></i>
+
+871
+00:51:28,463 --> 00:51:31,023
+<b><i>Eles sabiam que eu vinha hoje
+e estão tentando me fazer desistir.</b></i>
+
+872
+00:51:31,090 --> 00:51:33,468
+<b>Certo. Faça o seguinte.</b>
+
+873
+00:51:33,551 --> 00:51:37,222
+<b>Estacione o mais perto possível
+da porta e eu irei buscá-la.</b>
+
+874
+00:51:41,100 --> 00:51:42,227
+<b>Rhonda...</b>
+
+875
+00:51:42,310 --> 00:51:44,312
+<b>Rhonda, querida,
+por favor, não faça isso!</b>
+
+876
+00:51:45,855 --> 00:51:49,192
+<b>Por favor...
+Por favor, não faça isso!</b>
+
+877
+00:51:50,026 --> 00:51:52,445
+<b>Conseguimos o que você precisar,
+você pode vir morar conosco.</b>
+
+878
+00:51:52,820 --> 00:51:54,197
+<b>Ei, Lily!</b>
+
+879
+00:51:54,280 --> 00:51:56,866
+<b>Oi! Oi, querida!</b>
+
+880
+00:51:58,243 --> 00:52:00,537
+<b>Por que está chorando, vovó?</b>
+
+881
+00:52:01,663 --> 00:52:03,665
+<b>A vovó só está um pouco chateada.</b>
+
+882
+00:52:04,290 --> 00:52:06,000
+<b>- Querida, vamos entrar.
+- Eu te amo.</b>
+
+883
+00:52:06,084 --> 00:52:07,752
+<b>Vamos entrar com a mamãe, tá bom?</b>
+
+884
+00:52:08,628 --> 00:52:09,963
+<b>A mamãe também vem. Vamos.</b>
+
+885
+00:52:10,338 --> 00:52:11,840
+<b>Esse bebê
+que você está carregando</b>
+
+886
+00:52:12,173 --> 00:52:14,425
+<b>vai ser tão bonito quanto a Lily.</b>
+
+887
+00:52:15,593 --> 00:52:19,138
+<b>Rhonda, pense na alegria
+que ela nos trouxe!</b>
+
+888
+00:52:19,889 --> 00:52:22,100
+<b>Agora pense no mundo sem ela!</b>
+
+889
+00:52:22,517 --> 00:52:24,185
+<b>Rhonda, não faça isso!</b>
+
+890
+00:52:25,353 --> 00:52:26,353
+<b>Rhonda!</b>
+
+891
+00:52:26,396 --> 00:52:28,314
+<b>Você está bem?
+Se precisar conversar...</b>
+
+892
+00:52:28,398 --> 00:52:30,608
+<b>Parece que você tem muito apoio
+da sua família</b>
+
+893
+00:52:30,692 --> 00:52:32,110
+<b>se decidir ficar com o bebê.</b>
+
+894
+00:52:32,735 --> 00:52:34,946
+<b>Tudo bem. É só minha mãe.
+Ela é assim mesmo.</b>
+
+895
+00:52:35,905 --> 00:52:37,073
+<b>Acredite, estou bem.</b>
+
+896
+00:52:37,824 --> 00:52:39,909
+<b>Por favor,
+eu não posso passar por isso!</b>
+
+897
+00:52:41,077 --> 00:52:42,245
+<b>Rhonda!</b>
+
+898
+00:52:42,328 --> 00:52:45,331
+<b><i>"Bem"?
+Como ela poderia estar bem?</b></i>
+
+899
+00:52:45,415 --> 00:52:47,375
+<b>Deus, me ajude...</b>
+
+900
+00:52:47,458 --> 00:52:49,878
+<b><i>Eu estava bem abalada
+com o que tinha acabado de ver.</b></i>
+
+901
+00:52:49,961 --> 00:52:51,796
+<b>Ajude-me! Ajude-me, Deus.</b>
+
+902
+00:52:52,338 --> 00:52:55,049
+<b><i>A família ficou
+e orou por uma hora.</b></i>
+
+903
+00:52:55,967 --> 00:52:57,385
+<b><i>Então mais uma hora.</b></i>
+
+904
+00:52:58,178 --> 00:53:00,638
+<b><i>E aí, finalmente... foram para casa.</b></i>
+
+905
+00:53:01,931 --> 00:53:02,974
+<b>Um dia...</b>
+
+906
+00:53:04,559 --> 00:53:06,144
+<b>Esse lugar vai fechar.</b>
+
+907
+00:53:08,021 --> 00:53:09,397
+<b>Tem que fechar.</b>
+
+908
+00:53:10,106 --> 00:53:12,692
+<b><i>Vá na frente que eu seguirei</b>.</i>
+
+909
+00:53:12,775 --> 00:53:15,278
+<b>Não posso continuar
+com essa angústia constante.</b>
+
+910
+00:53:16,905 --> 00:53:20,074
+<b><i>Eu não parava de pensar
+nos abortos que tinha escondido</b></i>
+
+911
+00:53:20,158 --> 00:53:22,535
+<b><i>da minha própria mãe.</b></i>
+
+912
+00:53:23,411 --> 00:53:26,372
+<b><i>Mais tarde, quando o prédio
+estava vazio,</b></i>
+
+913
+00:53:27,332 --> 00:53:30,210
+<b><i>fiz algo que vinha evitando
+há muito tempo.</b></i>
+
+914
+00:53:30,960 --> 00:53:36,257
+<b><i>Quando minha fé se cansa
+E minha esperança parece perdida</b>.</i>
+
+915
+00:53:38,468 --> 00:53:44,974
+<b><i>Você me faz girar, girar e girar
+E me faz lembrar dessa canção</b>.</i>
+
+916
+00:53:45,058 --> 00:53:48,478
+<b><i>A que você escreveu para mim</b>.</i>
+
+917
+00:54:04,452 --> 00:54:07,622
+<b><i>E me disseram</b>.</i>
+
+918
+00:54:07,956 --> 00:54:11,835
+<b><i>Para pegar minha espada
+E lutar por amor</b>.</i>
+
+919
+00:54:11,918 --> 00:54:16,506
+<b><i>Mal sabia eu
+Que o amor tinha ganhado para mim</b>.</i>
+
+920
+00:54:19,008 --> 00:54:22,345
+<b><i>Aqui em Seus braços</b>.</i>
+
+921
+00:54:22,846 --> 00:54:26,933
+<b><i>Você apazigua
+Meu coração novamente</b>.</i>
+
+922
+00:54:27,016 --> 00:54:31,688
+<b><i>E eu Te respiro
+Como eu nunca respirei até agora</b>.</i>
+
+923
+00:54:33,606 --> 00:54:38,987
+<b><i>Quando minha fé se cansa
+E minha esperança parece perdida</b>.</i>
+
+924
+00:54:41,447 --> 00:54:43,908
+<b>Você tem ideia do quanto eu te amo?</b>
+
+925
+00:54:43,992 --> 00:54:47,787
+<b><i>E me faz lembrar dessa canção</b>.</i>
+
+926
+00:54:47,871 --> 00:54:51,166
+<b><i>A que Você escreveu para mim</b>.</i>
+
+927
+00:54:51,249 --> 00:54:53,501
+<b><i>E nós dançamos</b>.</i>
+
+928
+00:54:58,131 --> 00:55:01,342
+<b><i>Ah, nós dançamos</b>.</i>
+
+929
+00:55:05,763 --> 00:55:09,225
+<b><i>E nós dançamos
+Nós dançamos</b>.</i>
+
+930
+00:55:13,563 --> 00:55:15,231
+<b><i>Nós dançamos</b>.</i>
+
+931
+00:55:16,649 --> 00:55:18,359
+<b><i>Somente Você e eu</b>.</i>
+
+932
+00:55:21,863 --> 00:55:25,158
+<b><i>É bom saber que não estou sozinha</b>.</i>
+
+933
+00:55:25,241 --> 00:55:29,579
+<b><i>Eu encontrei minha casa
+Aqui nos Seus braços</b>.</i>
+
+934
+00:55:32,123 --> 00:55:34,792
+<b><i>Por um tempo, a vida se tornou
+uma rotina previsível.</b></i>
+
+935
+00:55:34,876 --> 00:55:35,877
+<b>QUATRO ANOS DEPOIS</b>
+
+936
+00:55:35,960 --> 00:55:41,090
+<b><i>Olhando agora, foi a calmaria
+antes de uma tempestade muito forte.</b></i>
+
+937
+00:55:43,343 --> 00:55:45,678
+<b><i>Mencione "Houston" e "furacão"
+ao mesmo tempo</b></i>
+
+938
+00:55:45,762 --> 00:55:47,931
+<b><i>e as pessoas logo pensam
+no Harvey.</b></i>
+
+939
+00:55:48,014 --> 00:55:49,891
+<b><i>Poucos se lembram do furacão Ike,</b></i>
+
+940
+00:55:49,974 --> 00:55:52,644
+<b><i>o que é muito estranho,
+já que, quando chegou,</b></i>
+
+941
+00:55:52,727 --> 00:55:55,939
+<b><i>foi o 3º furacão mais destrutivo
+da história dos EUA.</b></i>
+
+942
+00:55:56,022 --> 00:55:57,774
+<b><i>E o que tornou Ike
+ainda mais assustador</b></i>
+
+943
+00:55:57,857 --> 00:56:00,652
+<b><i>foi ele ter se dirigido
+direto para nós.</b></i>
+
+944
+00:56:00,735 --> 00:56:03,404
+<b><i>...onde ele chegará, até sábado,
+em algum lugar...</b></i>
+
+945
+00:56:03,488 --> 00:56:06,574
+<b>- Está vendo isso?
+<i>- Trata-se de um monstro de categoria 4.</b></i>
+
+946
+00:56:06,991 --> 00:56:11,246
+<b>Precisa contatar todas suas clientes
+e dizer para elas ficarem em casa.</b>
+
+947
+00:56:11,329 --> 00:56:13,540
+<b>Mas temos 40 mulheres
+dependendo de nós.</b>
+
+948
+00:56:14,207 --> 00:56:17,252
+<b>Algumas não podem esperar duas semanas.
+Terá passado o prazo máximo.</b>
+
+949
+00:56:17,669 --> 00:56:20,129
+<b><i>Não podemos esperar um pouco
+antes de cancelar?</b></i>
+
+950
+00:56:20,213 --> 00:56:22,465
+<b>Não. Se algo acontecer,
+seremos processados.</b>
+
+951
+00:56:22,841 --> 00:56:24,968
+<b>Não podemos arcar
+com a responsabilidade.</b>
+
+952
+00:56:25,051 --> 00:56:27,846
+<b>A essa altura, metade de Houston
+está se preparando para partir.</b>
+
+953
+00:56:27,929 --> 00:56:32,225
+<b>E se todas vierem antes e eu remarcar
+o médico pra sexta em vez de sábado?</b>
+
+954
+00:56:32,308 --> 00:56:34,060
+<b>Todas estarão liberadas
+até as 15h.</b>
+
+955
+00:56:36,104 --> 00:56:37,188
+<b>Não sei se é uma boa ideia.</b>
+
+956
+00:56:37,272 --> 00:56:38,982
+<b>Temos mesmo que ligar para todas.</b>
+
+957
+00:56:39,065 --> 00:56:40,650
+<b>E daremos a opção:</b>
+
+958
+00:56:40,733 --> 00:56:43,570
+<b>Remarcar para daqui
+a duas semanas ou vir amanhã.</b>
+
+959
+00:56:45,864 --> 00:56:46,948
+<b>Faça isso.</b>
+
+960
+00:56:47,031 --> 00:56:48,032
+<b>Obrigada.</b>
+
+961
+00:56:49,784 --> 00:56:52,495
+<b><i>Motoristas encalhados, ventos fortes,
+e potencial perda de energia</b></i>
+
+962
+00:56:52,579 --> 00:56:54,706
+<b><i>para milhões de consumidores.</b></i>
+
+963
+00:56:54,789 --> 00:56:56,833
+<b>Não podemos vir aqui sábado.</b>
+
+964
+00:56:56,916 --> 00:56:59,752
+<b>Espere. Por quê?
+O prédio é sólido e temos gerador.</b>
+
+965
+00:56:59,836 --> 00:57:02,839
+<b>Mas o caminho será impossível,
+com árvores caídas,</b>
+
+966
+00:57:02,922 --> 00:57:05,258
+<b>linhas de energia derrubadas,
+sem falar das inundações.</b>
+
+967
+00:57:05,341 --> 00:57:07,635
+<b>E será proibido dirigir
+até amanhã à noite.</b>
+
+968
+00:57:07,719 --> 00:57:09,470
+<b>Precisamos ligar
+para todas desta lista.</b>
+
+969
+00:57:09,554 --> 00:57:10,847
+<b>Não podem vir sábado.</b>
+
+970
+00:57:11,431 --> 00:57:13,433
+<b>Espero remarcá-las para amanhã.</b>
+
+971
+00:57:13,933 --> 00:57:14,934
+<b>Amanhã?</b>
+
+972
+00:57:15,476 --> 00:57:19,397
+<b>Dois cirurgiões farão procedimentos
+nas duas salas ao mesmo tempo.</b>
+
+973
+00:57:19,898 --> 00:57:23,109
+<b>Tudo deve funcionar como um relógio.
+Não há tempo para cometer erros.</b>
+
+974
+00:57:23,860 --> 00:57:26,487
+<b>Com a última paciente
+na recuperação, acaba.</b>
+
+975
+00:57:26,571 --> 00:57:27,906
+<b>Sem papelada, sem limpeza.</b>
+
+976
+00:57:28,281 --> 00:57:30,742
+<b>Trancamos a porta,
+corremos para casa e nos preparamos.</b>
+
+977
+00:57:30,825 --> 00:57:33,161
+<b>Mas para funcionar,
+precisamos da ajuda de todas.</b>
+
+978
+00:57:33,244 --> 00:57:34,370
+<b>Vocês estão dentro?</b>
+
+979
+00:57:34,454 --> 00:57:36,289
+<b>Eu estou. O que precisar.</b>
+
+980
+00:57:36,372 --> 00:57:37,373
+<b>Vamos nessa.</b>
+
+981
+00:57:37,457 --> 00:57:40,001
+<b>Vou distribuir isto
+e vamos começar.</b>
+
+982
+00:57:41,544 --> 00:57:43,171
+<b>Devemos ser discretas.</b>
+
+983
+00:57:43,796 --> 00:57:47,383
+<b><i>O que quer que você
+Esteja passando...</b></i>
+
+984
+00:57:48,218 --> 00:57:51,554
+<b><i>No dia seguinte, avisadas com menos
+de 18 horas de antecedência,</b></i>
+
+985
+00:57:51,638 --> 00:57:54,599
+<b><i>todas as nossas pacientes vieram.</b></i>
+
+986
+00:57:54,682 --> 00:57:57,727
+<b><i>Executamos seus procedimentos
+e elas foram para casa em segurança.</b></i>
+
+987
+00:57:59,687 --> 00:58:03,316
+<b><i>Permaneça na luta
+Até o último round</b>.</i>
+
+988
+00:58:03,399 --> 00:58:07,612
+<b><i>Você não vai afundar
+Você não vai afundar</b>.</i>
+
+989
+00:58:07,695 --> 00:58:10,448
+<b><i>Porque Deus está te abraçando
+Neste momento</b>.</i>
+
+990
+00:58:10,532 --> 00:58:15,286
+<b><i>Incluindo duas mulheres abandonadas
+lá dentro pelos namorados inúteis.</b></i>
+
+991
+00:58:16,621 --> 00:58:18,665
+<b><i>Algo que acontecia rotineiramente,</b></i>
+
+992
+00:58:19,082 --> 00:58:20,875
+<b><i>mesmo em dias normais.</b></i>
+
+993
+00:58:38,434 --> 00:58:40,395
+<b>Mamãe, você chegou!</b>
+
+994
+00:58:40,478 --> 00:58:42,230
+<b>Oi, amor. A mamãe está molhada.</b>
+
+995
+00:58:43,481 --> 00:58:44,899
+<b>Você está bem?</b>
+
+996
+00:58:45,441 --> 00:58:46,943
+<b>Sim, amor. Por quê?</b>
+
+997
+00:58:47,360 --> 00:58:49,445
+<b>Seus sapatos
+estão cheios de sangue.</b>
+
+998
+00:58:52,490 --> 00:58:53,533
+<b>Sabe...</b>
+
+999
+00:58:54,951 --> 00:58:57,120
+<b>a mamãe estava ajudando
+uma senhora no trabalho,</b>
+
+1000
+00:58:57,203 --> 00:58:58,705
+<b>e o nariz dela sangrou.</b>
+
+1001
+00:58:59,038 --> 00:59:03,209
+<b>Mas cuidei dela,
+e ela está melhor agora, tá?</b>
+
+1002
+00:59:03,960 --> 00:59:06,838
+<b>Adivinha o que eu gostaria muito
+de fazer agora.</b>
+
+1003
+00:59:06,921 --> 00:59:08,006
+<b>O quê?</b>
+
+1004
+00:59:08,089 --> 00:59:10,967
+<b>Brincar de casinha, só eu e você.</b>
+
+1005
+00:59:12,594 --> 00:59:14,387
+<b>Eu vou arrumar tudo!</b>
+
+1006
+00:59:19,267 --> 00:59:20,435
+<b>Orgulhosa de si mesma?</b>
+
+1007
+00:59:21,561 --> 00:59:23,897
+<b>Ninguém nunca disse
+que aborto era bonito.</b>
+
+1008
+00:59:40,830 --> 00:59:42,248
+<b>Nossa primeira ordem do dia</b>
+
+1009
+00:59:42,332 --> 00:59:45,793
+<b>é apresentar o prêmio de Funcionária
+do Ano da Paternidade Planejada.</b>
+
+1010
+00:59:45,877 --> 00:59:47,712
+<b>E o prêmio vai para...</b>
+
+1011
+00:59:48,755 --> 00:59:49,797
+<b>Abby Johnson.</b>
+
+1012
+00:59:54,719 --> 00:59:56,387
+<b>- Parabéns, Abby.
+- Obrigada.</b>
+
+1013
+00:59:56,471 --> 00:59:59,098
+<b>E não acho que seja uma coincidência
+a clínica da Abby</b>
+
+1014
+00:59:59,182 --> 01:00:03,394
+<b>ser a única a atingir a meta
+todos os meses.</b>
+
+1015
+01:00:03,478 --> 01:00:04,479
+<b>Parabéns.</b>
+
+1016
+01:00:05,813 --> 01:00:07,857
+<b>Em segundo lugar,
+posso finalmente confirmar</b>
+
+1017
+01:00:07,941 --> 01:00:09,943
+<b>os rumores
+que têm circulado por aí.</b>
+
+1018
+01:00:10,735 --> 01:00:12,862
+<b>A diretiva nacional
+deu sua aprovação.</b>
+
+1019
+01:00:12,946 --> 01:00:16,616
+<b>Em breve, iniciaremos a construção
+desta unidade na Costa do Golfo.</b>
+
+1020
+01:00:20,662 --> 01:00:21,996
+<b>É isso aí,</b>
+
+1021
+01:00:22,080 --> 01:00:25,959
+<b>um centro médico de última geração,
+de 7.250 metros quadrados,</b>
+
+1022
+01:00:26,292 --> 01:00:31,297
+<b>tornando-nos o maior centro cirúrgico
+ambulatorial do Hemisfério Ocidental,</b>
+
+1023
+01:00:31,381 --> 01:00:35,635
+<b>permitindo-nos realizar procedimentos
+até as 24 semanas.</b>
+
+1024
+01:00:35,718 --> 01:00:37,887
+<b>Mas estamos enfrentando
+alguns desafios.</b>
+
+1025
+01:00:37,971 --> 01:00:41,975
+<b>Três furacões em quatro anos esvaziaram
+nossas reservas, então tomem nota.</b>
+
+1026
+01:00:42,058 --> 01:00:44,394
+<b>Expandiremos os abortos
+quimicamente induzidos</b>
+
+1027
+01:00:44,477 --> 01:00:46,521
+<b>para todos os dias da semana.</b>
+
+1028
+01:00:46,604 --> 01:00:49,440
+<b>Agora olhem o material didático
+à sua frente, por favor.</b>
+
+1029
+01:00:49,524 --> 01:00:52,026
+<b>Vocês verão que a cada uma
+de suas clínicas</b>
+
+1030
+01:00:52,110 --> 01:00:55,780
+<b>estão sendo atribuídas metas
+de dobrar o total do ano passado</b>
+
+1031
+01:00:55,864 --> 01:00:57,490
+<b>em interrupções eletivas.</b>
+
+1032
+01:00:57,866 --> 01:00:58,992
+<b>Ela enlouqueceu?</b>
+
+1033
+01:00:59,075 --> 01:01:00,719
+<b>Temos margem melhor
+em químicos do que cirúrgicos.</b>
+
+1034
+01:01:00,743 --> 01:01:04,038
+<b>Arcando com menos
+honorários médicos, vamos...</b>
+
+1035
+01:01:05,582 --> 01:01:06,624
+<b>Abby?</b>
+
+1036
+01:01:09,711 --> 01:01:13,548
+<b>Bom, é que aborto nunca foi
+minha principal prioridade.</b>
+
+1037
+01:01:14,174 --> 01:01:16,593
+<b>Deem uma olhada na nossa
+declaração de missão, página 3.</b>
+
+1038
+01:01:17,302 --> 01:01:21,806
+<b>"Ampla oferta de saúde reprodutiva
+e informações de saúde sexual</b>
+
+1039
+01:01:21,890 --> 01:01:24,976
+<b>através de serviços, educação
+e apoio a pacientes."</b>
+
+1040
+01:01:26,436 --> 01:01:28,146
+<b>É o que me comprometo a fazer.</b>
+
+1041
+01:01:28,229 --> 01:01:31,900
+<b>Se nosso objetivo é diminuir
+o número de abortos,</b>
+
+1042
+01:01:31,983 --> 01:01:34,402
+<b>reduzindo o número
+de gravidez indesejada,</b>
+
+1043
+01:01:34,485 --> 01:01:37,822
+<b>por que nos pedem
+para dobrar o número de abortos?</b>
+
+1044
+01:01:41,910 --> 01:01:43,661
+<b>Por que não vamos
+à página quatro?</b>
+
+1045
+01:01:44,913 --> 01:01:45,913
+<b>Obrigada.</b>
+
+1046
+01:01:52,962 --> 01:01:53,963
+<b>Abby.</b>
+
+1047
+01:01:58,092 --> 01:02:01,137
+<b>Sinceramente, estou chocada
+com o modo como você me sabotou lá!</b>
+
+1048
+01:02:01,554 --> 01:02:04,682
+<b>É assim que agradece
+tudo o que fiz por você?</b>
+
+1049
+01:02:04,766 --> 01:02:07,268
+<b>-Cheryl, eu não...
+Deixe-me explicar uma coisa.</b>
+
+1050
+01:02:07,852 --> 01:02:11,564
+<b>Para as lanchonetes, basta não ter nenhum
+prejuízo nos hambúrgueres que vendem.</b>
+
+1051
+01:02:11,898 --> 01:02:13,775
+<b>Só o que buscam
+é não ter prejuízo.</b>
+
+1052
+01:02:14,317 --> 01:02:15,944
+<b>Sabe como elas ganham dinheiro?</b>
+
+1053
+01:02:16,569 --> 01:02:18,446
+<b>- Não.
+- Com fritas e refrigerantes.</b>
+
+1054
+01:02:18,530 --> 01:02:20,281
+<b>Itens baratos e lucrativos.</b>
+
+1055
+01:02:20,865 --> 01:02:22,200
+<b>Desculpe, mas não entendo...</b>
+
+1056
+01:02:22,283 --> 01:02:25,078
+<b>Abortos são como fritas
+e refrigerantes para a gente.</b>
+
+1057
+01:02:25,745 --> 01:02:28,873
+<b>Mas você decidiu
+que não é mais sua prioridade.</b>
+
+1058
+01:02:29,582 --> 01:02:32,627
+<b>O aborto é o que paga
+o seu salário.</b>
+
+1059
+01:02:33,461 --> 01:02:36,172
+<b>Paga sua previdência,</b>
+
+1060
+01:02:36,256 --> 01:02:39,008
+<b>seu mês de férias,
+sua licença médica.</b>
+
+1061
+01:02:39,092 --> 01:02:40,093
+<b>O aborto...</b>
+
+1062
+01:02:40,176 --> 01:02:42,804
+<b>o aborto é que paga tudo isso,</b>
+
+1063
+01:02:42,887 --> 01:02:45,473
+<b>para você e sua família.</b>
+
+1064
+01:02:46,349 --> 01:02:50,061
+<b>Eu não disse nada
+quando você decidiu se casar,</b>
+
+1065
+01:02:50,144 --> 01:02:53,481
+<b>e falei muito pouco
+quando você escolheu ser mãe,</b>
+
+1066
+01:02:54,148 --> 01:02:56,234
+<b>embora soubesse
+que afetaria seu trabalho.</b>
+
+1067
+01:02:56,317 --> 01:02:57,610
+<b>Mas como diretora da clínica,</b>
+
+1068
+01:02:57,694 --> 01:03:01,489
+<b>você é paga para ser um instrumento
+perfeito da política corporativa.</b>
+
+1069
+01:03:01,573 --> 01:03:03,366
+<b>E a política corporativa
+é simples.</b>
+
+1070
+01:03:05,201 --> 01:03:07,745
+<b>Nós somos um provedor de abortos.</b>
+
+1071
+01:03:08,329 --> 01:03:10,039
+<b>É uma organização
+sem fins lucrativos.</b>
+
+1072
+01:03:10,123 --> 01:03:12,125
+<b>"Sem fins lucrativos"
+é um status fiscal,</b>
+
+1073
+01:03:12,208 --> 01:03:13,626
+<b>não um modelo de negócios.</b>
+
+1074
+01:03:18,631 --> 01:03:21,426
+<b>Você acredita
+que ela me humilhou assim?</b>
+
+1075
+01:03:21,509 --> 01:03:25,847
+<b>Eu lá em pé com meu prêmio,
+parecendo uma idiota.</b>
+
+1076
+01:03:26,181 --> 01:03:30,560
+<b>Como eu deveria dobrar
+o número de abortos?</b>
+
+1077
+01:03:30,643 --> 01:03:33,521
+<b>Dirigindo pelo bairro,
+falando para todo mundo engravidar?</b>
+
+1078
+01:03:34,022 --> 01:03:35,607
+<b>Não acho que isso funcionaria.</b>
+
+1079
+01:03:36,232 --> 01:03:37,358
+<b>Muito engraçado.</b>
+
+1080
+01:03:37,775 --> 01:03:39,003
+<b>- Quer um copo?
+- Sim, por favor.</b>
+
+1081
+01:03:39,027 --> 01:03:41,088
+<b>Você vai precisar, porque sabe
+o que realmente me irrita?</b>
+
+1082
+01:03:41,112 --> 01:03:47,076
+<b>É que eles estão construindo a maior
+e mais avançada clínica do país</b>
+
+1083
+01:03:47,160 --> 01:03:49,704
+<b>para que possamos realizar
+abortos até a 24ª semana.</b>
+
+1084
+01:03:50,163 --> 01:03:52,707
+<b>Essa é uma linha
+que eu disse que nunca cruzaria.</b>
+
+1085
+01:03:54,375 --> 01:03:57,420
+<b>Finja por um segundo
+que, como eu,</b>
+
+1086
+01:03:57,504 --> 01:03:59,756
+<b>você é uma pessoa que acredita
+que todo aborto é ruim.</b>
+
+1087
+01:03:59,839 --> 01:04:00,924
+<b>Qual é a diferença?</b>
+
+1088
+01:04:01,925 --> 01:04:02,926
+<b>Vamos lá.</b>
+
+1089
+01:04:03,426 --> 01:04:06,679
+<b>Para começar, se fizermos
+no terceiro trimestre,</b>
+
+1090
+01:04:06,763 --> 01:04:08,097
+<b>vira um suplício de três dias.</b>
+
+1091
+01:04:08,181 --> 01:04:11,100
+<b>Não é mais um procedimento cirúrgico.
+É um parto.</b>
+
+1092
+01:04:11,184 --> 01:04:13,019
+<b>No primeiro dia,
+introduzem um decesso.</b>
+
+1093
+01:04:13,102 --> 01:04:14,687
+<b>Espere aí. Decesso?</b>
+
+1094
+01:04:14,771 --> 01:04:15,897
+<b>Eutanásia do feto.</b>
+
+1095
+01:04:15,980 --> 01:04:17,815
+<b>Param o coração
+injetando digoxina</b>
+
+1096
+01:04:17,899 --> 01:04:20,318
+<b>pela parede uterina
+direto no coração do bebê.</b>
+
+1097
+01:04:20,401 --> 01:04:22,028
+<b>No segundo dia,
+induzem contrações.</b>
+
+1098
+01:04:22,111 --> 01:04:23,738
+<b>No terceiro, é o parto,</b>
+
+1099
+01:04:23,821 --> 01:04:26,658
+<b>o nascimento induzido artificialmente
+de um feto morto.</b>
+
+1100
+01:04:27,158 --> 01:04:28,284
+<b>Abby...</b>
+
+1101
+01:04:29,827 --> 01:04:30,912
+<b>você está me matando.</b>
+
+1102
+01:04:31,746 --> 01:04:33,498
+<b>Doug, foi você quem perguntou.</b>
+
+1103
+01:04:33,581 --> 01:04:35,959
+<b>- Eu sei, mas...
+- Com quem devo falar disso?</b>
+
+1104
+01:04:36,042 --> 01:04:38,419
+<b>Eu não sei. Tá legal?</b>
+
+1105
+01:04:38,503 --> 01:04:40,338
+<b>Só sei que estamos aqui,
+oito anos depois,</b>
+
+1106
+01:04:40,421 --> 01:04:42,549
+<b>e você ainda acha
+que pode mudá-los!</b>
+
+1107
+01:04:43,091 --> 01:04:45,051
+<b>Mas a única coisa que mudou
+foi você.</b>
+
+1108
+01:04:45,802 --> 01:04:47,846
+<b>Consegue se ouvir falando
+desses procedimentos?</b>
+
+1109
+01:04:47,929 --> 01:04:49,222
+<b>São bebezinhos,</b>
+
+1110
+01:04:49,597 --> 01:04:51,140
+<b>com pequenos cérebros,</b>
+
+1111
+01:04:51,224 --> 01:04:53,184
+<b>corações,
+pequenos dedos nas mãos e pés.</b>
+
+1112
+01:04:53,268 --> 01:04:55,728
+<b>Eu amo tanto você...</b>
+
+1113
+01:04:56,980 --> 01:04:58,731
+<b>e mal suporto assistir a isso.</b>
+
+1114
+01:05:19,711 --> 01:05:20,920
+<b>Olá!</b>
+
+1115
+01:05:21,421 --> 01:05:22,797
+<b>Você precisa de um tempo.</b>
+
+1116
+01:05:22,881 --> 01:05:24,883
+<b>Nós... precisamos de um tempo.</b>
+
+1117
+01:05:27,051 --> 01:05:28,720
+<b>Eu adoraria,
+mas tenho muito trabalho.</b>
+
+1118
+01:05:28,803 --> 01:05:30,597
+<b>Só tem um dia de folga na semana,</b>
+
+1119
+01:05:30,680 --> 01:05:33,808
+<b>e não vou deixar que seja
+uma escrava da Paternidade Planejada.</b>
+
+1120
+01:05:34,684 --> 01:05:35,935
+<b>Pegue suas coisas.</b>
+
+1121
+01:05:36,019 --> 01:05:39,147
+<b>Vamos comer a comida mexicana
+mais incrível do mundo.</b>
+
+1122
+01:05:39,689 --> 01:05:41,274
+<b>E, se souber como fazer...</b>
+
+1123
+01:05:41,357 --> 01:05:43,401
+<b>Eu posso me dar bem?</b>
+
+1124
+01:05:44,235 --> 01:05:46,487
+<b>Na verdade, eu estava
+pensando em uns nachos,</b>
+
+1125
+01:05:46,571 --> 01:05:47,906
+<b>mas aceito sua sugestão.</b>
+
+1126
+01:05:48,406 --> 01:05:50,283
+<b>Aposto que sim. Eu volto já.</b>
+
+1127
+01:05:54,078 --> 01:05:57,415
+<b>Uma cerveja para você
+e uma margarita para você.</b>
+
+1128
+01:05:57,499 --> 01:05:59,459
+<b>- Obrigada.
+- Volto já para anotar o pedido.</b>
+
+1129
+01:06:03,963 --> 01:06:07,383
+<b>Seu cardápio. Escolha algo legal,
+que eu já sei o que vou pedir.</b>
+
+1130
+01:06:08,426 --> 01:06:10,053
+<b>O que vai pedir?</b>
+
+1131
+01:06:10,136 --> 01:06:12,138
+<b>A maior, mais suculenta</b>
+
+1132
+01:06:12,222 --> 01:06:16,434
+<b>e incrível chimichanga de carne
+que já saiu daquela cozinha.</b>
+
+1133
+01:06:16,518 --> 01:06:18,186
+<b>É o que eu tenho
+a dizer sobre ela.</b>
+
+1134
+01:06:18,269 --> 01:06:19,521
+<b>E você?</b>
+
+1135
+01:06:21,105 --> 01:06:25,068
+<b>Bom, afaste-se, muchacho,
+porque eu vou pedir...</b>
+
+1136
+01:06:25,610 --> 01:06:26,611
+<b>Está preparado?</b>
+
+1137
+01:06:26,986 --> 01:06:31,658
+<b>Nachos de doce de leite,
+caramelo e chocolate.</b>
+
+1138
+01:06:31,741 --> 01:06:33,076
+<b>O quê?</b>
+
+1139
+01:06:33,159 --> 01:06:34,244
+<b>Um brinde a isso.</b>
+
+1140
+01:06:36,371 --> 01:06:37,372
+<b>Boa escolha.</b>
+
+1141
+01:06:40,875 --> 01:06:42,919
+<b>- Obrigada.
+- De nada.</b>
+
+1142
+01:06:43,002 --> 01:06:44,796
+<b>Mas calma, estamos só começando.</b>
+
+1143
+01:06:44,879 --> 01:06:46,256
+<b>É mesmo?</b>
+
+1144
+01:06:47,382 --> 01:06:49,801
+<b>Certo, e o que vem a seguir?</b>
+
+1145
+01:06:49,884 --> 01:06:52,846
+<b>Estou pensando num festival de cinema
+na nossa casa.</b>
+
+1146
+01:06:52,929 --> 01:06:54,681
+<b>Cara, você ganha.
+"E O Vento Levou".</b>
+
+1147
+01:06:54,764 --> 01:06:56,432
+<b>Coroa, eu ganho. "Os Goonies".</b>
+
+1148
+01:06:56,516 --> 01:06:57,809
+<b>Sabia que diria "Os Goonies".</b>
+
+1149
+01:06:57,892 --> 01:06:59,652
+<b>Não vou vê-los passar
+pela puberdade de novo.</b>
+
+1150
+01:06:59,686 --> 01:07:02,063
+<b>- É um clássico!
+- Não!</b>
+
+1151
+01:07:02,146 --> 01:07:03,231
+<b>- Faça uma tentativa.
+- Não.</b>
+
+1152
+01:07:03,314 --> 01:07:06,359
+<b>Tá, tudo bem.
+Vamos combinar de ver "300".</b>
+
+1153
+01:07:07,610 --> 01:07:11,364
+<b>É por isso que eu te amo!
+"300", então.</b>
+
+1154
+01:07:13,908 --> 01:07:14,909
+<b>A nós.</b>
+
+1155
+01:07:16,327 --> 01:07:18,913
+<b>Grace na casa dos avós,
+uma noite sozinhos...</b>
+
+1156
+01:07:19,455 --> 01:07:20,498
+<b>nada mau.</b>
+
+1157
+01:07:20,582 --> 01:07:24,085
+<b><i>O Dr. George Tiller morreu
+depois de ser baleado</b></i>
+
+1158
+01:07:24,169 --> 01:07:25,628
+<b><i>dentro de sua própria igreja.</b></i>
+
+1159
+01:07:25,712 --> 01:07:28,089
+<b><i>Um dos poucos atuando
+nesse ramo no país,</b></i>
+
+1160
+01:07:28,173 --> 01:07:31,676
+<b><i>o Dr. Tiller levou um tiro na cabeça
+esta manhã, durante um culto.</b></i>
+
+1161
+01:07:31,759 --> 01:07:36,306
+<b><i>A polícia está à procura do suspeito
+para oferecer proteção a outras pessoas</b></i>
+
+1162
+01:07:36,389 --> 01:07:38,183
+<b><i>e clínicas em todo o país.</b></i>
+
+1163
+01:07:39,100 --> 01:07:40,810
+<b><i>- O Dr. Tiller, 67...
+- Vamos!</b></i>
+
+1164
+01:07:40,894 --> 01:07:43,062
+<b><i>Realizava abortos
+há mais de três décadas,</b></i>
+
+1165
+01:07:43,146 --> 01:07:47,233
+<b><i>realizando, segundo estimativa própria,
+cerca de 60.000 procedimentos.</b></i>
+
+1166
+01:07:47,692 --> 01:07:51,112
+<b><i>O Dr. Tiller era o médico diretor
+do Serviços de Saúde da Mulher...</b></i>
+
+1167
+01:07:56,576 --> 01:08:00,622
+<b>Que tipo de pessoa atira em alguém
+na cabeça dentro da igreja?</b>
+
+1168
+01:08:02,916 --> 01:08:04,876
+<b>Doug, eu o conhecia.
+Ele tinha família.</b>
+
+1169
+01:08:04,959 --> 01:08:06,377
+<b>Eu sei.</b>
+
+1170
+01:08:06,461 --> 01:08:08,338
+<b>Agora, só me importa
+pegar a Grace</b>
+
+1171
+01:08:08,421 --> 01:08:10,298
+<b>e levar vocês duas
+para casa em segurança.</b>
+
+1172
+01:08:10,381 --> 01:08:12,175
+<b>Acha que corro perigo?</b>
+
+1173
+01:08:12,258 --> 01:08:13,258
+<b>Eu não sei,</b>
+
+1174
+01:08:13,510 --> 01:08:15,220
+<b>mas não vou correr riscos.</b>
+
+1175
+01:08:23,686 --> 01:08:25,021
+<b>Você está bem, querida?</b>
+
+1176
+01:08:26,147 --> 01:08:27,315
+<b>Estou, mãe.</b>
+
+1177
+01:08:30,151 --> 01:08:31,486
+<b>- Pronta?
+- Sim.</b>
+
+1178
+01:08:31,569 --> 01:08:34,197
+<b>Esperem, não acham que faz mais sentido
+passarem a noite aqui?</b>
+
+1179
+01:08:34,739 --> 01:08:35,739
+<b>Por favor.</b>
+
+1180
+01:08:46,084 --> 01:08:47,502
+<b>É falsa compaixão.</b>
+
+1181
+01:08:48,545 --> 01:08:49,712
+<b>É isso que é.</b>
+
+1182
+01:08:50,088 --> 01:08:53,299
+<b>Ativistas pró-vida condenando
+um assassino, como se ligassem!</b>
+
+1183
+01:08:53,633 --> 01:08:54,968
+<b>Acho que só querem
+evitar a culpa.</b>
+
+1184
+01:08:55,051 --> 01:08:56,469
+<b>Não importa.</b>
+
+1185
+01:08:56,553 --> 01:08:58,972
+<b>O que importa
+é manter todas aqui,</b>
+
+1186
+01:08:59,055 --> 01:09:01,975
+<b>vocês, eu, todas nós...</b>
+
+1187
+01:09:02,058 --> 01:09:03,560
+<b>e nossas clientes, em segurança.</b>
+
+1188
+01:09:04,143 --> 01:09:07,981
+<b>É preciso prestar atenção dobrada
+a tudo que possa parecer suspeito.</b>
+
+1189
+01:09:10,400 --> 01:09:11,985
+<b>Paternidade Planejada.
+Aqui é Renee.</b>
+
+1190
+01:09:14,195 --> 01:09:15,905
+<b>É de Houston, para você.</b>
+
+1191
+01:09:18,157 --> 01:09:21,286
+<b>- Aqui é a Abby.
+- Aqui é a Susan, do RH.</b>
+
+1192
+01:09:21,369 --> 01:09:22,954
+<b>Precisa vir a Houston.</b>
+
+1193
+01:09:23,746 --> 01:09:25,206
+<b><i>Você pode vir esta tarde?</b></i>
+
+1194
+01:09:25,999 --> 01:09:28,251
+<b>É meio em cima da hora.
+É sobre o Tiller?</b>
+
+1195
+01:09:30,670 --> 01:09:32,297
+<b>Não, é sobre você.</b>
+
+1196
+01:09:32,881 --> 01:09:34,674
+<b>Cheryl e eu
+queríamos falar com você.</b>
+
+1197
+01:09:35,175 --> 01:09:36,926
+<b>Está bem.
+Estarei aí assim que puder.</b>
+
+1198
+01:09:39,512 --> 01:09:40,805
+<b>Preciso ir até a sede.</b>
+
+1199
+01:09:51,191 --> 01:09:54,152
+<b>Chamamos você aqui para dizer
+que está sendo formalmente repreendida.</b>
+
+1200
+01:09:54,944 --> 01:09:56,529
+<b>Por que repreendida?</b>
+
+1201
+01:09:56,613 --> 01:09:59,282
+<b>Tem desafiado a mim
+e minha autoridade.</b>
+
+1202
+01:09:59,824 --> 01:10:02,619
+<b>Você se tornou combativa,
+questionando minhas diretrizes,</b>
+
+1203
+01:10:02,702 --> 01:10:04,245
+<b>discutindo e rebatendo.</b>
+
+1204
+01:10:04,329 --> 01:10:07,665
+<b>Sou sua supervisora. Portanto,
+deve seguir minhas instruções.</b>
+
+1205
+01:10:09,334 --> 01:10:12,170
+<b>Nos meus oito anos
+na Paternidade Planejada,</b>
+
+1206
+01:10:12,253 --> 01:10:16,007
+<b>nunca recebi
+nada menos que elogios.</b>
+
+1207
+01:10:17,050 --> 01:10:19,344
+<b>Não tive sequer um deslize,</b>
+
+1208
+01:10:19,802 --> 01:10:22,555
+<b>uma advertência,
+muito menos uma repreensão.</b>
+
+1209
+01:10:23,223 --> 01:10:26,142
+<b>Acabo de receber o prêmio
+de Funcionária do Ano.</b>
+
+1210
+01:10:26,476 --> 01:10:28,561
+<b>Ninguém se empenhou
+mais do que eu.</b>
+
+1211
+01:10:30,146 --> 01:10:32,732
+<b>No entanto,
+a repreensão está mantida.</b>
+
+1212
+01:10:33,107 --> 01:10:36,027
+<b>Preciso que assine aqui, atestando
+que tivemos esta conversa</b>
+
+1213
+01:10:36,736 --> 01:10:38,112
+<b>e que está ciente disto.</b>
+
+1214
+01:10:39,239 --> 01:10:42,450
+<b><i>Sei que pode ser difícil
+de acreditar,</b></i>
+
+1215
+01:10:42,534 --> 01:10:45,036
+<b><i>mas voltei à clínica
+na manhã seguinte,</b></i>
+
+1216
+01:10:45,537 --> 01:10:48,998
+<b><i>mais determinada do que nunca
+a dar o meu melhor no trabalho.</b></i>
+
+1217
+01:11:00,969 --> 01:11:02,178
+<b>Isso é o que eu acho que é?</b>
+
+1218
+01:11:03,263 --> 01:11:04,305
+<b>Infelizmente, sim.</b>
+
+1219
+01:11:06,224 --> 01:11:07,725
+<b>Podemos orar por eles?</b>
+
+1220
+01:11:09,727 --> 01:11:11,604
+<b>- Não sei, cara.
+- Por favor?</b>
+
+1221
+01:11:13,356 --> 01:11:16,192
+<b>Não sou um monstro.
+Sou um cara que dirige um caminhão.</b>
+
+1222
+01:11:16,276 --> 01:11:19,195
+<b>Seremos rápidos.
+Ficaremos deste lado da cerca.</b>
+
+1223
+01:11:21,114 --> 01:11:22,323
+<b>Tá bom.</b>
+
+1224
+01:11:34,002 --> 01:11:36,629
+<b>Talvez queiram esperar.
+Tem mais um saindo.</b>
+
+1225
+01:11:43,845 --> 01:11:47,473
+<b>Abby, desculpe incomodar,
+mas precisam de alguém na última sala.</b>
+
+1226
+01:11:47,557 --> 01:11:48,975
+<b>- Você está livre?
+- Claro.</b>
+
+1227
+01:11:54,898 --> 01:11:57,567
+<b>SALA DE PROCEDIMENTOS 2</b>
+
+1228
+01:12:00,278 --> 01:12:02,447
+<b>Megan disse
+que você precisa de ajuda.</b>
+
+1229
+01:12:20,298 --> 01:12:23,134
+<b>Senhor, louvamos as almas
+destas centenas de crianças,</b>
+
+1230
+01:12:24,260 --> 01:12:26,596
+<b>cujos nomes verdadeiros
+são conhecidos apenas por Você,</b>
+
+1231
+01:12:26,679 --> 01:12:28,139
+<b>aos Seus cuidados.</b>
+
+1232
+01:12:29,349 --> 01:12:32,310
+<b>Pois sabemos que elas estarão com Você
+agora e para sempre.</b>
+
+1233
+01:12:34,145 --> 01:12:37,857
+<b>Oramos pela cura
+das mães e pais feridos.</b>
+
+1234
+01:12:37,941 --> 01:12:41,569
+<b>E, senhor, oramos pelo fim
+do pecado do aborto.</b>
+
+1235
+01:12:42,862 --> 01:12:44,781
+<b>Pois na Sua palavra, prometeu:</b>
+
+1236
+01:12:44,864 --> 01:12:47,450
+<b>"Se o meu povo
+que se chama pelo meu nome,</b>
+
+1237
+01:12:47,534 --> 01:12:50,703
+<b>se humilhar,
+orar e minha face buscar</b>
+
+1238
+01:12:50,787 --> 01:12:53,039
+<b>e se converter
+de seus maus caminhos,</b>
+
+1239
+01:12:53,581 --> 01:12:55,542
+<b>então eu ouvirei dos céus,</b>
+
+1240
+01:12:55,625 --> 01:12:59,337
+<b>e perdoarei seus pecados,
+e sararei a sua terra."</b>
+
+1241
+01:13:43,339 --> 01:13:46,050
+<b>Abby Johnson está na outra sala.</b>
+
+1242
+01:13:48,011 --> 01:13:49,012
+<b>Aqui?</b>
+
+1243
+01:13:49,929 --> 01:13:51,347
+<b>Ela quer se demitir.</b>
+
+1244
+01:14:08,072 --> 01:14:09,115
+<b>Dia difícil no trabalho?</b>
+
+1245
+01:14:10,408 --> 01:14:11,576
+<b>Sim.</b>
+
+1246
+01:14:12,869 --> 01:14:14,162
+<b>Pode-se dizer que sim.</b>
+
+1247
+01:14:15,955 --> 01:14:17,290
+<b>Quer falar sobre isso?</b>
+
+1248
+01:14:19,959 --> 01:14:20,960
+<b>Obrigada.</b>
+
+1249
+01:14:24,714 --> 01:14:26,049
+<b>Eu vi.</b>
+
+1250
+01:14:30,094 --> 01:14:31,638
+<b>E ele se mexeu.</b>
+
+1251
+01:14:33,681 --> 01:14:37,894
+<b>Foi como se estivesse se debatendo
+e lutando pela própria vida.</b>
+
+1252
+01:14:41,231 --> 01:14:45,276
+<b>Aquele pequeno bebezinho...
+pequeno e perfeito.</b>
+
+1253
+01:14:46,945 --> 01:14:48,446
+<b>E então ele se foi.</b>
+
+1254
+01:15:00,792 --> 01:15:04,838
+<b>Eu vou lá na segunda-feira apresentar
+meu pedido de demissão</b>
+
+1255
+01:15:04,921 --> 01:15:06,631
+<b>e acabou.</b>
+
+1256
+01:15:08,800 --> 01:15:09,843
+<b>Assim, sem mais?</b>
+
+1257
+01:15:10,510 --> 01:15:11,636
+<b>Assim, sem mais.</b>
+
+1258
+01:15:16,933 --> 01:15:21,187
+<b>Eu... eu nunca mais quero
+fazer parte de um aborto.</b>
+
+1259
+01:15:32,282 --> 01:15:36,119
+<b>Todo mundo está me procurando
+e perguntando se estou bem.</b>
+
+1260
+01:15:36,202 --> 01:15:37,620
+<b>Há quanto tempo você saiu?</b>
+
+1261
+01:15:39,163 --> 01:15:40,623
+<b>Quase uma hora.</b>
+
+1262
+01:15:40,707 --> 01:15:41,916
+<b>Num sábado?</b>
+
+1263
+01:15:42,333 --> 01:15:44,794
+<b>Eles não vão ficar desconfiados?</b>
+
+1264
+01:15:46,838 --> 01:15:50,175
+<b>Jamais imaginariam que estive aqui.
+Eles não entenderiam.</b>
+
+1265
+01:15:51,384 --> 01:15:53,887
+<b>Podemos te ajudar
+a encontrar outro emprego.</b>
+
+1266
+01:15:54,554 --> 01:15:56,639
+<b>Sempre dissemos
+que estamos aqui para ajudar.</b>
+
+1267
+01:15:57,473 --> 01:16:00,268
+<b>Podemos ajudar você ou qualquer
+um da clínica que queira sair.</b>
+
+1268
+01:16:01,686 --> 01:16:03,021
+<b>De verdade?</b>
+
+1269
+01:16:03,938 --> 01:16:05,356
+<b>Vocês me ajudariam mesmo?</b>
+
+1270
+01:16:05,773 --> 01:16:07,775
+<b>Sim, é claro.</b>
+
+1271
+01:16:07,859 --> 01:16:11,571
+<b>Enquanto isso, não conte a ninguém
+que largou a Paternidade Planejada.</b>
+
+1272
+01:16:12,405 --> 01:16:14,782
+<b>Não subestime
+as repercussões disso.</b>
+
+1273
+01:16:15,241 --> 01:16:16,701
+<b>Você precisa tomar cuidado.</b>
+
+1274
+01:16:17,535 --> 01:16:18,536
+<b>Entendeu?</b>
+
+1275
+01:16:20,371 --> 01:16:21,531
+<b>Eu te acompanho pelos fundos.</b>
+
+1276
+01:16:21,789 --> 01:16:23,333
+<b>Menos chance de alguém te ver.</b>
+
+1277
+01:16:25,251 --> 01:16:28,505
+<b><i>Você vai superar isso</b>.</i>
+
+1278
+01:16:28,963 --> 01:16:32,634
+<b><i>Apenas siga a luz na escuridão</b>.</i>
+
+1279
+01:16:32,717 --> 01:16:35,553
+<b>Um passo mais perto.</b>
+
+1280
+01:16:36,346 --> 01:16:39,724
+<b><i>Coloque um pé na frente do outro</b>.</i>
+
+1281
+01:16:39,807 --> 01:16:43,019
+<b><i>Você vai superar isso</b>.</i>
+
+1282
+01:16:43,520 --> 01:16:47,315
+<b><i>Apenas siga a luz na escuridão</b>.</i>
+
+1283
+01:16:48,316 --> 01:16:51,236
+<b><i>Você vai ficar bem</b>.</i>
+
+1284
+01:16:52,195 --> 01:16:54,614
+<b>- Você deveria...
+- Esse quebra-cabeça é difícil.</b>
+
+1285
+01:16:54,697 --> 01:16:57,367
+<b>Eu sei, mas aqui tem mais dois cantos.
+É só o que precisamos.</b>
+
+1286
+01:16:58,535 --> 01:16:59,911
+<b>Falta pouco.</b>
+
+1287
+01:16:59,994 --> 01:17:01,746
+<b>- Aqui está um.
+- Oi, amor.</b>
+
+1288
+01:17:04,123 --> 01:17:05,291
+<b>Esse é aí?</b>
+
+1289
+01:17:07,794 --> 01:17:10,046
+<b>Você não vai adivinhar
+onde estive hoje.</b>
+
+1290
+01:17:12,173 --> 01:17:13,341
+<b>No escritório do Shawn?</b>
+
+1291
+01:17:15,468 --> 01:17:17,262
+<b>Como pode saber?</b>
+
+1292
+01:17:18,346 --> 01:17:19,848
+<b>Não sei.</b>
+
+1293
+01:17:20,682 --> 01:17:22,868
+<b>É que, com as conversas que tivemos,
+e tudo que tem acontecido,</b>
+
+1294
+01:17:22,892 --> 01:17:25,019
+<b>achei que você poderia procurá-lo
+em algum momento.</b>
+
+1295
+01:17:27,146 --> 01:17:28,356
+<b>Isso...</b>
+
+1296
+01:17:29,691 --> 01:17:31,568
+<b>e mais a expressão do seu rosto.</b>
+
+1297
+01:17:35,864 --> 01:17:38,533
+<b>Eu vou fazer isso, Doug.
+Vou me demitir.</b>
+
+1298
+01:17:39,200 --> 01:17:40,326
+<b>Já contou para a sua mãe?</b>
+
+1299
+01:17:40,994 --> 01:17:41,995
+<b>Ainda não.</b>
+
+1300
+01:17:43,746 --> 01:17:45,456
+<b>Eu quero estar fora de lá.</b>
+
+1301
+01:17:46,416 --> 01:17:48,793
+<b>Quero que tenha acabado
+antes de contar.</b>
+
+1302
+01:17:57,594 --> 01:17:58,595
+<b>Aqui está.</b>
+
+1303
+01:18:40,720 --> 01:18:42,263
+<b>Abby, o que foi?</b>
+
+1304
+01:18:44,891 --> 01:18:47,727
+<b>Megan,
+preciso te contar uma coisa.</b>
+
+1305
+01:18:49,312 --> 01:18:51,689
+<b>Tem que prometer
+não contar a ninguém.</b>
+
+1306
+01:18:51,773 --> 01:18:52,941
+<b>Sim, não vou contar.</b>
+
+1307
+01:18:53,316 --> 01:18:54,692
+<b>Vou deixar
+a Paternidade Planejada.</b>
+
+1308
+01:18:57,320 --> 01:19:00,490
+<b>Eu tenho que sair.
+Não posso mais fazer parte disso.</b>
+
+1309
+01:19:00,865 --> 01:19:02,033
+<b>Vai se demitir?</b>
+
+1310
+01:19:02,867 --> 01:19:05,119
+<b>Fui até o 40 Dias pela Vida
+naquele dia.</b>
+
+1311
+01:19:05,203 --> 01:19:07,121
+<b>Eles foram incríveis.</b>
+
+1312
+01:19:07,205 --> 01:19:09,541
+<b>Ficaram sentados escutando
+enquanto eu chorava.</b>
+
+1313
+01:19:10,917 --> 01:19:12,335
+<b>E eles realmente vão te ajudar?</b>
+
+1314
+01:19:12,418 --> 01:19:13,419
+<b>Sim.</b>
+
+1315
+01:19:14,254 --> 01:19:17,340
+<b>Eles vão.
+Sem julgamento, sem condenação.</b>
+
+1316
+01:19:17,423 --> 01:19:19,717
+<b>Até vão me ajudar
+a achar outro emprego.</b>
+
+1317
+01:19:21,553 --> 01:19:23,763
+<b>Então, quando vai sair?</b>
+
+1318
+01:19:24,806 --> 01:19:25,890
+<b>Hoje.</b>
+
+1319
+01:19:26,808 --> 01:19:30,395
+<b>Sei que a Cheryl
+vai ficar louca quando souber.</b>
+
+1320
+01:19:30,728 --> 01:19:34,065
+<b>Mas vou escrever
+meu pedido de demissão</b>
+
+1321
+01:19:34,148 --> 01:19:37,694
+<b>e às 17h01 vou enviar
+ao RH em Houston,</b>
+
+1322
+01:19:37,777 --> 01:19:40,446
+<b>e sair pela porta da frente
+como em qualquer outro dia.</b>
+
+1323
+01:19:40,530 --> 01:19:41,656
+<b>Nossa!</b>
+
+1324
+01:19:42,949 --> 01:19:44,450
+<b>Vai contar para a Taylor também?</b>
+
+1325
+01:19:45,827 --> 01:19:47,871
+<b>Claro.
+Vocês são minhas melhores amigas.</b>
+
+1326
+01:19:48,371 --> 01:19:50,373
+<b>Mas são as únicas
+que podem saber.</b>
+
+1327
+01:19:50,957 --> 01:19:51,957
+<b>Ninguém mais.</b>
+
+1328
+01:19:52,292 --> 01:19:53,293
+<b>Claro.</b>
+
+1329
+01:20:28,036 --> 01:20:29,871
+<b>SAÍDA</b>
+
+1330
+01:20:36,628 --> 01:20:37,837
+<b>Bom, acabou.</b>
+
+1331
+01:20:38,713 --> 01:20:39,713
+<b>Qual a sensação?</b>
+
+1332
+01:20:40,173 --> 01:20:42,013
+<b>É como se eu tivesse
+acabado de sair da prisão.</b>
+
+1333
+01:20:43,593 --> 01:20:45,303
+<b>- Tchau.
+- Até mais.</b>
+
+1334
+01:20:55,522 --> 01:20:56,523
+<b>Oi, mãe.</b>
+
+1335
+01:20:57,899 --> 01:21:00,985
+<b>Eu só queria te contar uma coisa
+antes que saiba por outra pessoa.</b>
+
+1336
+01:21:01,319 --> 01:21:02,487
+<b>Está grávida?</b>
+
+1337
+01:21:02,946 --> 01:21:03,988
+<b>Não!</b>
+
+1338
+01:21:05,240 --> 01:21:06,282
+<b>Não.</b>
+
+1339
+01:21:07,784 --> 01:21:09,619
+<b>Eu me demiti
+da Paternidade Planejada hoje.</b>
+
+1340
+01:21:12,288 --> 01:21:13,414
+<b>Ela se demitiu!</b>
+
+1341
+01:21:14,999 --> 01:21:16,626
+<b><i>Você fez a coisa certa, Abby.</b></i>
+
+1342
+01:21:16,709 --> 01:21:19,212
+<b><i>Eu tenho orado
+há anos para você sair de lá.</b></i>
+
+1343
+01:21:19,796 --> 01:21:22,507
+<b>Tenho tanta coisa para te contar.</b>
+
+1344
+01:21:41,985 --> 01:21:42,985
+<b>Abby?</b>
+
+1345
+01:21:44,779 --> 01:21:47,407
+<b>Estamos no meio da noite.
+O que faz acordada?</b>
+
+1346
+01:21:59,252 --> 01:22:00,461
+<b>Amor, qual é o problema?</b>
+
+1347
+01:22:09,053 --> 01:22:11,681
+<b>Eu fui cúmplice...</b>
+
+1348
+01:22:13,433 --> 01:22:16,186
+<b>em mais de 22.000 abortos.</b>
+
+1349
+01:22:17,353 --> 01:22:18,438
+<b>Esse...</b>
+
+1350
+01:22:19,731 --> 01:22:23,151
+<b>esse é o peso da minha culpa.</b>
+
+1351
+01:22:25,862 --> 01:22:28,865
+<b>Como posso começar
+a absorver isso?</b>
+
+1352
+01:22:30,200 --> 01:22:32,660
+<b>Você não pode, amor.
+Ninguém pode.</b>
+
+1353
+01:22:33,953 --> 01:22:35,413
+<b>Tudo o que pode fazer</b>
+
+1354
+01:22:36,414 --> 01:22:40,043
+<b>é dizer que lamenta
+e implorar por perdão.</b>
+
+1355
+01:22:40,585 --> 01:22:42,921
+<b>Eu sinto muito.</b>
+
+1356
+01:22:44,714 --> 01:22:46,841
+<b>Sinto muito mesmo.</b>
+
+1357
+01:22:50,386 --> 01:22:51,471
+<b>Aquelas mulheres</b>
+
+1358
+01:22:52,639 --> 01:22:54,933
+<b>vieram até mim buscando ajuda,</b>
+
+1359
+01:22:56,935 --> 01:22:58,770
+<b>e eu menti para elas.</b>
+
+1360
+01:22:59,521 --> 01:23:01,689
+<b>Menti para elas.</b>
+
+1361
+01:23:06,027 --> 01:23:07,320
+<b>Eu as traí.</b>
+
+1362
+01:23:07,403 --> 01:23:12,450
+<b>Falei que o melhor que poderiam fazer
+era matar os seus bebês.</b>
+
+1363
+01:23:18,164 --> 01:23:19,958
+<b>O que eu fiz?</b>
+
+1364
+01:23:21,376 --> 01:23:23,628
+<b>Você fez o que achava certo,
+amor.</b>
+
+1365
+01:23:26,464 --> 01:23:28,633
+<b>Então por que me sinto
+tão envergonhada?</b>
+
+1366
+01:23:32,095 --> 01:23:33,304
+<b>Abby, olhe para mim.</b>
+
+1367
+01:23:38,393 --> 01:23:39,769
+<b>Eu te amo.</b>
+
+1368
+01:23:40,520 --> 01:23:41,938
+<b>E Deus também.</b>
+
+1369
+01:23:43,606 --> 01:23:45,817
+<b>Ele vai te perdoar se você pedir.</b>
+
+1370
+01:23:46,442 --> 01:23:49,028
+<b>Eu nem consigo acreditar nisso.</b>
+
+1371
+01:23:49,487 --> 01:23:51,197
+<b>Como? Como Ele poderia?</b>
+
+1372
+01:23:54,450 --> 01:23:55,785
+<b>Porque Ele é Deus.</b>
+
+1373
+01:24:09,424 --> 01:24:11,426
+<b><i>Nos dois dias seguintes,
+chorei muito.</b></i>
+
+1374
+01:24:11,509 --> 01:24:15,263
+<b>No terceiro dia, acordei e fui
+ao escritório do Shawn e Marilisa.</b>
+
+1375
+01:24:15,346 --> 01:24:18,516
+<b>Culpem minhas raízes texanas,
+mas eu não podia aparecer de mãos vazias.</b>
+
+1376
+01:24:18,600 --> 01:24:20,476
+<b>Abby! O que está fazendo aqui?</b>
+
+1377
+01:24:20,560 --> 01:24:23,646
+<b>Vim ajudar do jeito que puder.
+E eu trouxe donuts.</b>
+
+1378
+01:24:26,900 --> 01:24:29,861
+<b>Aqui estamos,
+tomando café com Abby Johnson.</b>
+
+1379
+01:24:31,779 --> 01:24:35,909
+<b>Bom, se é estranho para vocês,
+imaginem como eu me sinto.</b>
+
+1380
+01:24:36,618 --> 01:24:38,953
+<b>Abby, estou feliz
+por você estar aqui.</b>
+
+1381
+01:24:39,037 --> 01:24:41,164
+<b>Deveria ter sido assim
+o tempo todo.</b>
+
+1382
+01:24:41,247 --> 01:24:44,334
+<b>Tenho que admitir, às vezes,
+em meio às horas na cerca,</b>
+
+1383
+01:24:44,417 --> 01:24:46,127
+<b>eu me perguntava
+se fazíamos algum bem.</b>
+
+1384
+01:24:46,211 --> 01:24:49,589
+<b>Na maior parte do tempo,
+só orávamos e não parecia importar.</b>
+
+1385
+01:24:50,423 --> 01:24:52,717
+<b>- Acredite, importava.
+- Por que diz isso?</b>
+
+1386
+01:24:52,800 --> 01:24:54,636
+<b>Eu era diretora da clínica.</b>
+
+1387
+01:24:54,719 --> 01:24:56,763
+<b>Quando estavam lá fora,</b>
+
+1388
+01:24:56,846 --> 01:24:58,598
+<b>minha taxa
+de não comparecimento subia.</b>
+
+1389
+01:24:58,681 --> 01:25:01,935
+<b>É por isso que eu
+me aborrecia tanto com vocês.</b>
+
+1390
+01:25:02,894 --> 01:25:04,771
+<b>Sério, não era só a gente.</b>
+
+1391
+01:25:04,854 --> 01:25:07,440
+<b>As estatísticas
+da Paternidade Planejada mostram</b>
+
+1392
+01:25:07,524 --> 01:25:11,861
+<b>que se alguém estiver orando
+fora da clínica pode chegar a 75%.</b>
+
+1393
+01:25:11,945 --> 01:25:14,197
+<b>- Sério?
+- Sério.</b>
+
+1394
+01:25:14,614 --> 01:25:17,659
+<b>É um pequeno segredo
+que não querem que ninguém saiba.</b>
+
+1395
+01:25:18,493 --> 01:25:20,286
+<b>Quando as mulheres veem
+vocês orando,</b>
+
+1396
+01:25:20,370 --> 01:25:23,039
+<b>elas, de repente,
+decidem não aparecer.</b>
+
+1397
+01:25:23,665 --> 01:25:25,834
+<b>Andam em volta do estacionamento
+e não entram.</b>
+
+1398
+01:25:26,751 --> 01:25:29,712
+<b>Vocês nem ficam sabendo
+da maioria das vidas que salvam.</b>
+
+1399
+01:25:33,174 --> 01:25:36,010
+<b>É por isso que eu preciso
+ir até a cerca.</b>
+
+1400
+01:25:36,928 --> 01:25:39,639
+<b>Abby, eu acho que é algo
+que não deveria fazer ainda.</b>
+
+1401
+01:25:39,722 --> 01:25:41,891
+<b>Mas é algo que eu preciso fazer.</b>
+
+1402
+01:25:46,062 --> 01:25:48,189
+<b>Oi. Meu nome é Abby Johnson.</b>
+
+1403
+01:25:48,273 --> 01:25:49,941
+<b>Eu era a diretora desta clínica.</b>
+
+1404
+01:25:50,775 --> 01:25:53,611
+<b>Eu saí porque minha consciência
+não me deixou ficar.</b>
+
+1405
+01:25:55,613 --> 01:25:57,824
+<b>Quero falar um minuto com você.
+Só um minuto.</b>
+
+1406
+01:25:59,534 --> 01:26:00,535
+<b>Por favor?</b>
+
+1407
+01:26:01,828 --> 01:26:03,079
+<b>Pode ser.</b>
+
+1408
+01:26:05,999 --> 01:26:08,751
+<b>É possível que esteja aqui
+só para um teste de gravidez,</b>
+
+1409
+01:26:09,878 --> 01:26:11,838
+<b>mas suponho
+que já tenha visto o resultado.</b>
+
+1410
+01:26:13,631 --> 01:26:14,631
+<b>Dois risquinhos.</b>
+
+1411
+01:26:14,674 --> 01:26:17,719
+<b>Tem a sensação de que o mundo
+está desmoronando ao seu redor</b>
+
+1412
+01:26:19,095 --> 01:26:21,264
+<b>e nunca se sentiu
+tão sozinha e assustada.</b>
+
+1413
+01:26:21,681 --> 01:26:22,724
+<b>Sim.</b>
+
+1414
+01:26:25,643 --> 01:26:28,354
+<b>Vou te dizer o que vai acontecer
+se entrar por aquela porta.</b>
+
+1415
+01:26:29,105 --> 01:26:32,609
+<b>A primeira coisa que farão
+é um ultrassom, mas não te deixarão ver.</b>
+
+1416
+01:26:33,776 --> 01:26:34,777
+<b>Por que não?</b>
+
+1417
+01:26:34,861 --> 01:26:37,363
+<b>Porque eles não querem
+que você veja o seu bebê.</b>
+
+1418
+01:26:38,072 --> 01:26:39,908
+<b>Então por que eles fazem
+o ultrassom?</b>
+
+1419
+01:26:40,533 --> 01:26:43,453
+<b>Porque o ultrassom determina
+o tamanho do feto.</b>
+
+1420
+01:26:43,870 --> 01:26:46,247
+<b>E o tamanho do feto,
+principalmente do crânio,</b>
+
+1421
+01:26:46,331 --> 01:26:49,209
+<b>é o que determina o preço
+a ser cobrado de você.</b>
+
+1422
+01:26:53,004 --> 01:26:54,797
+<b>Por que está me contando isso?</b>
+
+1423
+01:26:56,341 --> 01:26:59,052
+<b>Porque eu entendo
+melhor do que ninguém</b>
+
+1424
+01:26:59,135 --> 01:27:01,846
+<b>que, dentro daquele prédio,
+não oferecem soluções.</b>
+
+1425
+01:27:01,930 --> 01:27:03,389
+<b>Só oferecem abortos.</b>
+
+1426
+01:27:03,473 --> 01:27:06,017
+<b>E, se você entrar lá, você não vai sair
+a mesma pessoa,</b>
+
+1427
+01:27:06,559 --> 01:27:08,019
+<b>porque é impossível.</b>
+
+1428
+01:27:08,102 --> 01:27:10,605
+<b>E todos querem fingir
+que é possível, mas não é.</b>
+
+1429
+01:27:11,481 --> 01:27:14,400
+<b>A verdade é que você pode deixá-los
+descartar o seu bebê,</b>
+
+1430
+01:27:14,776 --> 01:27:17,416
+<b>mas eles não serão capazes de descartar
+as recordações do seu bebê.</b>
+
+1431
+01:27:17,820 --> 01:27:21,491
+<b>E nem você,
+por mais que você tente.</b>
+
+1432
+01:27:24,994 --> 01:27:26,538
+<b>Não sei o que fazer.</b>
+
+1433
+01:27:28,289 --> 01:27:29,666
+<b>Qual seu nome?</b>
+
+1434
+01:27:31,626 --> 01:27:32,710
+<b>Hannah.</b>
+
+1435
+01:27:32,794 --> 01:27:34,712
+<b>Hannah, vai ficar tudo bem,
+eu prometo.</b>
+
+1436
+01:27:34,796 --> 01:27:37,841
+<b>E eu estarei presente a cada passo.
+Farei tudo que puder para ajudá-la.</b>
+
+1437
+01:27:40,802 --> 01:27:42,387
+<b>Se você entrar naquele carro...</b>
+
+1438
+01:27:57,068 --> 01:27:58,111
+<b>Tá bom.</b>
+
+1439
+01:28:15,461 --> 01:28:16,796
+<b>Bravo!</b>
+
+1440
+01:28:16,880 --> 01:28:17,714
+<b>Deixe-me adivinhar.</b>
+
+1441
+01:28:17,797 --> 01:28:19,549
+<b>Ex-diretora de clínica</b>
+
+1442
+01:28:19,632 --> 01:28:22,135
+<b>descreve a mecânica
+do desmembramento fetal.</b>
+
+1443
+01:28:22,218 --> 01:28:24,512
+<b>- Sabe, Cheryl...
+- Com todas as ferramentas envolvidas.</b>
+
+1444
+01:28:24,596 --> 01:28:25,763
+<b>Não foi assim.</b>
+
+1445
+01:28:25,847 --> 01:28:27,140
+<b>Que saber? Não importa.</b>
+
+1446
+01:28:27,891 --> 01:28:29,350
+<b>Você se tornou uma traidora.</b>
+
+1447
+01:28:29,767 --> 01:28:32,187
+<b>Algumas de nós
+ainda são leais à causa.</b>
+
+1448
+01:28:32,270 --> 01:28:35,398
+<b>Algumas de nós acreditam na proteção
+do direito de escolha da mulher.</b>
+
+1449
+01:28:35,481 --> 01:28:36,983
+<b>E nós que acreditamos</b>
+
+1450
+01:28:37,066 --> 01:28:39,736
+<b>somos parte de uma corporação
+de um bilhão de dólares,</b>
+
+1451
+01:28:39,819 --> 01:28:43,156
+<b>com advogados, lobistas
+e especialistas em mídia na equipe.</b>
+
+1452
+01:28:43,531 --> 01:28:46,326
+<b>Você já viu os nomes
+dos nossos doadores?</b>
+
+1453
+01:28:46,951 --> 01:28:49,662
+<b>Soros, Gates, Buffett.</b>
+
+1454
+01:28:49,746 --> 01:28:52,165
+<b>É quem nós temos.
+E quem você tem, Abby?</b>
+
+1455
+01:28:53,791 --> 01:28:54,918
+<b>Cheryl,</b>
+
+1456
+01:28:55,376 --> 01:28:57,670
+<b>o que você está fazendo é errado.</b>
+
+1457
+01:28:58,546 --> 01:28:59,547
+<b>É?</b>
+
+1458
+01:29:00,507 --> 01:29:02,258
+<b>Os Estados Unidos
+querem o aborto.</b>
+
+1459
+01:29:02,759 --> 01:29:05,887
+<b>É por isso que existimos,
+e continuaremos a existir</b>
+
+1460
+01:29:05,970 --> 01:29:08,365
+<b>por muito tempo depois que você
+e seus novos amigos se forem.</b>
+
+1461
+01:29:08,389 --> 01:29:13,186
+<b>Sim, sei tudo sobre eles.
+Achava mesmo que não descobriríamos?</b>
+
+1462
+01:29:14,020 --> 01:29:16,648
+<b>Ninguém nunca se voltou
+contra nós assim antes.</b>
+
+1463
+01:29:17,815 --> 01:29:19,943
+<b>Por isso, a diretiva nacional
+fará de você um exemplo.</b>
+
+1464
+01:29:20,985 --> 01:29:22,362
+<b>Então, parabéns.</b>
+
+1465
+01:29:23,154 --> 01:29:26,824
+<b>Você conseguiu se tornar inimiga de uma
+das organizações mais poderosas</b>
+
+1466
+01:29:26,908 --> 01:29:28,701
+<b>do planeta.</b>
+
+1467
+01:29:36,209 --> 01:29:38,169
+<b>Adoro este tapa-olho.</b>
+
+1468
+01:29:40,380 --> 01:29:41,506
+<b>Vire para cá, amor.</b>
+
+1469
+01:29:42,799 --> 01:29:46,010
+<b>Você lembra aquilo que comentei
+que a Cheryl disse?</b>
+
+1470
+01:29:46,094 --> 01:29:47,637
+<b>Seria meio difícil esquecer.</b>
+
+1471
+01:29:48,179 --> 01:29:51,391
+<b>Bem, a Megan não está
+retornando minhas ligações,</b>
+
+1472
+01:29:51,474 --> 01:29:53,643
+<b>e o número dela
+está fora de serviço.</b>
+
+1473
+01:29:54,310 --> 01:29:57,063
+<b>Podemos ir agora, por favor?</b>
+
+1474
+01:29:57,146 --> 01:29:59,232
+<b>A mamãe parece estar pronta?</b>
+
+1475
+01:29:59,315 --> 01:30:00,859
+<b>Não.</b>
+
+1476
+01:30:00,942 --> 01:30:03,444
+<b>E você precisa pegar
+sua varinha de joaninha lá em cima.</b>
+
+1477
+01:30:09,742 --> 01:30:12,495
+<b>- Ainda disposta a fazer isso?
+- Com certeza.</b>
+
+1478
+01:30:12,579 --> 01:30:16,791
+<b>Não vou deixar a Paternidade Planejada
+arruinar o Dia das Bruxas da nossa filha.</b>
+
+1479
+01:30:18,042 --> 01:30:19,169
+<b>Ou o seu.</b>
+
+1480
+01:30:20,545 --> 01:30:23,631
+<b>Sério, amor, quem criou este feriado
+merece uma medalha.</b>
+
+1481
+01:30:23,715 --> 01:30:26,426
+<b>Nós nos fantasiamos, agimos feito bobos
+e ainda ganhamos doces.</b>
+
+1482
+01:30:26,509 --> 01:30:27,552
+<b>Isso é muito legal!</b>
+
+1483
+01:30:27,635 --> 01:30:30,305
+<b>Você sabe que eles dão
+os doces para a Grace, certo?</b>
+
+1484
+01:30:30,388 --> 01:30:33,516
+<b>Sim, mas ela sabe que a participação
+do pai é essencial.</b>
+
+1485
+01:30:33,600 --> 01:30:36,936
+<b>Ela é nova nisso e eu já tenho
+décadas de experiência.</b>
+
+1486
+01:30:37,979 --> 01:30:38,980
+<b>Madame!</b>
+
+1487
+01:30:39,063 --> 01:30:41,149
+<b>- Tá, tudo bem.
+- Papai, vamos!</b>
+
+1488
+01:30:41,232 --> 01:30:43,443
+<b>- Vai na frente. Vou ligar para o Shawn.
+- Tá.</b>
+
+1489
+01:30:43,526 --> 01:30:44,819
+<b>Espere!</b>
+
+1490
+01:30:49,657 --> 01:30:50,533
+<b><i>Abby?</b></i>
+
+1491
+01:30:50,617 --> 01:30:52,297
+<b>Você viu as ameaças
+que a Cheryl me mandou?</b>
+
+1492
+01:30:52,368 --> 01:30:54,537
+<b>Vi. Estão nos processando.
+Precisaremos de advogados.</b>
+
+1493
+01:30:54,871 --> 01:30:58,249
+<b>Processando?
+Percebe o quanto isso é grave?</b>
+
+1494
+01:30:58,333 --> 01:30:59,501
+<b>Sim.</b>
+
+1495
+01:30:59,584 --> 01:31:02,295
+<b>E acabo de perceber que você
+está a 30 metros de mim. Abby!</b>
+
+1496
+01:31:04,547 --> 01:31:06,799
+<b>Por que não vai indo
+enquanto falo com a Abby?</b>
+
+1497
+01:31:07,342 --> 01:31:08,676
+<b>- Está bem.
+- Tchau, fofinha!</b>
+
+1498
+01:31:09,344 --> 01:31:10,595
+<b>Tem certeza?</b>
+
+1499
+01:31:10,678 --> 01:31:11,846
+<b>Sim.</b>
+
+1500
+01:31:11,930 --> 01:31:13,532
+<b>Fomos notificados
+pouco antes de eu sair do trabalho.</b>
+
+1501
+01:31:13,556 --> 01:31:16,035
+<b>Há um processo da Paternidade Planejada
+e uma ordem de restrição</b>
+
+1502
+01:31:16,059 --> 01:31:17,810
+<b>para que não falemos
+nada em público.</b>
+
+1503
+01:31:17,894 --> 01:31:19,395
+<b>A sua deve chegar na segunda.</b>
+
+1504
+01:31:19,479 --> 01:31:21,272
+<b>Quando pretendia me contar?</b>
+
+1505
+01:31:21,356 --> 01:31:24,484
+<b>Pensei em deixar você curtir a festa
+e depois ligar para você.</b>
+
+1506
+01:31:27,028 --> 01:31:28,112
+<b>O que vamos fazer?</b>
+
+1507
+01:31:28,196 --> 01:31:30,031
+<b>Já conversei com Jeff Paradowski.</b>
+
+1508
+01:31:30,114 --> 01:31:32,492
+<b>Acho que a resposta dele
+foi: "Estou nessa!"</b>
+
+1509
+01:31:32,575 --> 01:31:35,870
+<b>Espere aí. Aquele que está nos outdoors,
+apontando o dedo e dizendo:</b>
+
+1510
+01:31:35,954 --> 01:31:37,038
+<b>"Tenha o que você merece!"</b>
+
+1511
+01:31:38,206 --> 01:31:40,041
+<b>Sim. Ele é um velho amigo.</b>
+
+1512
+01:31:41,042 --> 01:31:44,587
+<b>Tá. Você sabe
+que advogados custam dinheiro</b>
+
+1513
+01:31:44,671 --> 01:31:45,839
+<b>e acabei de sair do emprego?</b>
+
+1514
+01:31:45,922 --> 01:31:48,383
+<b>Jeff não faz isso pela grana.
+Quer lutar contra o aborto.</b>
+
+1515
+01:31:48,466 --> 01:31:50,927
+<b>Vai abrir mão do seu sábado
+e nos encontrar amanhã de manhã.</b>
+
+1516
+01:31:53,680 --> 01:31:56,266
+<b>Abby, este é o Jeff.</b>
+
+1517
+01:31:56,683 --> 01:31:57,934
+<b>Jeff, esta é a Abby.</b>
+
+1518
+01:31:58,017 --> 01:32:00,854
+<b>TENHA O QUE VOCÊ MERECE!</b>
+
+1519
+01:32:07,193 --> 01:32:10,864
+<b>Bom, eles alegam que
+a Paternidade Planejada e suas pacientes</b>
+
+1520
+01:32:10,947 --> 01:32:13,616
+<b>enfrentam um dano iminente
+e irreparável</b>
+
+1521
+01:32:13,700 --> 01:32:16,262
+<b>decorrente de informações confidenciais
+que você divulgou indevidamente,</b>
+
+1522
+01:32:16,286 --> 01:32:18,413
+<b>ou está prestes a divulgar.</b>
+
+1523
+01:32:18,496 --> 01:32:19,496
+<b>Isso é mentira.</b>
+
+1524
+01:32:19,539 --> 01:32:21,833
+<b>Eles conseguiram convencer
+um juiz do contrário.</b>
+
+1525
+01:32:22,709 --> 01:32:24,878
+<b>A audiência preliminar
+é daqui a dez dias.</b>
+
+1526
+01:32:24,961 --> 01:32:28,798
+<b>Os advogados do demandante
+são de uma grande firma de Houston.</b>
+
+1527
+01:32:29,465 --> 01:32:32,927
+<b>Mas aposto que veremos também
+alguns rostos de Washington.</b>
+
+1528
+01:32:33,803 --> 01:32:36,806
+<b>Você é um peixe grande,
+e os tubarões estão cheirando sangue.</b>
+
+1529
+01:32:37,891 --> 01:32:42,520
+<b>E esteja preparada
+para ver Megan e Taylor</b>
+
+1530
+01:32:42,604 --> 01:32:43,938
+<b>dando uma versão dos fatos</b>
+
+1531
+01:32:44,022 --> 01:32:46,608
+<b>completamente diferente
+da que você descreveu para mim.</b>
+
+1532
+01:32:47,025 --> 01:32:48,318
+<b>Elas eram minhas amigas.</b>
+
+1533
+01:32:49,194 --> 01:32:50,236
+<b>Ênfase no "eram".</b>
+
+1534
+01:32:53,948 --> 01:32:57,410
+<b>Bom, Abby, vou fazer
+uma série de perguntas.</b>
+
+1535
+01:32:58,328 --> 01:33:00,330
+<b>Você pode levar
+o tempo que precisar</b>
+
+1536
+01:33:00,413 --> 01:33:03,374
+<b>para responder honestamente
+e pensar nelas quanto quiser.</b>
+
+1537
+01:33:03,833 --> 01:33:05,043
+<b>Tá bom.</b>
+
+1538
+01:33:05,126 --> 01:33:08,671
+<b>Você revelou a identidade
+dos médicos que fazem abortos</b>
+
+1539
+01:33:08,755 --> 01:33:11,382
+<b>na clínica para o Shawn
+ou qualquer outra pessoa?</b>
+
+1540
+01:33:11,466 --> 01:33:12,467
+<b>Não.</b>
+
+1541
+01:33:12,884 --> 01:33:15,803
+<b>Alguma vez retirou informações
+confidenciais de pacientes do prédio</b>
+
+1542
+01:33:15,887 --> 01:33:17,514
+<b>fisicamente
+ou em formato digital?</b>
+
+1543
+01:33:17,931 --> 01:33:18,973
+<b>Não.</b>
+
+1544
+01:33:20,558 --> 01:33:23,561
+<b>Você já levou ou retirou
+alguma coisa do prédio?</b>
+
+1545
+01:33:24,062 --> 01:33:25,730
+<b>Apenas um aspirador de pó antigo.</b>
+
+1546
+01:33:26,481 --> 01:33:29,859
+<b>O da clínica estava quebrado
+e não tínhamos orçamento para um novo,</b>
+
+1547
+01:33:29,943 --> 01:33:31,819
+<b>então levei o meu de casa.</b>
+
+1548
+01:33:31,903 --> 01:33:34,197
+<b>Mas quando eu saí,
+não iria deixá-lo lá.</b>
+
+1549
+01:33:34,697 --> 01:33:36,366
+<b>Isso e uma planta.</b>
+
+1550
+01:33:36,449 --> 01:33:38,034
+<b>Foi minha mãe
+que me deu aquela planta.</b>
+
+1551
+01:33:38,576 --> 01:33:39,577
+<b>Certo...</b>
+
+1552
+01:33:40,286 --> 01:33:43,206
+<b>Você ameaçou a Megan ou a Taylor</b>
+
+1553
+01:33:43,289 --> 01:33:45,792
+<b>caso não quisessem se demitir
+da Paternidade Planejada?</b>
+
+1554
+01:33:45,875 --> 01:33:48,294
+<b>Não. Como poderia?
+Eu nem era mais chefe delas.</b>
+
+1555
+01:33:49,754 --> 01:33:53,132
+<b>O que me leva à minha última
+e mais importante pergunta para você.</b>
+
+1556
+01:33:54,801 --> 01:33:56,052
+<b>O que está deixando de contar?</b>
+
+1557
+01:33:56,553 --> 01:33:57,554
+<b>Nada.</b>
+
+1558
+01:33:57,929 --> 01:33:58,930
+<b>Tem certeza?</b>
+
+1559
+01:33:59,013 --> 01:34:01,683
+<b>Porque,
+se estiver escondendo algo,</b>
+
+1560
+01:34:01,766 --> 01:34:03,852
+<b>garanto a você
+que virá à tona no tribunal.</b>
+
+1561
+01:34:04,269 --> 01:34:07,689
+<b>Então, se houver algo
+que eu precise saber,</b>
+
+1562
+01:34:08,565 --> 01:34:09,816
+<b>agora é a hora de me dizer,</b>
+
+1563
+01:34:09,899 --> 01:34:12,026
+<b>enquanto temos tempo
+para descobrir como resolver.</b>
+
+1564
+01:34:17,323 --> 01:34:18,449
+<b>Há algum tempo,</b>
+
+1565
+01:34:18,533 --> 01:34:22,704
+<b>a curiosidade tomou conta de mim
+e acessei minha própria ficha de paciente.</b>
+
+1566
+01:34:23,580 --> 01:34:25,081
+<b>Eu não consegui resistir.</b>
+
+1567
+01:34:25,665 --> 01:34:26,666
+<b>Por quê?</b>
+
+1568
+01:34:27,000 --> 01:34:28,918
+<b>Eu precisava ver meu bebê.</b>
+
+1569
+01:34:31,171 --> 01:34:32,422
+<b>Isso é um problema?</b>
+
+1570
+01:34:33,131 --> 01:34:34,215
+<b>Claro.</b>
+
+1571
+01:34:34,674 --> 01:34:37,177
+<b>Para a Paternidade Planejada,
+caso tentem criar caso com isso.</b>
+
+1572
+01:34:37,260 --> 01:34:40,054
+<b>Tentar taxá-la de criminosa
+por querer ver sua ficha?</b>
+
+1573
+01:34:40,138 --> 01:34:42,515
+<b>Tomara que sejam burros o bastante
+para tentar isso.</b>
+
+1574
+01:34:43,016 --> 01:34:44,934
+<b>Então, qual é a nossa defesa?</b>
+
+1575
+01:34:45,518 --> 01:34:46,561
+<b>Ela é inocente.</b>
+
+1576
+01:34:47,312 --> 01:34:49,647
+<b>- Só isso? Essa é nossa defesa?
+- É.</b>
+
+1577
+01:34:50,356 --> 01:34:51,900
+<b>Estamos bem ferrados.</b>
+
+1578
+01:34:52,442 --> 01:34:53,985
+<b>Abby, não complique o problema.</b>
+
+1579
+01:34:54,444 --> 01:34:58,865
+<b>Olha, a ênfase da queixa deles
+sobre possíveis danos futuros</b>
+
+1580
+01:34:58,948 --> 01:35:00,867
+<b>me diz que faltam a eles
+provas reais.</b>
+
+1581
+01:35:01,242 --> 01:35:02,577
+<b>Vou simplificar para você.</b>
+
+1582
+01:35:03,328 --> 01:35:04,528
+<b>A acusação não tem fundamento.</b>
+
+1583
+01:35:04,579 --> 01:35:06,748
+<b>Não conhece essa gente
+como eu conheço.</b>
+
+1584
+01:35:06,831 --> 01:35:09,083
+<b>A Paternidade Planejada
+não medirá esforços</b>
+
+1585
+01:35:09,167 --> 01:35:11,377
+<b>para destruir
+quem eles julgarem uma ameaça.</b>
+
+1586
+01:35:11,461 --> 01:35:14,339
+<b>Abby, existem duas palavras
+que são muito poderosas</b>
+
+1587
+01:35:14,422 --> 01:35:16,799
+<b>quando colocadas juntas
+no tribunal.</b>
+
+1588
+01:35:17,884 --> 01:35:18,884
+<b>Sabe quais são?</b>
+
+1589
+01:35:22,055 --> 01:35:23,097
+<b>"Prove isso".</b>
+
+1590
+01:35:26,976 --> 01:35:28,728
+<b>Confie em mim. Eu sei disso.</b>
+
+1591
+01:35:30,939 --> 01:35:33,441
+<b><i>E lá estava eu, morrendo de medo.</b></i>
+
+1592
+01:35:33,525 --> 01:35:37,111
+<b><i>Afinal, não é todo dia que se enfrenta
+uma corporação global,</b></i>
+
+1593
+01:35:37,195 --> 01:35:41,115
+<b><i>presente em 189 países e em todos
+os continentes, exceto na Antártida.</b></i>
+
+1594
+01:35:42,158 --> 01:35:45,495
+<b><i>Jeff parecia
+não se preocupar com nada.</b></i>
+
+1595
+01:35:45,870 --> 01:35:47,080
+<b><i>Shawn estava nervoso,</b></i>
+
+1596
+01:35:47,163 --> 01:35:49,916
+<b><i>Doug era meu porto seguro,
+e minha mãe era...</b></i>
+
+1597
+01:35:50,416 --> 01:35:51,626
+<b>Shawn!</b>
+
+1598
+01:35:51,709 --> 01:35:53,795
+<b>Bom, minha mãe.</b>
+
+1599
+01:35:55,630 --> 01:35:57,966
+<b>Obrigada
+por tirar minha filha de lá.</b>
+
+1600
+01:35:58,591 --> 01:36:01,886
+<b>Eu tinha medo de que a Abby fosse pra casa
+todo Natal durante os últimos oito anos</b>
+
+1601
+01:36:01,970 --> 01:36:04,055
+<b>falando mal do perverso Shawn.</b>
+
+1602
+01:36:04,138 --> 01:36:06,975
+<b>Ela falava,
+mas eu lia nas entrelinhas,</b>
+
+1603
+01:36:07,058 --> 01:36:08,768
+<b>por isso eu sabia que te amaria.</b>
+
+1604
+01:36:12,355 --> 01:36:14,023
+<b>- Obrigada.
+- De nada.</b>
+
+1605
+01:36:14,107 --> 01:36:17,360
+<b>Já chega de abraço.
+Vamos acabar com os caras.</b>
+
+1606
+01:36:18,361 --> 01:36:20,405
+<b>O que você espera
+do resultado de hoje?</b>
+
+1607
+01:36:20,488 --> 01:36:24,951
+<b>Com certeza, gostaria de ver a justiça
+sendo feita, e que as pessoas...</b>
+
+1608
+01:36:25,034 --> 01:36:29,372
+<b>Só quero ir lá contar àquelas pessoas
+o que realmente está acontecendo.</b>
+
+1609
+01:36:29,455 --> 01:36:31,332
+<b>Bem, você não vai.
+Está sob ordem de restrição.</b>
+
+1610
+01:36:31,791 --> 01:36:33,001
+<b>Deixe-me entender.</b>
+
+1611
+01:36:33,084 --> 01:36:35,879
+<b>Eles nos processam,
+embora não tenhamos feito nada errado.</b>
+
+1612
+01:36:35,962 --> 01:36:38,339
+<b>E aí nos amordaçam
+com uma ordem judicial.</b>
+
+1613
+01:36:38,423 --> 01:36:41,342
+<b>Depois realizam uma coletiva
+para falar o que quiserem,</b>
+
+1614
+01:36:41,426 --> 01:36:44,387
+<b>enquanto ficamos aqui quietos.
+Não é justo.</b>
+
+1615
+01:36:45,013 --> 01:36:48,808
+<b>A justiça da lei se faz
+de forma completamente diferente.</b>
+
+1616
+01:36:48,892 --> 01:36:51,936
+<b>Lamento sinceramente
+ter que levar isso aos tribunais.</b>
+
+1617
+01:36:52,020 --> 01:36:54,898
+<b>É a última coisa que queríamos,
+mas francamente, nossa prioridade...</b>
+
+1618
+01:36:54,981 --> 01:36:57,650
+<b>É errado eu querer
+dar um soco na cara dela?</b>
+
+1619
+01:36:58,318 --> 01:36:59,611
+<b>Sim, Abby, é errado.</b>
+
+1620
+01:37:00,236 --> 01:37:01,613
+<b>Essa é minha função.</b>
+
+1621
+01:37:16,503 --> 01:37:19,672
+<b>- O que é isso?
+- A tentativa deles de nos intimidar.</b>
+
+1622
+01:37:20,798 --> 01:37:22,634
+<b>- Está funcionando.
+- Não permita.</b>
+
+1623
+01:37:23,051 --> 01:37:25,428
+<b>Só estão enlameando a água
+para fazê-la parecer profunda.</b>
+
+1624
+01:37:26,429 --> 01:37:28,306
+<b>Trouxeram toda a firma.</b>
+
+1625
+01:37:28,389 --> 01:37:29,390
+<b>Nós também.</b>
+
+1626
+01:37:30,600 --> 01:37:31,809
+<b>Bom, vamos lá.</b>
+
+1627
+01:37:36,940 --> 01:37:39,359
+<b>Algo no seu advogado
+me parecia familiar.</b>
+
+1628
+01:37:39,984 --> 01:37:43,863
+<b>E então eu me dei conta de que
+ele é o cara dos outdoors, certo?</b>
+
+1629
+01:37:45,240 --> 01:37:46,366
+<b>Bom, sorte sua.</b>
+
+1630
+01:37:46,908 --> 01:37:49,410
+<b>Parece que você realmente
+vai "ter o que merece".</b>
+
+1631
+01:37:56,876 --> 01:37:58,002
+<b><i>Na vida real,</b></i>
+
+1632
+01:37:58,086 --> 01:38:01,172
+<b><i>às vezes as coisas
+não funcionam como esperamos.</b></i>
+
+1633
+01:38:01,256 --> 01:38:04,634
+<b><i>...pelo condado de Brazos,
+está agora em sessão.</b></i>
+
+1634
+01:38:05,844 --> 01:38:09,180
+<b><i>Se isso fosse apenas um filme,
+em vez da história da minha vida,</b></i>
+
+1635
+01:38:09,764 --> 01:38:14,143
+<b><i>então essa seria a parte em que haveria
+uma batalha épica travada em meu nome,</b></i>
+
+1636
+01:38:14,227 --> 01:38:15,687
+<b><i>cheia de reviravoltas</b></i>
+
+1637
+01:38:15,770 --> 01:38:18,565
+<b><i>e uma vitória improvável
+no último momento.</b></i>
+
+1638
+01:38:21,276 --> 01:38:23,069
+<b><i>Mas não foi isso que aconteceu.</b></i>
+
+1639
+01:38:24,112 --> 01:38:25,113
+<b>Mãe!</b>
+
+1640
+01:38:26,698 --> 01:38:30,493
+<b>Graças a Deus, porque eu não acho
+que teria suportado.</b>
+
+1641
+01:38:35,206 --> 01:38:37,750
+<b>Vocês sabem que vencemos, certo?</b>
+
+1642
+01:38:39,502 --> 01:38:42,672
+<b>No final,
+Jeff só levou 58 minutos</b>
+
+1643
+01:38:42,755 --> 01:38:45,008
+<b>para convencer o juiz
+de que eu era inocente.</b>
+
+1644
+01:38:45,091 --> 01:38:49,304
+<b>As mentiras e acusações
+da Paternidade Planejada de nada serviram.</b>
+
+1645
+01:38:49,929 --> 01:38:52,223
+<b>Em algum momento
+ficou preocupado?</b>
+
+1646
+01:38:52,307 --> 01:38:54,142
+<b>O quê? Eu? Preocupado?</b>
+
+1647
+01:38:54,225 --> 01:38:56,561
+<b>Eu suava como o Diabo
+na manhã de Páscoa.</b>
+
+1648
+01:39:06,279 --> 01:39:08,615
+<b>- Isso não acabou.
+- Claro que acabou.</b>
+
+1649
+01:39:08,698 --> 01:39:10,909
+<b>Você...
+não estava prestando atenção?</b>
+
+1650
+01:39:11,784 --> 01:39:14,245
+<b>A propósito, Abby me contou
+o que você disse.</b>
+
+1651
+01:39:14,329 --> 01:39:16,956
+<b>E, sim,
+eu sou o cara dos outdoors.</b>
+
+1652
+01:39:17,040 --> 01:39:20,126
+<b>Abby teve o que merecia
+e você também.</b>
+
+1653
+01:39:20,585 --> 01:39:22,712
+<b>E eu sou quem deu isso a você.</b>
+
+1654
+01:39:31,763 --> 01:39:35,558
+<b><i>E esse teria sido
+o fim da minha história, só que...</b></i>
+
+1655
+01:39:40,563 --> 01:39:41,397
+<b>Alô?</b>
+
+1656
+01:39:41,481 --> 01:39:43,441
+<b>Você não vai acreditar
+no que acabei de descobrir.</b>
+
+1657
+01:39:43,775 --> 01:39:45,068
+<b>A clínica está fechando.</b>
+
+1658
+01:39:46,236 --> 01:39:47,987
+<b>- Do que está falando?
+<i>- A clínica.</b></i>
+
+1659
+01:39:48,655 --> 01:39:50,990
+<b>A Paternidade Planejada
+está fechando para sempre.</b>
+
+1660
+01:39:51,074 --> 01:39:52,575
+<b>Tem certeza?</b>
+
+1661
+01:39:52,659 --> 01:39:54,661
+<b>Sim.
+O memorando está na minha mesa.</b>
+
+1662
+01:39:55,828 --> 01:39:56,996
+<b><i>Shawn estava certo.</b></i>
+
+1663
+01:39:57,539 --> 01:40:01,125
+<b><i>A Paternidade Planejada de Bryan,
+no Texas, finalmente fechou as portas</b></i>
+
+1664
+01:40:01,668 --> 01:40:04,838
+<b><i>em 1º de agosto de 2013.</b></i>
+
+1665
+01:40:04,921 --> 01:40:05,922
+<b>Pão.</b>
+
+1666
+01:40:07,882 --> 01:40:11,177
+<b><i>Para comemorar, todos nós decidimos
+nos reunir na cerca</b></i>
+
+1667
+01:40:11,261 --> 01:40:12,637
+<b><i>uma última vez.</b></i>
+
+1668
+01:40:13,137 --> 01:40:14,514
+<b>- Pronto?
+- Está brincando?</b>
+
+1669
+01:40:14,597 --> 01:40:16,266
+<b>Esperei por isso a vida toda!</b>
+
+1670
+01:40:16,349 --> 01:40:19,143
+<b>Derrubem! Derrubem!</b>
+
+1671
+01:40:20,019 --> 01:40:22,021
+<b>PATERNIDADE PLANEJADA</b>
+
+1672
+01:40:39,414 --> 01:40:42,292
+<b>Na minha mão,
+eu tenho duas rosas...</b>
+
+1673
+01:40:43,793 --> 01:40:46,546
+<b>uma para cada um
+dos meus filhos não nascidos</b>
+
+1674
+01:40:47,088 --> 01:40:50,925
+<b>que eu decidi sacrificar
+por pura conveniência.</b>
+
+1675
+01:40:52,010 --> 01:40:54,888
+<b>E sei que não sou a única
+que cometeu esse erro.</b>
+
+1676
+01:40:57,015 --> 01:41:00,852
+<b>Milhares de bebês foram perdidos
+para o aborto dentro destas paredes,</b>
+
+1677
+01:41:00,935 --> 01:41:02,478
+<b>inclusive um meu.</b>
+
+1678
+01:41:03,354 --> 01:41:05,064
+<b>E hoje, nós nos lembramos deles.</b>
+
+1679
+01:41:05,648 --> 01:41:08,610
+<b>Nós os honramos.
+Nós juramos nunca esquecê-los.</b>
+
+1680
+01:41:09,235 --> 01:41:11,988
+<b>Então gostaria de convidá-los para,
+junto comigo,</b>
+
+1681
+01:41:12,071 --> 01:41:16,159
+<b>colocar uma rosa na cerca
+em memória deles,</b>
+
+1682
+01:41:16,242 --> 01:41:19,913
+<b>como prova
+de que não serão esquecidos.</b>
+
+1683
+01:41:41,809 --> 01:41:45,271
+<b>Eu escrevi uma carta
+para vocês dois.</b>
+
+1684
+01:41:49,817 --> 01:41:51,819
+<b>Mas as palavras não importam.</b>
+
+1685
+01:41:55,240 --> 01:42:00,119
+<b>Só o que quero que saibam
+é que eu amo tanto vocês...</b>
+
+1686
+01:42:01,371 --> 01:42:03,081
+<b>e eu sinto muito...</b>
+
+1687
+01:42:03,414 --> 01:42:06,459
+<b>lamento não ter lutado
+por vocês...</b>
+
+1688
+01:42:07,544 --> 01:42:10,755
+<b>não tê-los amado o bastante
+para evitar que isso acontecesse.</b>
+
+1689
+01:42:14,801 --> 01:42:16,845
+<b>Eu penso em vocês todos os dias.</b>
+
+1690
+01:42:22,725 --> 01:42:25,019
+<b>Mas eu sei que um dia</b>
+
+1691
+01:42:25,770 --> 01:42:27,564
+<b>encontrarei vocês no Céu,</b>
+
+1692
+01:42:28,189 --> 01:42:30,650
+<b>porque Deus é misericordioso.</b>
+
+1693
+01:42:33,236 --> 01:42:36,489
+<b>E Ele ouviu meu pranto
+e me perdoou.</b>
+
+1694
+01:42:36,573 --> 01:42:38,366
+<b>PARA MEUS FILHOS</b>
+
+1695
+01:43:14,194 --> 01:43:16,988
+<b>ESTE FILME FOI FEITO
+SEM A PERMISSÃO OU COLABORAÇÃO</b>
+
+1696
+01:43:17,071 --> 01:43:19,657
+<b>DA PATERNIDADE PLANEJADA
+E NÃO TEM CONEXÃO</b>
+
+1697
+01:43:19,741 --> 01:43:22,869
+<b>COM SEUS DIRETORES, FUNCIONÁRIOS,
+SUBSIDIÁRIAS OU AFILIADAS.</b>
+
+1698
+01:43:33,630 --> 01:43:36,216
+<b>ATÉ O MOMENTO,
+A ORGANIZAÇÃO DE ABBY JOHNSON,</b>
+
+1699
+01:43:36,299 --> 01:43:39,344
+<b>"AND THEN THERE WERE NONE",
+AJUDOU MAIS DE 500 FUNCIONÁRIOS</b>
+
+1700
+01:43:39,427 --> 01:43:41,971
+<b>A SAIR DA INDÚSTRIA DO ABORTO.</b>
+
+1701
+01:43:42,055 --> 01:43:45,183
+<b>A CLÍNICA ONDE ABBY TRABALHOU
+É AGORA A SEDE NACIONAL</b>
+
+1702
+01:43:45,266 --> 01:43:46,935
+<b>DA "40 DIAS PELA VIDA",</b>
+
+1703
+01:43:47,018 --> 01:43:48,978
+<b>DA QUAL SHAWN CARNEY
+É O PRESIDENTE.</b>
+
+1704
+01:43:49,062 --> 01:43:51,231
+<b>EM VEZ DE TEREM APENAS UM,
+ABBY E DOUG</b>
+
+1705
+01:43:51,314 --> 01:43:53,566
+<b>CELEBRAM SEU OITAVO FILHO.</b>
+
+1706
+01:44:15,213 --> 01:44:17,924
+<b><i>Estou olhando para uma obra prima</b>.</i>
+
+1707
+01:44:19,467 --> 01:44:22,470
+<b><i>Estou olhando
+Para uma obra de arte</b>.</i>
+
+1708
+01:44:23,388 --> 01:44:26,307
+<b><i>Estou ouvindo uma sinfonia</b>.</i>
+
+1709
+01:44:26,724 --> 01:44:30,353
+<b><i>Em cada batida
+Do seu pequeno coração</b>.</i>
+
+1710
+01:44:31,688 --> 01:44:34,607
+<b><i>Você costumava ser
+Uma escolha para fazer</b>.</i>
+
+1711
+01:44:36,025 --> 01:44:39,362
+<b><i>Mas agora eu acho
+Que você me escolheu</b>.</i>
+
+1712
+01:44:40,029 --> 01:44:47,120
+<b><i>Porque eu vejo dez dedos, dez dedos
+Dois olhos e eu sei que isso é para ser</b>.</i>
+
+1713
+01:44:49,247 --> 01:44:53,668
+<b><i>Oh, eu não acredito em acidentes</b>.</i>
+
+1714
+01:44:53,751 --> 01:44:57,505
+<b><i>Milagres
+Eles não acontecem por acaso</b>.</i>
+
+1715
+01:44:57,589 --> 01:45:01,509
+<b><i>Enquanto meu Deus segurar
+O mundo em Suas mãos</b>.</i>
+
+1716
+01:45:01,968 --> 01:45:05,805
+<b><i>Eu sei que não existe
+Algo não planejado</b>.</i>
+
+1717
+01:45:24,699 --> 01:45:27,493
+<b><i>Quebrado se transforma em bonito</b>.</i>
+
+1718
+01:45:28,620 --> 01:45:32,123
+<b><i>Eu vejo você bem diante
+Dos meus olhos</b>.</i>
+
+1719
+01:45:32,749 --> 01:45:39,923
+<b><i>E cada respiração você respira
+É o destino que o amor trouxe à vida</b>.</i>
+
+1720
+01:45:40,924 --> 01:45:44,052
+<b><i>Eu pensei que era
+O fim da minha história</b>.</i>
+
+1721
+01:45:45,053 --> 01:45:48,264
+<b><i>Mas agora o futuro
+É tudo que vejo</b>.</i>
+
+1722
+01:45:48,848 --> 01:45:52,268
+<b><i>Em vez de perguntar quem
+Você poderia ter sido</b>.</i>
+
+1723
+01:45:52,352 --> 01:45:56,356
+<b><i>Eu estou querendo saber
+Quem você vai ser</b>.</i>
+
+1724
+01:45:58,483 --> 01:46:02,487
+<b><i>Porque eu não acredito
+Em acidentes</b>.</i>
+
+1725
+01:46:02,946 --> 01:46:06,574
+<b><i>Milagres
+Eles não acontecem por acaso</b>.</i>
+
+1726
+01:46:06,658 --> 01:46:10,787
+<b><i>Enquanto meu Deus segurar
+O mundo em Suas mãos</b>.</i>
+
+1727
+01:46:11,162 --> 01:46:15,291
+<b><i>Eu sei que não existe
+Algo não planejado</b>.</i>
+
+1728
+01:46:19,754 --> 01:46:22,966
+<b><i>Toda vida merece uma voz</b>.</i>
+
+1729
+01:46:23,967 --> 01:46:27,095
+<b><i>Toda criança merece uma chance</b>.</i>
+
+1730
+01:46:28,179 --> 01:46:31,724
+<b><i>Você é mais
+Do que apenas uma escolha</b>.</i>
+
+1731
+01:46:32,809 --> 01:46:36,229
+<b><i>Não existe tal coisa
+Não planejada</b>.</i>
+
+1732
+01:46:36,312 --> 01:46:39,607
+<b><i>Toda vida merece uma voz</b>.</i>
+
+1733
+01:46:40,400 --> 01:46:43,820
+<b><i>Toda criança merece uma chance</b>.</i>
+
+1734
+01:46:44,696 --> 01:46:48,324
+<b><i>Você é mais
+Do que apenas uma escolha</b>.</i>
+
+1735
+01:46:49,033 --> 01:46:52,203
+<b><i>Porque não há tal coisa
+Como não planejada</b>.</i>
+
+1736
+01:46:52,912 --> 01:46:56,249
+<b><i>Toda vida merece uma voz</b>.</i>
+
+1737
+01:46:57,083 --> 01:47:00,336
+<b><i>Toda criança merece uma chance</b>.</i>
+
+1738
+01:47:01,254 --> 01:47:04,841
+<b><i>Você é mais
+Do que apenas uma escolha</b>.</i>
+
+1739
+01:47:05,800 --> 01:47:09,554
+<b><i>Porque não há tal coisa
+Como não planejada</b></i>
+
